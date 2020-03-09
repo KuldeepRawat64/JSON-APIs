@@ -2,237 +2,237 @@
  
   
     {
-      "id":"1",
+      "id":1,
       "code":"11040800403",
       "name":"CENTRAL POINT ACADEMY"
     },
     {
-      "id":"2",
+      "id":2,
       "code":"11040802103",
       "name":"ESWARAMA SAI GURUKUL"
     },
     {
-      "id":"3",
+      "id":3,
       "code":"11040802102",
       "name":"ETERNAL ENGLISH SCHOOL"
     },
     {
-      "id":"4",
+      "id":4,
       "code":"11040800302",
       "name":"NEW GARDEN ENG SACHOOL (PVT)"
     },
     {
-      "id":"5",
+      "id":5,
       "code":"11040801103",
       "name":"PADMA KUMARI PUBLIC"
     },
     {
-      "id":"6",
+      "id":6,
       "code":"11040801102",
       "name":"SUNRISE SCHOOL (PVT)"
     },
     {
-      "id":"7",
+      "id":7,
       "code":"11040800904",
       "name":"Chandra Kumari Chettri Memorial School"
     },
     {
-      "id":"8",
+      "id":8,
       "code":"11040800903",
       "name":"DIVYA JYOTI SCHOOL (P)"
     },
     {
-      "id":"9",
+      "id":9,
       "code":"11040800902",
       "name":"EDEN GARDEN SCHOOL (P)"
     },
     {
-      "id":"10",
+      "id":10,
       "code":"11040800905",
       "name":"Hansraj Academy"
     },
     {
-      "id":"11",
+      "id":11,
       "code":"11040800901",
       "name":"LITTLE BELLS (PVT)"
     },
     {
-      "id":"12",
+      "id":12,
       "code":"11040801002",
       "name":"NEW HORIZON ACADEMY"
     },
     {
-      "id":"13",
+      "id":13,
       "code":"11040800702",
       "name":"NEW VISION ACADEMY"
     },
     {
-      "id":"14",
+      "id":14,
       "code":"11040802105",
       "name":"TINY TOTS SCHOOL (P)"
     },
     {
-      "id":"15",
+      "id":15,
       "code":"11040300102",
       "name":"DE NOBILE ACADEMY (PVT)"
     },
     {
-      "id":"16",
+      "id":16,
       "code":"11040300304",
       "name":"KHATEK PEMA CHOLING MONASTIC SCHOOL"
     },
     {
-      "id":"17",
+      "id":17,
       "code":"11040301503",
       "name":"LITTLE ANGEL SCHOOL"
     },
     {
-      "id":"18",
+      "id":18,
       "code":"11040300303",
       "name":"NEW VISION ACADEMY"
     },
     {
-      "id":"19",
+      "id":19,
       "code":"11040300103",
       "name":"ST .PATRICK"
     },
     {
-      "id":"20",
+      "id":20,
       "code":"11040300305",
       "name":"TENDER BUDS ACADEMY"
     },
     {
-      "id":"21",
+      "id":21,
       "code":"11040304205",
       "name":"JUBILANT SCHOOL"
     },
     {
-      "id":"22",
+      "id":22,
       "code":"11040303102",
       "name":"PADMA ODZER CHOLING"
     },
     {
-      "id":"23",
+      "id":23,
       "code":"11040303902",
       "name":"TINY KIDS ACADEMY (PVT)"
     },
     {
-      "id":"24",
+      "id":24,
       "code":"11040304207",
       "name":"TSUGLAGKHANG MONASTIC SCHOOL"
     },
     {
-      "id":"25",
+      "id":25,
       "code":"11040302003",
       "name":"BAHAI SCHOOL"
     },
     {
-      "id":"26",
+      "id":26,
       "code":"11040301002",
       "name":"DREAM LAND ACADEMY (PVT"
     },
     {
-      "id":"27",
+      "id":27,
       "code":"11040302010",
       "name":"DREAMLAND ACADEMY"
     },
     {
-      "id":"28",
+      "id":28,
       "code":"11040302007",
       "name":"GEN NEXT ACADEMY"
     },
     {
-      "id":"29",
+      "id":29,
       "code":"11040302006",
       "name":"GOLDEN KIDS'"
     },
     {
-      "id":"30",
+      "id":30,
       "code":"11040302012",
       "name":"GREEN DALE SSS"
     },
     {
-      "id":"31",
+      "id":31,
       "code":"11040302202",
       "name":"HOLY CROSS (PVT)"
     },
     {
-      "id":"32",
+      "id":32,
       "code":"11040302002",
       "name":"JOYBELLS (PVT)"
     },
     {
-      "id":"33",
+      "id":33,
       "code":"11040302009",
       "name":"MICKEYS INTERNATIONAL SCHOOL"
     },
     {
-      "id":"34",
+      "id":34,
       "code":"11040302005",
       "name":"MOUNT ZION KIDZEE"
     },
     {
-      "id":"35",
+      "id":35,
       "code":"11040301010",
       "name":"MT.CARMEL ACADEMY"
     },
     {
-      "id":"36",
+      "id":36,
       "code":"11040301008",
       "name":"PALDEN KHANGSAR SCHOOL"
     },
     {
-      "id":"37",
+      "id":37,
       "code":"11040302004",
       "name":"ROCK VALE ACADEMY"
     },
     {
-      "id":"38",
+      "id":38,
       "code":"11040302303",
       "name":"SAI GURUKUL ACADEMY"
     },
     {
-      "id":"39",
+      "id":39,
       "code":"11040302011",
       "name":"SARASWATI VIDYA NIKETAN"
     },
     {
-      "id":"40",
+      "id":40,
       "code":"11040301007",
       "name":"SA-VELLIE ROW"
     },
     {
-      "id":"41",
+      "id":41,
       "code":"11040301004",
       "name":"SERNYA SCHOOL"
     },
     {
-      "id":"42",
+      "id":42,
       "code":"11040301105",
       "name":"SYARI MODEL SCHOOL"
     },
     {
-      "id":"43",
+      "id":43,
       "code":"11040302203",
       "name":"TINY PEARLS"
     },
     {
-      "id":"44",
+      "id":44,
       "code":"11040302013",
       "name":"TOUCH WOOD ACADEMY"
     },
     {
-      "id":"45",
+      "id":45,
       "code":"11040305504",
       "name":"ANNES HOUSE"
     },
     {
-      "id":"46",
+      "id":46,
       "code":"11040300808",
       "name":"ANNES HOUSE NUSERY"
     },
     {
-      "id":"47",
+      "id":47,
       "code":"11040300815",
       "name":"DAFFODILS' HOME"
     },
