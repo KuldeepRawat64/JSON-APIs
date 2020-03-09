@@ -1,0 +1,7718 @@
+{
+  "fields": [
+    {
+      "id": "a",
+      "label": "Sl.no",
+      "type": "string"
+    },
+    {
+      "id": "b",
+      "label": "School Code",
+      "type": "string"
+    },
+    {
+      "id": "c",
+      "label": "School Name",
+      "type": "string"
+    }
+  ],
+  "data": [
+    [
+      "1",
+      "11040800403",
+      "CENTRAL POINT ACADEMY"
+    ],
+    [
+      "2",
+      "11040802103",
+      "ESWARAMA SAI GURUKUL"
+    ],
+    [
+      "3",
+      "11040802102",
+      "ETERNAL ENGLISH SCHOOL"
+    ],
+    [
+      "4",
+      "11040800302",
+      "NEW GARDEN ENG SACHOOL (PVT)"
+    ],
+    [
+      "5",
+      "11040801103",
+      "PADMA KUMARI PUBLIC"
+    ],
+    [
+      "6",
+      "11040801102",
+      "SUNRISE SCHOOL (PVT)"
+    ],
+    [
+      "7",
+      "11040800904",
+      "Chandra Kumari Chettri Memorial School"
+    ],
+    [
+      "8",
+      "11040800903",
+      "DIVYA JYOTI SCHOOL (P)"
+    ],
+    [
+      "9",
+      "11040800902",
+      "EDEN GARDEN SCHOOL (P)"
+    ],
+    [
+      "10",
+      "11040800905",
+      "Hansraj Academy"
+    ],
+    [
+      "11",
+      "11040800901",
+      "LITTLE BELLS (PVT)"
+    ],
+    [
+      "12",
+      "11040801002",
+      "NEW HORIZON ACADEMY"
+    ],
+    [
+      "13",
+      "11040800702",
+      "NEW VISION ACADEMY"
+    ],
+    [
+      "14",
+      "11040802105",
+      "TINY TOTS SCHOOL (P)"
+    ],
+    [
+      "15",
+      "11040300102",
+      "DE NOBILE ACADEMY (PVT)"
+    ],
+    [
+      "16",
+      "11040300304",
+      "KHATEK PEMA CHOLING MONASTIC SCHOOL"
+    ],
+    [
+      "17",
+      "11040301503",
+      "LITTLE ANGEL SCHOOL"
+    ],
+    [
+      "18",
+      "11040300303",
+      "NEW VISION ACADEMY"
+    ],
+    [
+      "19",
+      "11040300103",
+      "ST .PATRICK"
+    ],
+    [
+      "20",
+      "11040300305",
+      "TENDER BUDS ACADEMY"
+    ],
+    [
+      "21",
+      "11040304205",
+      "JUBILANT SCHOOL"
+    ],
+    [
+      "22",
+      "11040303102",
+      "PADMA ODZER CHOLING"
+    ],
+    [
+      "23",
+      "11040303902",
+      "TINY KIDS ACADEMY (PVT)"
+    ],
+    [
+      "24",
+      "11040304207",
+      "TSUGLAGKHANG MONASTIC SCHOOL"
+    ],
+    [
+      "25",
+      "11040302003",
+      "BAHAI SCHOOL"
+    ],
+    [
+      "26",
+      "11040301002",
+      "DREAM LAND ACADEMY (PVT"
+    ],
+    [
+      "27",
+      "11040302010",
+      "DREAMLAND ACADEMY"
+    ],
+    [
+      "28",
+      "11040302007",
+      "GEN NEXT ACADEMY"
+    ],
+    [
+      "29",
+      "11040302006",
+      "GOLDEN KIDS'"
+    ],
+    [
+      "30",
+      "11040302012",
+      "GREEN DALE SSS"
+    ],
+    [
+      "31",
+      "11040302202",
+      "HOLY CROSS (PVT)"
+    ],
+    [
+      "32",
+      "11040302002",
+      "JOYBELLS (PVT)"
+    ],
+    [
+      "33",
+      "11040302009",
+      "MICKEYS INTERNATIONAL SCHOOL"
+    ],
+    [
+      "34",
+      "11040302005",
+      "MOUNT ZION KIDZEE"
+    ],
+    [
+      "35",
+      "11040301010",
+      "MT.CARMEL ACADEMY"
+    ],
+    [
+      "36",
+      "11040301008",
+      "PALDEN KHANGSAR SCHOOL"
+    ],
+    [
+      "37",
+      "11040302004",
+      "ROCK VALE ACADEMY"
+    ],
+    [
+      "38",
+      "11040302303",
+      "SAI GURUKUL ACADEMY"
+    ],
+    [
+      "39",
+      "11040302011",
+      "SARASWATI VIDYA NIKETAN"
+    ],
+    [
+      "40",
+      "11040301007",
+      "SA-VELLIE ROW"
+    ],
+    [
+      "41",
+      "11040301004",
+      "SERNYA SCHOOL"
+    ],
+    [
+      "42",
+      "11040301105",
+      "SYARI MODEL SCHOOL"
+    ],
+    [
+      "43",
+      "11040302203",
+      "TINY PEARLS"
+    ],
+    [
+      "44",
+      "11040302013",
+      "TOUCH WOOD ACADEMY"
+    ],
+    [
+      "45",
+      "11040305504",
+      "ANNES HOUSE"
+    ],
+    [
+      "46",
+      "11040300808",
+      "ANNES HOUSE NUSERY"
+    ],
+    [
+      "47",
+      "11040300815",
+      "DAFFODILS' HOME"
+    ],
+    [
+      "48",
+      "11040304204",
+      "HAPPY HOURS (PVT)"
+    ],
+    [
+      "49",
+      "11040304206",
+      "INDRIA GHANDHI"
+    ],
+    [
+      "50",
+      "11040300817",
+      "KIDDIES CORNER"
+    ],
+    [
+      "51",
+      "11040300812",
+      "KYI-DE-KHANG SEC.SCHOOL"
+    ],
+    [
+      "52",
+      "11040300805",
+      "LITTLE ANGELS ACADEMY"
+    ],
+    [
+      "53",
+      "11040314901",
+      "MANJUSRI CITY (PUBLIC) SCHOOL"
+    ],
+    [
+      "54",
+      "11040316001",
+      "MARIGOLD ACADEMY"
+    ],
+    [
+      "55",
+      "11040315601",
+      "PALKHANG ACADEMY"
+    ],
+    [
+      "56",
+      "11040302302",
+      "PRASHANT VIDYA MANDIR SS(PVT)"
+    ],
+    [
+      "57",
+      "11040300907",
+      "ST. JOHN'S JHS SCHOOL"
+    ],
+    [
+      "58",
+      "11040300810",
+      "ST. THOMAS SCHOOL"
+    ],
+    [
+      "59",
+      "11040300816",
+      "WREN'S PUBLIC SCHOOL"
+    ],
+    [
+      "60",
+      "11040305503",
+      "ENLIGHTEN ACADEMY"
+    ],
+    [
+      "61",
+      "11040305702",
+      "KIDS WORLD (PVT)"
+    ],
+    [
+      "62",
+      "11040305802",
+      "MAYAL ENG SCHOOL (PVT)"
+    ],
+    [
+      "63",
+      "11040305502",
+      "NORTH POINT SCHOOL"
+    ],
+    [
+      "64",
+      "11040305805",
+      "PARADISE ACADEMY"
+    ],
+    [
+      "65",
+      "11040305804",
+      "RAINDOW PRY (PVT)"
+    ],
+    [
+      "66",
+      "11040305706",
+      "TAKTSE INTERNATIONAL SCHOOL"
+    ],
+    [
+      "67",
+      "11040603202",
+      "ANSHU ACADEMY"
+    ],
+    [
+      "68",
+      "11040604802",
+      "BETHESDA ACADEMY (PVT)"
+    ],
+    [
+      "69",
+      "11040604502",
+      "BRIGHT LIFE ACADEMY"
+    ],
+    [
+      "70",
+      "11040604902",
+      "GREEN FILED ACADEMY (PVT)"
+    ],
+    [
+      "71",
+      "11040603102",
+      "ST. THOMAS SCHOOL"
+    ],
+    [
+      "72",
+      "11040601604",
+      "ADARSH VIDHYA MANDIR"
+    ],
+    [
+      "73",
+      "11040602608",
+      "ARCHIGOS PREPARATORY ACADEMY"
+    ],
+    [
+      "74",
+      "11040601102",
+      "BAPTIST ENG . SCHOOL (PVT)"
+    ],
+    [
+      "75",
+      "11040602001",
+      "EAST POINT SS (PVT)"
+    ],
+    [
+      "76",
+      "11040601402",
+      "GOD WIN ENG SCHOOL (PVT)"
+    ],
+    [
+      "77",
+      "11040603801",
+      "KING GEORGE ACADEMY"
+    ],
+    [
+      "78",
+      "11040602604",
+      "NEW GARDEN BDG. SCHOOL"
+    ],
+    [
+      "79",
+      "11040601103",
+      "NIM VALLEY SCHOOL"
+    ],
+    [
+      "80",
+      "11040602602",
+      "P.NM SCHOOL (PVT)"
+    ],
+    [
+      "81",
+      "11040602605",
+      "RADIANT STARS ACADEMY"
+    ],
+    [
+      "82",
+      "11040601202",
+      "REHMA ENGLISH SCHOOL"
+    ],
+    [
+      "83",
+      "11040602607",
+      "SIGALILA ACADEMY"
+    ],
+    [
+      "84",
+      "11040602502",
+      "TRUE LIGHT ACADEMY"
+    ],
+    [
+      "85",
+      "11041000803",
+      "BAHA'I SCHOOL, SARAMSA"
+    ],
+    [
+      "86",
+      "11041000802",
+      "CANAAN SCHOOL"
+    ],
+    [
+      "87",
+      "11041000808",
+      "HIMALAYAN ACADEMY"
+    ],
+    [
+      "88",
+      "11041000801",
+      "INDRAKIL SARASWATI VIDHALAYA"
+    ],
+    [
+      "89",
+      "11041000805",
+      "SARASWATI VIDYA NIKETAN"
+    ],
+    [
+      "90",
+      "11041000103",
+      "SUNMARG ACADEMY"
+    ],
+    [
+      "91",
+      "11041000806",
+      "TINY PEARLS SCHOOL"
+    ],
+    [
+      "92",
+      "11041002001",
+      "CHILDRENS WORLD ACADEMY (PVT"
+    ],
+    [
+      "93",
+      "11041002002",
+      "MINI LAND PUBLIC SCHOOL"
+    ],
+    [
+      "94",
+      "11041002101",
+      "ST. JOSHEP SS"
+    ],
+    [
+      "95",
+      "11040100105",
+      "LITTLE ANGEL ENGLISH SCHOOL"
+    ],
+    [
+      "96",
+      "11040103302",
+      "LITTLE ANGEL SCHOOL"
+    ],
+    [
+      "97",
+      "11040100103",
+      "SARASWATI SISHU VIDYALAYA"
+    ],
+    [
+      "98",
+      "11040100802",
+      "ST JOHN ENGLISH SCHOOL"
+    ],
+    [
+      "99",
+      "11040102508",
+      "ANNIE'S HOME"
+    ],
+    [
+      "100",
+      "11040102509",
+      "CANARY BIRD ACADEMY"
+    ],
+    [
+      "101",
+      "11040102504",
+      "PUSHPANJALI VIDHALAYA"
+    ],
+    [
+      "102",
+      "11040100702",
+      "SAI GURUKUL ACADEMY"
+    ],
+    [
+      "103",
+      "11040100202",
+      "SARASWATI VIDYA NIKETAN"
+    ],
+    [
+      "104",
+      "11040102903",
+      "SPLENDOUR ACADEMY"
+    ],
+    [
+      "105",
+      "11040102503",
+      "ST. XAVIER (PVT)"
+    ],
+    [
+      "106",
+      "11040100402",
+      "ST.STEVEN'S SCHOOL"
+    ],
+    [
+      "107",
+      "11040100403",
+      "VENUS ACADEMY"
+    ],
+    [
+      "108",
+      "11040100902",
+      "WISDOM LAKE"
+    ],
+    [
+      "109",
+      "11040101403",
+      "HANSAVAHINI SISHU MANDIR AMBA"
+    ],
+    [
+      "110",
+      "11040101002",
+      "PHUSPANJALI VIDHALAYA"
+    ],
+    [
+      "111",
+      "11040100302",
+      "VENUS ACADEMY"
+    ],
+    [
+      "112",
+      "11041100104",
+      "GREEN VALE ACADEMY"
+    ],
+    [
+      "113",
+      "11041100202",
+      "Rainbow Academy"
+    ],
+    [
+      "114",
+      "11041100502",
+      "Bethal Pvt. School"
+    ],
+    [
+      "115",
+      "11040701902",
+      "CHILDREN PREPARATORY (PVT"
+    ],
+    [
+      "116",
+      "11040700804",
+      "RISING STAR (PVT)"
+    ],
+    [
+      "117",
+      "11040700602",
+      "SPRINGDALE SCHOOL (PVT)"
+    ],
+    [
+      "118",
+      "11040700802",
+      "SUNRISE BOARDING SCHOOL (PVT)"
+    ],
+    [
+      "119",
+      "11040700604",
+      "TISTA MODEL ACADEMY"
+    ],
+    [
+      "120",
+      "11040700204",
+      "DIAMOND ENG SCHOOL (PVT)"
+    ],
+    [
+      "121",
+      "11040700404",
+      "ENGLIGHTENED ACADEMY"
+    ],
+    [
+      "122",
+      "11040700302",
+      "GYAN KUNJA (PVT)"
+    ],
+    [
+      "123",
+      "11040700403",
+      "SARASWATI VIDYA NIKETAN"
+    ],
+    [
+      "124",
+      "11040701404",
+      "SARASWATI VIDYA NIKETAN"
+    ],
+    [
+      "125",
+      "11040900803",
+      "AMBIKA DAHAL MEM. SCHOOL (PVT)"
+    ],
+    [
+      "126",
+      "11040901203",
+      "GRACE ACADEMY"
+    ],
+    [
+      "127",
+      "11040901601",
+      "INDIRA MEMORIAL ACADEMY"
+    ],
+    [
+      "128",
+      "11040901202",
+      "NAV YUG PUBLIC SCHOOL"
+    ],
+    [
+      "129",
+      "11040901102",
+      "STAR LIGHT ACADEMY"
+    ],
+    [
+      "130",
+      "11040900105",
+      "BLOOSOM (PVT)"
+    ],
+    [
+      "131",
+      "11040900110",
+      "KARMA DHARMA CHAKRA UPS"
+    ],
+    [
+      "132",
+      "11040902001",
+      "MAYAL KATEN NAMGYALLING ACADEMY SCHOOL"
+    ],
+    [
+      "133",
+      "11040900106",
+      "PIONEER PREPARATORY SCHOOL"
+    ],
+    [
+      "134",
+      "11040400107",
+      "DOLPHIN ACADEMY"
+    ],
+    [
+      "135",
+      "11040400104",
+      "GREAT HEIGHT ACADEMY"
+    ],
+    [
+      "136",
+      "11040401502",
+      "RAINBOW ACADEMY (PVT)"
+    ],
+    [
+      "137",
+      "11040400108",
+      "ST MARY SCHOOL"
+    ],
+    [
+      "138",
+      "11040400602",
+      "RISING NURSERY ACADEMY (PVT)"
+    ],
+    [
+      "139",
+      "11040400605",
+      "SARASWATI SISHU VIDYALA"
+    ],
+    [
+      "140",
+      "11040404004",
+      "SARASWATI VIDYA NIKETAN"
+    ],
+    [
+      "141",
+      "11040404005",
+      "ST JOSEPH SCHOOL"
+    ],
+    [
+      "142",
+      "11040401002",
+      "BOSKO ENG SCHOOL (PVT)"
+    ],
+    [
+      "143",
+      "11040400205",
+      "GOOD STAR ENG SCHOOL"
+    ],
+    [
+      "144",
+      "11040401803",
+      "PEMA TSEL ACADEMY"
+    ],
+    [
+      "145",
+      "11040400204",
+      "SARASWATI SISHU MANDIR"
+    ],
+    [
+      "146",
+      "11040402202",
+      "LITTLE STARS ACADEMY"
+    ],
+    [
+      "147",
+      "11040400209",
+      "RIVERINE ELEMENTRY SCHOOL"
+    ],
+    [
+      "148",
+      "11040400203",
+      "SUNRISE MODEL"
+    ],
+    [
+      "149",
+      "11040400208",
+      "VIDYA BHARATI SCHOOL"
+    ],
+    [
+      "150",
+      "11040506802",
+      "BAHAI SCHOOL (PVT)"
+    ],
+    [
+      "151",
+      "11040500803",
+      "BLOOMING BUDS ACADEMY"
+    ],
+    [
+      "152",
+      "11040501303",
+      "EVERSHINE ACADEMY"
+    ],
+    [
+      "153",
+      "11040500104",
+      "DONALD MEMORIAL ACADEMY (PVT"
+    ],
+    [
+      "154",
+      "11040500302",
+      "SEVENTH-DAY ADVANTIST MISSION SCHOOL"
+    ],
+    [
+      "155",
+      "11010200303",
+      "MOON LIGHT SCHOOL"
+    ],
+    [
+      "156",
+      "11010200304",
+      "MT. EVEREST SCHOOL"
+    ],
+    [
+      "157",
+      "11010300202",
+      "GREENVALE ACADEMY"
+    ],
+    [
+      "158",
+      "11010300203",
+      "KANCHANJUNGA ACADEMY"
+    ],
+    [
+      "159",
+      "11010301001",
+      "NORTHWAY ACADEMY"
+    ],
+    [
+      "160",
+      "11010302501",
+      "JUBILANT PVT SCHOOL"
+    ],
+    [
+      "161",
+      "11010102008",
+      "IDEAL NURSURY SCHOOL"
+    ],
+    [
+      "162",
+      "11010102011",
+      "LITTLE FLOWER NURSERY (PRY)"
+    ],
+    [
+      "163",
+      "11010102009",
+      "MANGAN PUBLIC SCHOOL"
+    ],
+    [
+      "164",
+      "11010102102",
+      "NORTH SIKKIM ACADEMY"
+    ],
+    [
+      "165",
+      "11010102007",
+      "PLAY AND LEARN NURSERY SCHOOL"
+    ],
+    [
+      "166",
+      "11010102006",
+      "ST. JOSEPH"
+    ],
+    [
+      "167",
+      "11010102702",
+      "KID FOUNDATION ENGLISH SCHOOL"
+    ],
+    [
+      "168",
+      "11010102503",
+      "MARIGOLD PRIVATE SCHOOL"
+    ],
+    [
+      "169",
+      "11010100105",
+      "ST. JOSEPH'S"
+    ],
+    [
+      "170",
+      "11010102104",
+      "LITTLE FLOWER NURSERY SCHOOL"
+    ],
+    [
+      "171",
+      "11010100301",
+      "ZENITH PUBLIC SCHOOL"
+    ],
+    [
+      "172",
+      "11010404002",
+      "REPBOM ENGLISH ACADEMY"
+    ],
+    [
+      "173",
+      "11010403303",
+      "MOUNT PANDIM PRESTINE ACADEMY"
+    ],
+    [
+      "174",
+      "11010402601",
+      "CHILDREN'S WORLD ACADEMY"
+    ],
+    [
+      "175",
+      "11010401702",
+      "MAYAL LYANG ACADEMY"
+    ],
+    [
+      "176",
+      "11030400802",
+      "HIMALAYAN GRACE ACADEMY"
+    ],
+    [
+      "177",
+      "11030401602",
+      "LITTLE ANGELS' ACADEMY"
+    ],
+    [
+      "178",
+      "11030401502",
+      "MT. OLIVE ACADEMY"
+    ],
+    [
+      "179",
+      "11030401501",
+      "NABIL`S MEMORIAL SECONDARY SCHOOL"
+    ],
+    [
+      "180",
+      "11030401601",
+      "NEW BUDS ACADEMY"
+    ],
+    [
+      "181",
+      "11030400403",
+      "PRASHANTI VIDYA GIRI"
+    ],
+    [
+      "182",
+      "11030401103",
+      "ROYAL ACADEMY"
+    ],
+    [
+      "183",
+      "11030400402",
+      "ST. FRANCIS` SCHOOL"
+    ],
+    [
+      "184",
+      "11030401104",
+      "VICTORY ACADEMY"
+    ],
+    [
+      "185",
+      "11030401101",
+      "BAPTIST ENGLISH SCHOOL"
+    ],
+    [
+      "186",
+      "11030401105",
+      "EVERSHINE ACADEMY"
+    ],
+    [
+      "187",
+      "11030400302",
+      "HEBRON ACADEMY"
+    ],
+    [
+      "188",
+      "11030400404",
+      "VISION ACADEMY"
+    ],
+    [
+      "189",
+      "11030108702",
+      "ST THOMAS SCHOOL"
+    ],
+    [
+      "190",
+      "11030102703",
+      "AROMA ACADEMY"
+    ],
+    [
+      "191",
+      "11030102704",
+      "GRACE ACADEMY"
+    ],
+    [
+      "192",
+      "11030103302",
+      "RANGUTHANG HEDH-ZI-BAH"
+    ],
+    [
+      "193",
+      "11030102702",
+      "TENDER BUDS PRIVATE SCHOOL"
+    ],
+    [
+      "194",
+      "11030114802",
+      "BETHANY EDUCATIONAL INSTITUTIO"
+    ],
+    [
+      "195",
+      "11030116203",
+      "FUTURE BRIGHTER ACADEMY"
+    ],
+    [
+      "196",
+      "11030110403",
+      "ST MARY'S SCHOOL"
+    ],
+    [
+      "197",
+      "11030109102",
+      "MODERN ACADEMY"
+    ],
+    [
+      "198",
+      "11030117201",
+      "ST.TERESA'S SCHOOL"
+    ],
+    [
+      "199",
+      "11030110902",
+      "BETHAL ACADEMY"
+    ],
+    [
+      "200",
+      "11030113604",
+      "BETHANY SCHOOL"
+    ],
+    [
+      "201",
+      "11030104705",
+      "DEFFODIL'S ACADEMY"
+    ],
+    [
+      "202",
+      "11030116401",
+      "EBENEZER ACADEMY"
+    ],
+    [
+      "203",
+      "11030104706",
+      "ENLIGHTEN EDU.INST."
+    ],
+    [
+      "204",
+      "11030114602",
+      "EVERSHINE ACADEMY"
+    ],
+    [
+      "205",
+      "11030113605",
+      "GREENFINCH SCHOOL"
+    ],
+    [
+      "206",
+      "11030113606",
+      "J M K MEMORIAL SCHOOL"
+    ],
+    [
+      "207",
+      "11030111402",
+      "KINCHIN CASTLE ACADEMY"
+    ],
+    [
+      "208",
+      "11030111502",
+      "LORD JESUS SCHOOL"
+    ],
+    [
+      "209",
+      "11030116402",
+      "MANJUSHREE ACADEMY"
+    ],
+    [
+      "210",
+      "11030113601",
+      "MOUNT CARMEL"
+    ],
+    [
+      "211",
+      "11030113602",
+      "NAMCHI PUBLIC SCHOOL"
+    ],
+    [
+      "212",
+      "11030113502",
+      "NEW LIGHT ACADEMY"
+    ],
+    [
+      "213",
+      "11030113501",
+      "NEW LIGHT ACADEMY"
+    ],
+    [
+      "214",
+      "11030119201",
+      "PARAMOUNT ACADEMY"
+    ],
+    [
+      "215",
+      "11030111403",
+      "SEVEN HILLS SCHOOL"
+    ],
+    [
+      "216",
+      "11030113202",
+      "SHALOM ACADEMY"
+    ],
+    [
+      "217",
+      "11030111104",
+      "SOUTHERN LIGHTS ACADEMY"
+    ],
+    [
+      "218",
+      "11030103304",
+      "ST.TERESA'S SCHOOL"
+    ],
+    [
+      "219",
+      "11030113603",
+      "SUNSHINE ACADEMY"
+    ],
+    [
+      "220",
+      "11030113301",
+      "TENDONG EDUCATIONAL INSTITUTE"
+    ],
+    [
+      "221",
+      "11030113201",
+      "TINY TOTS PS"
+    ],
+    [
+      "222",
+      "11030603003",
+      "HOSSANA ENGLISH SCHOOL"
+    ],
+    [
+      "223",
+      "11030602802",
+      "LITTLE ANGEL ACADEMY"
+    ],
+    [
+      "224",
+      "11030600502",
+      "LITTLE BUD"
+    ],
+    [
+      "225",
+      "11030603002",
+      "MOTHER TERESA MEMORIAL"
+    ],
+    [
+      "226",
+      "11030600603",
+      "MOTHER TERESA MEMORIAL SCHOOL"
+    ],
+    [
+      "227",
+      "11030600605",
+      "SHINING STAR ACADEMY"
+    ],
+    [
+      "228",
+      "11030602806",
+      "TINY BUDS ACADEMY"
+    ],
+    [
+      "229",
+      "11030601002",
+      "HIMALAYAN SARASWATI VIDYALAYA"
+    ],
+    [
+      "230",
+      "11030600102",
+      "NEW STEPS ACADEMY"
+    ],
+    [
+      "231",
+      "11030601005",
+      "PRATIVA ACADEMY ENGLISH SCHOOL"
+    ],
+    [
+      "232",
+      "11030602103",
+      "AGAM SINGH ACADEMY"
+    ],
+    [
+      "233",
+      "11030602002",
+      "GREEN FIELD JUNIOR HIGH SCHOOL"
+    ],
+    [
+      "234",
+      "11030601003",
+      "GYAN PRADAN ACADEMY"
+    ],
+    [
+      "235",
+      "11030601402",
+      "IVANA MEMORIAL SCHOOL"
+    ],
+    [
+      "236",
+      "11030600604",
+      "SOUTH POINT ACADEMY"
+    ],
+    [
+      "237",
+      "11030603301",
+      "ST PAUL SCHOOL"
+    ],
+    [
+      "238",
+      "11030601104",
+      "ST.LUTHER ENGLISH BOARDING SCHOOL"
+    ],
+    [
+      "239",
+      "11030601103",
+      "ST.XAVIERS SCHOOL"
+    ],
+    [
+      "240",
+      "11030602003",
+      "WISDOM VALLEY ACADEMY"
+    ],
+    [
+      "241",
+      "11030600303",
+      "FUTURE STAR ACADEMY"
+    ],
+    [
+      "242",
+      "11030601102",
+      "SHUBHASAI INSTITUTE OF ELEMENTARY EDUCATION"
+    ],
+    [
+      "243",
+      "11030201703",
+      "SANGAM ACADEMY"
+    ],
+    [
+      "244",
+      "11030204702",
+      "DEMAZONG ENGLISH ACADEMY"
+    ],
+    [
+      "245",
+      "11030207202",
+      "NEW RAYS ACADEMY"
+    ],
+    [
+      "246",
+      "11030205003",
+      "HOLY FAITH ENGLISH SCHOOL"
+    ],
+    [
+      "247",
+      "11030205004",
+      "IDEAL ACADEMY"
+    ],
+    [
+      "248",
+      "11030207901",
+      "MT,PANDIM ACADEMY"
+    ],
+    [
+      "249",
+      "11030204403",
+      "PEMA SAMPHEL ACADEMY"
+    ],
+    [
+      "250",
+      "11030207802",
+      "GENERATION NEXT ACADEMY"
+    ],
+    [
+      "251",
+      "11030206905",
+      "LITTLE SCHOLRS ACADEMY"
+    ],
+    [
+      "252",
+      "11030206904",
+      "SOUTH POINT ACADEMY"
+    ],
+    [
+      "253",
+      "11030206902",
+      "ST.JOSEPH SCHOOL"
+    ],
+    [
+      "254",
+      "11030500602",
+      "SHARON VALLEY SCHOOL"
+    ],
+    [
+      "255",
+      "11030801503",
+      "GREEN HILL ACADEMY"
+    ],
+    [
+      "256",
+      "11030801403",
+      "LIGHT OF LIFE ACADEMY"
+    ],
+    [
+      "257",
+      "11030801702",
+      "SOUTH PIONT ACADEMY"
+    ],
+    [
+      "258",
+      "11030801404",
+      "ST. THOMAS SCHOOL"
+    ],
+    [
+      "259",
+      "11030801502",
+      "ST.PAUL JHS"
+    ],
+    [
+      "260",
+      "11030801402",
+      "SUN SHINE ENGLISH SCHOOL"
+    ],
+    [
+      "261",
+      "11030800302",
+      "GRACE ENGLISH SCHOOL"
+    ],
+    [
+      "262",
+      "11030800103",
+      "LORETO CONVENT SCHOOL"
+    ],
+    [
+      "263",
+      "11030800105",
+      "STERLINE ACADEMY"
+    ],
+    [
+      "264",
+      "11030802502",
+      "ANUGRAH PS MANPUR"
+    ],
+    [
+      "265",
+      "11030800403",
+      "EUREKA ENGLISH SCHOOL"
+    ],
+    [
+      "266",
+      "11030800405",
+      "MATRI ACADEMY"
+    ],
+    [
+      "267",
+      "11030800603",
+      "ST STEPHEN'S SCHOOL"
+    ],
+    [
+      "268",
+      "11030800406",
+      "ST.PETER ENGLISH SCHOOL"
+    ],
+    [
+      "269",
+      "11030802402",
+      "ANGLES ENGLISH SCHOOL"
+    ],
+    [
+      "270",
+      "11030802403",
+      "MOUNT CARMEL SCHOOL"
+    ],
+    [
+      "271",
+      "11030802404",
+      "PRASANSHA ENGLISH SCHOOL"
+    ],
+    [
+      "272",
+      "11030302505",
+      "SARASWATI SISHU VIDYALAYA"
+    ],
+    [
+      "273",
+      "11030300603",
+      "BRIGHT LIFE ENGLISH SCHOOL"
+    ],
+    [
+      "274",
+      "11030300602",
+      "MOUNT OLIVES ACADEMY"
+    ],
+    [
+      "275",
+      "11030301102",
+      "LITTLE ANGELS ACADEMY"
+    ],
+    [
+      "276",
+      "11030300703",
+      "PRATIVA ACADEMY"
+    ],
+    [
+      "277",
+      "11030300704",
+      "SARASWATI SHISHU VIDYALAYA"
+    ],
+    [
+      "278",
+      "11030302401",
+      "SARASWATI SISHU VIDHLAYA"
+    ],
+    [
+      "279",
+      "11030300702",
+      "SUNSHINE ACADEMY"
+    ],
+    [
+      "280",
+      "11030301302",
+      "EDEN GARDEN"
+    ],
+    [
+      "281",
+      "11030301804",
+      "HIMALAYAN SCHOOL"
+    ],
+    [
+      "282",
+      "11030301803",
+      "JUVENTUS ACADEMY"
+    ],
+    [
+      "283",
+      "11030301603",
+      "KALIKA SANSKRIT VIDHYALAYA"
+    ],
+    [
+      "284",
+      "11030302002",
+      "MANJUSRI PUBLIC SCHOOL"
+    ],
+    [
+      "285",
+      "11030301902",
+      "PARAMOUNT E.SCHOOL"
+    ],
+    [
+      "286",
+      "11030302301",
+      "SAIPARTI VIDYA MANDIR"
+    ],
+    [
+      "287",
+      "11030702002",
+      "ST PETERS SCHOOL"
+    ],
+    [
+      "288",
+      "11030701603",
+      "GREENVALE ACADEMY"
+    ],
+    [
+      "289",
+      "11030701703",
+      "EAST POINT ENGLISH SCHOOL"
+    ],
+    [
+      "290",
+      "11030700104",
+      "EAST POINT SCHOOL"
+    ],
+    [
+      "291",
+      "11030700105",
+      "MAINUM NURSERY SCHOOL"
+    ],
+    [
+      "292",
+      "11030700103",
+      "SOUTH POINT ACADEMY"
+    ],
+    [
+      "293",
+      "11020700202",
+      "CAROL ACADEMY"
+    ],
+    [
+      "294",
+      "11020700107",
+      "EUREKA RESIDENTIAL SCHOOL"
+    ],
+    [
+      "295",
+      "11020700106",
+      "EVERGREEN ENGLISH SCHOOL"
+    ],
+    [
+      "296",
+      "11020700204",
+      "HIMALAYAN ENGLISH ACADEMY"
+    ],
+    [
+      "297",
+      "11020700203",
+      "HOLYCROSS ENGLISH SCHOOL"
+    ],
+    [
+      "298",
+      "11020700102",
+      "PARSURAM MEMORIAL ACADEMY"
+    ],
+    [
+      "299",
+      "11020700104",
+      "SHANTI MEMORIAL ACADEMY"
+    ],
+    [
+      "300",
+      "11020700103",
+      "SUN RISE ENGLISH SCHOOL"
+    ],
+    [
+      "301",
+      "11020700105",
+      "SWARSWATI BAL VIDHALAYA"
+    ],
+    [
+      "302",
+      "11020500104",
+      "HIMALAYAN ACADEMY LUNGCHOK"
+    ],
+    [
+      "303",
+      "11020501002",
+      "MODEL ENGLISH SCHOOL"
+    ],
+    [
+      "304",
+      "11020500105",
+      "RRAGHUNANDA SAPKOTA MEMORIAL SCHOOL"
+    ],
+    [
+      "305",
+      "11020500103",
+      "UNITED ACADEMY SCHOOL DARAMDIN"
+    ],
+    [
+      "306",
+      "11020500303",
+      "HIMALAYAN RISING ACADEMY"
+    ],
+    [
+      "307",
+      "11020500210",
+      "LILLYFIELD ACADEMY"
+    ],
+    [
+      "308",
+      "11020500209",
+      "PRATAP INTERNATIONAL SCHOOL"
+    ],
+    [
+      "309",
+      "11020500208",
+      "SAI GURUKUL ACADEMY"
+    ],
+    [
+      "310",
+      "11020500203",
+      "SUNRISE ACADEMY SCHOOL"
+    ],
+    [
+      "311",
+      "11020500206",
+      "WOODSTOCK SCHOOL SOMBAREY"
+    ],
+    [
+      "312",
+      "11020400203",
+      "MOUNT KANCHAN ACADEMY"
+    ],
+    [
+      "313",
+      "11020400204",
+      "NEW WISDOM ACADEMY"
+    ],
+    [
+      "314",
+      "11020400202",
+      "ROSHAN MEMORIAL ACADEMY"
+    ],
+    [
+      "315",
+      "11020400604",
+      "ST. PAUL'S SCHOOL CHANGEY"
+    ],
+    [
+      "316",
+      "11020400602",
+      "SUN RISE ACADEMY"
+    ],
+    [
+      "317",
+      "11020401202",
+      "VINEYARD PRIVATE SCHOOL"
+    ],
+    [
+      "318",
+      "11020404301",
+      "MOUNT ZION ACADEMY HEE"
+    ],
+    [
+      "319",
+      "11020404302",
+      "POLE STAR ENGLISH SCHOOL HEE"
+    ],
+    [
+      "320",
+      "11020400402",
+      "BAL JYOTI VIDYA PITH"
+    ],
+    [
+      "321",
+      "11020403302",
+      "EUREKA RESIDENTIAL SCHOOL BRANCH II"
+    ],
+    [
+      "322",
+      "11020400802",
+      "KALEZ VALEY ENGLISH SCHOOL"
+    ],
+    [
+      "323",
+      "11020400502",
+      "P.M.M. U. SMART ACADEMY"
+    ],
+    [
+      "324",
+      "11020400505",
+      "SARASWATI VIDHYA ACADEMY"
+    ],
+    [
+      "325",
+      "11020400503",
+      "WESTERN MODERN ENGLISH SCHOOL"
+    ],
+    [
+      "326",
+      "11020103702",
+      "LITTLE KIDS ACADEMY"
+    ],
+    [
+      "327",
+      "11020112302",
+      "NEW TULIPS KINDERGARDEN"
+    ],
+    [
+      "328",
+      "11020100703",
+      "VISION ACADEMY DARAP"
+    ],
+    [
+      "329",
+      "11020112301",
+      "WESTERN MODERN SCHOOL"
+    ],
+    [
+      "330",
+      "11020111202",
+      "ANNE'S HOUSE NURSUARY SCHOOL"
+    ],
+    [
+      "331",
+      "11020111701",
+      "HIMALAYAN BAPTISE SCHOOL"
+    ],
+    [
+      "332",
+      "11020111205",
+      "MANJUSHREE ENGLISH SCHOOL"
+    ],
+    [
+      "333",
+      "11020111207",
+      "PIONEER ACADEMY GYALSHING"
+    ],
+    [
+      "334",
+      "11020100402",
+      "SARASWATI VIDYALAYA KYONGSHA"
+    ],
+    [
+      "335",
+      "11020111206",
+      "SKYLARK ACADEMY"
+    ],
+    [
+      "336",
+      "11020111901",
+      "ST MARRY'S CONVENT"
+    ],
+    [
+      "337",
+      "11020100403",
+      "St. EDMUND'S ACADEMY GURUTHANG"
+    ],
+    [
+      "338",
+      "11020111601",
+      "ANNES HOUSE LEGSHIP"
+    ],
+    [
+      "339",
+      "11020111602",
+      "VIDHYA SAGAR ACADEMY LEGSHIP"
+    ],
+    [
+      "340",
+      "11020102102",
+      "GREEN VALE LANGANG"
+    ],
+    [
+      "341",
+      "11020112401",
+      "I B SUBBA MEMORIAL INSTITUTE"
+    ],
+    [
+      "342",
+      "11020100254",
+      "DENZONG PEMA CHOELING ACADEMY"
+    ],
+    [
+      "343",
+      "11020111801",
+      "PIONEER ACADEMY SAKYONG"
+    ],
+    [
+      "344",
+      "11020113301",
+      "VIDHYA SAGAR JUNIOR HIGH SCHOOL"
+    ],
+    [
+      "345",
+      "11020303501",
+      "SNOWDROPS ACADEMY"
+    ],
+    [
+      "346",
+      "11020300905",
+      "DAUGHTER OF THE CROSS CONVENT SCHOOL"
+    ],
+    [
+      "347",
+      "11020300904",
+      "RAPHJORE ACADEMY"
+    ],
+    [
+      "348",
+      "11020300202",
+      "WEST POINT ACADEMY"
+    ],
+    [
+      "349",
+      "11020300102",
+      "NOBLE ENGLISH SCHOOL"
+    ],
+    [
+      "350",
+      "11020300305",
+      "BLISS ACADEMY"
+    ],
+    [
+      "351",
+      "11020300602",
+      "HILL BUDS ACADEMY"
+    ],
+    [
+      "352",
+      "11020300304",
+      "SHERAB ODSAL RAIDELLING ACADEMY"
+    ],
+    [
+      "353",
+      "11020300302",
+      "TRINITY SCHOOL SRIBADAM"
+    ],
+    [
+      "354",
+      "11020300303",
+      "WISDOM ACADEMY SRIBADAM"
+    ],
+    [
+      "355",
+      "11020212401",
+      "BAL JYOTI ACADEMY"
+    ],
+    [
+      "356",
+      "11020212101",
+      "GREEN VALLEY ACADEMEY"
+    ],
+    [
+      "357",
+      "11020200347",
+      "GYAN JYOTI ACADEMY,BURIAKHOP"
+    ],
+    [
+      "358",
+      "11020214101",
+      "HILLS CROWN ENGLISH SCHOOL"
+    ],
+    [
+      "359",
+      "11020214301",
+      "MAGNOLIA ENGLISH SCHOOL"
+    ],
+    [
+      "360",
+      "11020212501",
+      "SIKKIM HIMALAYAN ACADEMY"
+    ],
+    [
+      "361",
+      "11020200402",
+      "DEW DROPS ACADEMY,CHAKUNG"
+    ],
+    [
+      "362",
+      "11020212201",
+      "DON BOSCO MALBASEY"
+    ],
+    [
+      "363",
+      "11020200403",
+      "GRACE ACADEMY"
+    ],
+    [
+      "364",
+      "11020205102",
+      "GYANUDAYA ACADEMY MEMDOGOAN"
+    ],
+    [
+      "365",
+      "11020214201",
+      "LITTLE ANGEL ACADEMY, PIPALAY"
+    ],
+    [
+      "366",
+      "11020213701",
+      "MT OLIVES ENGLISH SCHOOL"
+    ],
+    [
+      "367",
+      "11020200803",
+      "BLOOM ACADEMY"
+    ],
+    [
+      "368",
+      "11020200802",
+      "RAMAN HIDDEN VALLEY ACADEMY"
+    ],
+    [
+      "369",
+      "11020200604",
+      "WISE TEMPLE ACADEMY"
+    ],
+    [
+      "370",
+      "11020202702",
+      "ADONAI HOMES"
+    ],
+    [
+      "371",
+      "11020214801",
+      "MOUNT SINAI ACADEMY"
+    ],
+    [
+      "372",
+      "11020201102",
+      "SAINT GYANDIL ACADEMY"
+    ],
+    [
+      "373",
+      "11020202002",
+      "VIDYA BHARATI NAYABAZAR"
+    ],
+    [
+      "374",
+      "11020201403",
+      "MODEL ENGLISH HOUSE,RESHI"
+    ],
+    [
+      "375",
+      "11020201402",
+      "SIKKIM HOMES ACADEMY"
+    ],
+    [
+      "376",
+      "11020200702",
+      "SPRINGDALE ACADEMY"
+    ],
+    [
+      "377",
+      "11020201404",
+      "SUNSHINE ACADEMY"
+    ],
+    [
+      "378",
+      "11020201303",
+      "ST.MARRY ACADEMY"
+    ],
+    [
+      "379",
+      "11020214002",
+      "DIVYA JYOTI ACADEMY"
+    ],
+    [
+      "380",
+      "11020214001",
+      "GYANODAYA NURSERY SCHOOL"
+    ],
+    [
+      "381",
+      "11020212302",
+      "HIMALAYAN ACADEMY SORENG"
+    ],
+    [
+      "382",
+      "11020213001",
+      "LELIUM ACADEMY SCHOOL"
+    ],
+    [
+      "383",
+      "11020212202",
+      "MARIGOLD ACADEMY MALBASEY"
+    ],
+    [
+      "384",
+      "11020200603",
+      "MOUNT K2 ACADEMY"
+    ],
+    [
+      "385",
+      "11020213002",
+      "RADIANT ACADEMY SCHOOL"
+    ],
+    [
+      "386",
+      "11020200602",
+      "TENDER FEET ACADEMY"
+    ],
+    [
+      "387",
+      "11020213801",
+      "KEN ENGLISH SCHOOL"
+    ],
+    [
+      "388",
+      "11020212702",
+      "KUSH HANG MEMORIAL ENGLISH SCHOOL"
+    ],
+    [
+      "389",
+      "11020212402",
+      "SARASWATI SISHU NIKETAN"
+    ],
+    [
+      "390",
+      "11020602203",
+      "BRIGHT CAREER ACHADEMY"
+    ],
+    [
+      "391",
+      "11020602202",
+      "MARIGOLD ACADAMY POKHARI DARA"
+    ],
+    [
+      "392",
+      "11020601402",
+      "MOUNT SIMVO BOARDING SCHOOL"
+    ],
+    [
+      "393",
+      "11020600202",
+      "MT. PENDAM ACADEMY"
+    ],
+    [
+      "394",
+      "11020603903",
+      "ANTASHKARAN CHILD ACHADAMY"
+    ],
+    [
+      "395",
+      "11020603902",
+      "GREEN LIGHT ACHADEMY"
+    ],
+    [
+      "396",
+      "11020600803",
+      "LABDANG ENGLISH SCHOOL"
+    ],
+    [
+      "397",
+      "11020603703",
+      "GOOD SHEPHERD ENGLISH SCHOOL"
+    ],
+    [
+      "398",
+      "11020603702",
+      "GOOD WILL ACADEMY THINGLING"
+    ],
+    [
+      "399",
+      "11020602302",
+      "I E C MISSION PRIMARY SCHOOL RIMBI"
+    ],
+    [
+      "400",
+      "11020602602",
+      "VIDHYA SAGAR GAYNPEATH TATHANG"
+    ],
+    [
+      "401",
+      "11020602902",
+      "HIMALAYAN RADIANT ACADEMY"
+    ],
+    [
+      "402",
+      "11020600502",
+      "MARIGOLD NURSERY SCHOOL"
+    ],
+    [
+      "403",
+      "11020600105",
+      "NEW HORIZON ACADEMCY TASHIDING"
+    ],
+    [
+      "404",
+      "11020600106",
+      "TASHIDING ENGLISH SCHOOL"
+    ],
+    [
+      "405",
+      "11020600403",
+      "GOOD SHEPHERD SCHOOL"
+    ],
+    [
+       "406",
+      "11020701301",
+      "CHEWRIBOTEY PS"
+    ],
+    [
+      "409",
+      "11020701401",
+      "HEE MAJHGOAN PS"
+    ],
+    [
+      "410",
+      "11020700901",
+      "MEYYONG PS"
+    ],
+    [
+      "411",
+      "11020701101",
+      "PECHREAK PS"
+    ],
+    [
+
+      "412",
+      "11020701501",
+      "RUNGDU PS"
+    ],
+    [
+
+      "413",
+      "11020701001",
+      "SAGBARI PS"
+    ],
+    [
+
+      "414",
+      "11020701201",
+      "UPPER MARTAM PS"
+    ],
+    [
+
+      "415",
+      "11020700801",
+      "BERMIOK DARAGOAN JHS"
+    ],
+    [
+
+      "416",
+      "11020700501",
+      "CENTRAL MARTAM JHS"
+    ],
+    [
+
+      "417",
+      "11020700301",
+      "CHINGTHANG JHS"
+    ],
+    [
+
+      "418",
+      "11020700701",
+      "HEE PATAL JHS"
+    ],
+    [
+
+      "419",
+      "11020700401",
+      "LOWER BERMIOK JHS"
+    ],
+    [
+
+      "420",
+      "11020700601",
+      "NAJOR BERFOK JHS"
+    ],
+    [
+
+      "421",
+      "11020700101",
+      "BERMIOK MARTAM SS"
+    ],
+    [
+
+      "422",
+      "11020700201",
+      "YANGSUM SS"
+    ],
+    [
+
+      "423",
+      "11020501001",
+      "AMBOTEY PS"
+    ],
+    [
+
+      "424",
+      "11020502201",
+      "RINGYANG PS"
+    ],
+    [
+
+      "425",
+      "11020501501",
+      "SALANGDANG PS"
+    ],
+    [
+
+      "426",
+      "11020501801",
+      "BHARENG PS"
+    ],
+    [
+
+      "427",
+      "11020501301",
+      "LOWER OKHREY PS"
+    ],
+    [
+
+      "428",
+      "11020501201",
+      "PEURAYTAR PS"
+    ],
+    [
+
+      "429",
+      "11020500901",
+      "SAPREYNAGI PS"
+    ],
+    [
+
+      "430",
+      "11020501601",
+      "ANDEN PS"
+    ],
+    [
+
+      "431",
+      "11020500801",
+      "BEYONG PS"
+    ],
+    [
+
+      "432",
+      "11020501901",
+      "LOWER RUMBUK PS"
+    ],
+    [
+
+      "433",
+      "11020500204",
+      "LOWER TIKPUR PS"
+    ],
+    [
+
+      "434",
+      "11020501101",
+      "MOONEWGOAN PS"
+    ],
+    [
+
+      "435",
+      "11020502101",
+      "NASA PS"
+    ],
+    [
+
+      "436",
+      "11020501701",
+      "SIKTAM PS"
+    ],
+    [
+
+      "437",
+      "11020501401",
+      "TAREYBHIR PS"
+    ],
+    [
+
+      "438",
+      "11020500701",
+      "LUNGYAM JHS"
+    ],
+    [
+
+      "439",
+      "11020500601",
+      "RUMBUK JHS"
+    ],
+    [
+
+      "440",
+      "11020500101",
+      "KRIPASALYAN SSS DARAMDIN"
+    ],
+    [
+
+      "441",
+      "11020500201",
+      "SOMBARIA SSS"
+    ],
+    [
+
+      "442",
+      "11020502301",
+      "LUNGCHOK SS"
+    ],
+    [
+
+      "443",
+      "11020500301",
+      "OKHREY SS"
+    ],
+    [
+
+      "444",
+      "11020500401",
+      "RIBDI SS"
+    ],
+    [
+
+      "446",
+      "11020500501",
+      "TIKPUR SS"
+    ],
+    [
+
+      "447",
+      "11020402201",
+      "CHANGEY PS"
+    ],
+    [
+
+      "448",
+      "11020402901",
+      "L SAPONG PS"
+    ],
+    [
+
+      "449",
+      "11020401001",
+      "LIDUNG PS"
+    ],
+    [
+
+      "450",
+      "11020400603",
+      "MIDDLE BEGHA PS"
+    ],
+    [
+
+      "451",
+      "11020401801",
+      "SAPONG PS"
+    ],
+    [
+
+      "452",
+      "11020402701",
+      "SOMBUSTY PS"
+    ],
+    [
+
+      "453",
+      "11020400702",
+      "SRINAGI PS"
+    ],
+    [
+
+      "454",
+      "11020403301",
+      "HEE KENGBARI PS"
+    ],
+    [
+
+      "455",
+      "11020403701",
+      "HEE SAPUNG PS"
+    ],
+    [
+
+      "456",
+      "11020404001",
+      "HEE TAMABONG PS"
+    ],
+    [
+
+      "457",
+      "11020401601",
+      "BHALUKHOP PS"
+    ],
+    [
+
+      "458",
+      "11020402002",
+      "LOWER RADHU PS"
+    ],
+    [
+
+      "459",
+      "11020402801",
+      "LOWER SHANKU PS"
+    ],
+    [
+
+      "460",
+      "11020401301",
+      "SANKHU PS"
+    ],
+    [
+
+      "461",
+      "11020401501",
+      "BULLUNG PS"
+    ],
+    [
+
+      "462",
+      "11020401901",
+      "JHAKRIDHUNGA PS"
+    ],
+    [
+
+      "463",
+      "11020402301",
+      "KONABAR PS"
+    ],
+    [
+
+      "464",
+      "11020402401",
+      "SEPI PS"
+    ],
+    [
+
+      "465",
+      "11020402601",
+      "SIMPHOK PS"
+    ],
+    [
+
+      "466",
+      "11020400601",
+      "BEGHA JHS"
+    ],
+    [
+
+      "467",
+      "11020402101",
+      "DENTAM TAR JHS"
+    ],
+    [
+
+      "468",
+      "11020401201",
+      "GITANG JHS"
+    ],
+    [
+
+      "469",
+      "11020402001",
+      "RADHU JHS"
+    ],
+    [
+
+      "470",
+      "11020401701",
+      "AGRI NAYA BUSTY JHS"
+    ],
+    [
+
+      "471",
+      "11020402501",
+      "BURUL SINGTAM JHS"
+    ],
+    [
+
+      "472",
+      "11020401101",
+      "MILLING JHS"
+    ],
+    [
+
+      "473",
+      "11020401401",
+      "SIMBOLEY JHS"
+    ],
+    [
+
+      "474",
+      "11020400201",
+      "DENTAM SSS"
+    ],
+    [
+
+      "475",
+      "11020400101",
+      "HEE-YANGTHANG SSS"
+    ],
+    [
+
+      "476",
+      "11020400701",
+      "BONGTEN SS"
+    ],
+    [
+
+      "477",
+      "11020400401",
+      "KHANDU SS"
+    ],
+    [
+
+      "478",
+      "11020400801",
+      "MUKRUNG SS"
+    ],
+    [
+
+      "479",
+      "11020400901",
+      "SOPAKHA SS"
+    ],
+    [
+
+      "480",
+      "11020400501",
+      "UTTERAY SS"
+    ],
+    [
+
+      "481",
+      "11020103701",
+      "NAMBU PS"
+    ],
+    [
+
+      "482",
+      "11020108001",
+      "SANGKHOLA PS"
+    ],
+    [
+
+      "483",
+      "11020103901",
+      "SINGPHENG PS"
+    ],
+    [
+
+      "484",
+      "11020106801",
+      "BAYDONG PS"
+    ],
+    [
+
+      "485",
+      "11020106901",
+      "KABIRTHANG PS"
+    ],
+    [
+
+      "486",
+      "11020102902",
+      "MALBASEY PS"
+    ],
+    [
+
+      "487",
+      "11020104201",
+      "REYTHANG PS"
+    ],
+    [
+
+      "488",
+      "11020103001",
+      "TIKJEK PS"
+    ],
+    [
+
+      "489",
+      "11020107701",
+      "TIKJUK PS"
+    ],
+    [
+
+      "490",
+      "11020103401",
+      "TOYANG PS"
+    ],
+    [
+
+      "491",
+      "11020110601",
+      "CHONGZONG PS"
+    ],
+    [
+
+      "492",
+      "11020108401",
+      "LUNZIK PS"
+    ],
+    [
+
+      "493",
+      "11020104501",
+      "SALLEY PS"
+    ],
+    [
+
+      "494",
+      "11020107001",
+      "KHORONG PS"
+    ],
+    [
+
+      "495",
+      "11020107301",
+      "NAKU TADONG PS"
+    ],
+    [
+
+      "496",
+      "11020109701",
+      "SINDRANG PS"
+    ],
+    [
+
+      "497",
+      "11020112901",
+      "SINGYANG PS"
+    ],
+    [
+
+      "498",
+      "11020104301",
+      "LOWER BHALUTHANG PS"
+    ],
+    [
+
+      "499",
+      "11020105601",
+      "RAMITEY PS"
+    ],
+    [
+
+      "500",
+      "11020105101",
+      "UPPER BHALUTHANG PS"
+    ],
+    [
+
+      "501",
+      "11020104401",
+      "YANGTEY PS"
+    ],
+    [
+
+      "502",
+      "11020105001",
+      "OMCHUNG JHS"
+    ],
+    [
+
+      "503",
+      "11020101701",
+      "CHUMPONG JHS"
+    ],
+    [
+
+      "504",
+      "11020102501",
+      "SARDONG JHS"
+    ],
+    [
+
+      "505",
+      "11020100701",
+      "DARAP SSS"
+    ],
+    [
+
+      "506",
+      "11020100401",
+      "GYALSHING G SSS"
+    ],
+    [
+
+      "507",
+      "11020102201",
+      "LEGSHIP SSS"
+    ],
+    [
+
+      "508",
+      "11020100201",
+      "PELLING SSS"
+    ],
+    [
+
+      "509",
+      "11020102601",
+      "RIMBIK SS"
+    ],
+    [
+
+      "510",
+      "11020102101",
+      "LANGANG SS"
+    ],
+    [
+
+      "511",
+      "11020102901",
+      "MIDDLE GYALSHING SS"
+    ],
+    [
+
+      "512",
+      "11020101101",
+      "LINGCHOM SS"
+    ],
+    [
+
+      "513",
+      "11020101201",
+      "SAKYONG SS"
+    ],
+    [
+
+      "514",
+      "11020301601",
+      "LOWER HATTIDHUNGA PS"
+    ],
+    [
+
+      "515",
+      "11020302401",
+      "LOWER SANGADORJEE PS"
+    ],
+    [
+
+      "516",
+      "11020301801",
+      "NAMGAON PS"
+    ],
+    [
+
+      "517",
+      "11020302001",
+      "NIJGOAN PS"
+    ],
+    [
+
+      "517",
+      "11020302101",
+      "TAFEL PS"
+    ],
+    [
+
+      "518",
+      "11020302801",
+      "BOOM RINCHENPONG PS"
+    ],
+    [
+
+      "519",
+      "11020302301",
+      "JAUBARI PS"
+    ],
+    [
+
+      "520",
+      "11020303101",
+      "LOWER KARTHOK PS"
+    ],
+    [
+
+      "521",
+      "11020301501",
+      "LOWER TADONG PS"
+    ],
+    [
+
+      "522",
+      "11020301701",
+      "BHANJYANGDARA PS"
+    ],
+    [
+
+      "523",
+      "11020302502",
+      "LOWER PARENGOAN PS"
+    ],
+    [
+
+      "524",
+      "11020303401",
+      "M. TAKUTHANG PS"
+    ],
+    [
+
+      "525",
+      "11020302501",
+      "PARENGOAN PS"
+    ],
+    [
+
+      "526",
+      "11020303201",
+      "BUKSOM PS"
+    ],
+    [
+
+      "527",
+      "11020302201",
+      "DHANKUTAY PS"
+    ],
+    [
+
+      "528",
+      "11020300501",
+      "RAMIDHAM PS"
+    ],
+    [
+
+      "529",
+      "11020301101",
+      "ZEEL JHS"
+    ],
+    [
+
+      "530",
+      "11020301401",
+      "BOOM RESHI JHS"
+    ],
+    [
+
+      "531",
+      "11020300901",
+      "RINCHENPONG JHS"
+    ],
+    [
+
+      "532",
+      "11020301301",
+      "JHUSINGTHANG JHS"
+    ],
+    [
+
+      "533",
+      "11020302701",
+      "UPPER CHUCHEN JHS"
+    ],
+    [
+
+      "534",
+      "11020300601",
+      "DEYTHANG JHS"
+    ],
+    [
+
+      "535",
+      "11020301001",
+      "SAMDONG JHS"
+    ],
+    [
+
+      "536",
+      "11020300201",
+      "KALUK SSS"
+    ],
+    [
+
+      "537",
+      "11020300101",
+      "MANGALBARIA SSS"
+    ],
+    [
+
+      "538",
+      "11020300301",
+      "SRIBADAM SSS"
+    ],
+    [
+
+      "539",
+      "11020300701",
+      "HATHIDHUNGA SS"
+    ],
+    [
+
+      "540",
+      "11020204901",
+      "KARTHOK PS"
+    ],
+    [
+
+      "541",
+      "11020210201",
+      "LOWER TIMBURBONG PS"
+    ],
+    [
+
+      "542",
+      "11020205001",
+      "THONGLING PS"
+    ],
+    [
+
+      "543",
+      "11020209301",
+      "OKHERBOTEY PS"
+    ],
+    [
+
+      "544",
+      "11020205901",
+      "RUPSANG PS"
+    ],
+    [
+
+      "545",
+      "11020209601",
+      "SADHUGOAN PS"
+    ],
+    [
+
+      "546",
+      "11020206801",
+      "SIMKHUNA BHASMEY PS"
+    ],
+    [
+
+      "547",
+      "11020209201",
+      "AROBOTEY PS"
+    ],
+    [
+
+      "548",
+      "11020209801",
+      "SINGREP PS"
+    ],
+    [
+
+      "549",
+      "11020205301",
+      "BARASAMSING PS"
+    ],
+    [
+
+      "550",
+      "11020211301",
+      "GHUMAUNEY PS"
+    ],
+    [
+
+      "551",
+      "11020205601",
+      "KHUTTIDARA PS"
+    ],
+    [
+
+      "552",
+      "11020207101",
+      "SISNEY PS"
+    ],
+    [
+
+      "553",
+      "11020207201",
+      "HOORGOAN PS"
+    ],
+    [
+
+      "554",
+      "11020208701",
+      "KOLBONG PS"
+    ],
+    [
+
+      "555",
+      "11020210501",
+      "L SULDONG PS"
+    ],
+    [
+
+      "556",
+      "11020207501",
+      "UPPER KAMLING PS"
+    ],
+    [
+
+      "557",
+      "11020209101",
+      "MAJUWA PS"
+    ],
+    [
+
+      "558",
+      "11020201302",
+      "SIRBONG PS"
+    ],
+    [
+
+      "559",
+      "11020209701",
+      "SUNTALEY PS"
+    ],
+    [
+
+      "560",
+      "11020210401",
+      "BARBOTEY PS"
+    ],
+    [
+
+      "561",
+      "11020205701",
+      "BHARAKHELEY PS"
+    ],
+    [
+
+      "562",
+      "11020206601",
+      "GAYNODAYA PS"
+    ],
+    [
+
+      "563",
+      "11020204701",
+      "JAMBUDARA PS"
+    ],
+    [
+
+      "564",
+      "11020209502",
+      "PHUNCHEBONG PS"
+    ],
+    [
+
+      "565",
+      "11020210001",
+      "UPPER PAKKIGOAN PS"
+    ],
+    [
+
+      "567",
+      "11020205101",
+      "MENDOGAON JHS"
+    ],
+    [
+
+      "568",
+      "11020204101",
+      "BUDANG JHS"
+    ],
+    [
+
+      "569",
+      "11020202701",
+      "NAYABAZAR JHS"
+    ],
+    [
+
+      "570",
+      "11020205801",
+      "SWALIGOAN JHS"
+    ],
+    [
+
+      "571",
+      "11020210801",
+      "BIRDHANG JHS"
+    ],
+    [
+
+      "572",
+      "11020203702",
+      "MABONG JHS"
+    ],
+    [
+
+      "573",
+      "11020206901",
+      "SIGENG JHS"
+    ],
+    [
+
+      "574",
+      "11020203801",
+      "MALBASEY BUDANG JHS"
+    ],
+    [
+
+      "575",
+      "11020204001",
+      "MALBASEY JHS"
+    ],
+    [
+
+      "576",
+      "11020203601",
+      "SINGLING JHS"
+    ],
+    [
+
+      "577",
+      "11020205401",
+      "BOJECK JHS"
+    ],
+    [
+
+      "578",
+      "11020200101",
+      "MANGASARI JHS"
+    ],
+    [
+
+      "579",
+      "11020200301",
+      "BARIAKHOP SSS"
+    ],
+    [
+
+      "580",
+      "11020200401",
+      "CHAKUNG SSS"
+    ],
+    [
+
+      "581",
+      "11020200601",
+      "SORENG SSS"
+    ],
+    [
+
+      "582",
+      "11020200201",
+      "THARPU SSS"
+    ],
+    [
+
+      "583",
+      "11020201001",
+      "DODAK SS"
+    ],
+    [
+
+      "584",
+      "11020201801",
+      "TIMBURBONG SS"
+    ],
+    [
+
+      "585",
+      "11020200801",
+      "CHUMBONG SS"
+    ],
+    [
+
+      "586",
+      "11020201101",
+      "GELLING SS"
+    ],
+    [
+
+      "587",
+      "11020203001",
+      "PIPALAY SS"
+    ],
+    [
+
+      "588",
+      "11020202001",
+      "ZOOM SS"
+    ],
+    [
+
+      "589",
+      "11020201401",
+      "KAMLING SS"
+    ],
+    [
+
+      "590",
+      "11020215501",
+      "RESHI SS"
+    ],
+    [
+
+      "591",
+      "11020202201",
+      "CHOTA SAMDONG SS"
+    ],
+    [
+
+      "592",
+      "11020201301",
+      "KHANISERBONG SS"
+    ],
+    [
+
+      "593",
+      "11020202901",
+      "PAKKIGOAN SS"
+    ],
+    [
+
+      "594",
+      "11020602101",
+      "CHUMANG PS"
+    ],
+    [
+
+      "595",
+      "11020601201",
+      "KONGRI PS"
+    ],
+    [
+
+      "596",
+      "11020603101",
+      "NESSA ARITHANG PS"
+    ],
+    [
+
+      "597",
+      "11020601101",
+      "TINZIRING PS"
+    ],
+    [
+
+      "598",
+      "11020601001",
+      "LABING PS"
+    ],
+    [
+
+      "599",
+      "11020603901",
+      "DHUPPIDARA PS"
+    ],
+    [
+
+      "600",
+      "11020604001",
+      "LOWER MANGNAM PS"
+    ],
+    [
+
+      "601",
+      "11020604301",
+      "MIDDLE POKHARI PS"
+    ],
+    [
+
+      "602",
+      "11020603401",
+      "UPPER MANGNAM PS"
+    ],
+    [
+
+      "603",
+      "11020603801",
+      "CHOJO PS"
+    ],
+    [
+
+      "604",
+      "11020601601",
+      "LAMATHANG PS"
+    ],
+    [
+
+      "605",
+      "11020603201",
+      "LETHANG PS"
+    ],
+    [
+
+      "606",
+      "11020602401",
+      "SIMCHEN PS"
+    ],
+    [
+
+      "607",
+      "11020603701",
+      "THINGLING - II PS"
+    ],
+    [
+
+      "608",
+      "11020601301",
+      "BOOM MELLI PS"
+    ],
+    [
+
+      "609",
+      "11020602301",
+      "SINGLITAM PS"
+    ],
+    [
+
+      "610",
+      "11020602601",
+      "TATHANG PS"
+    ],
+    [
+
+      "611",
+      "11020602501",
+      "TOPUNG PS"
+    ],
+    [
+
+      "612",
+      "11020601701",
+      "NAMBU MANGTHANG PS"
+    ],
+    [
+
+      "613",
+      "11020603301",
+      "NAMBU TARENG PS"
+    ],
+    [
+
+      "614",
+      "11020602801",
+      "NERDANG PS"
+    ],
+    [
+
+      "615",
+      "11020602701",
+      "PEWTHANG PS"
+    ],
+    [
+
+      "616",
+      "11020602001",
+      "RANGIT PS"
+    ],
+    [
+
+      "617",
+      "11020602901",
+      "THANGCHUNG PS"
+    ],
+    [
+
+      "618",
+      "11020603001",
+      "MANGSABONG PS"
+    ],
+    [
+
+      "619",
+      "11020603601",
+      "MANGTABONG PS"
+    ],
+    [
+
+      "620",
+      "11020601901",
+      "TING TING GOAN PS"
+    ],
+    [
+
+      "621",
+      "11020604401",
+      "TSONG PS"
+    ],
+    [
+
+      "622",
+      "11020604101",
+      "L CHONGRANG JHS"
+    ],
+    [
+
+      "623",
+      "11020602201",
+      "MIDDLE CHONGRANG JHS"
+    ],
+    [
+
+      "624",
+      "11020601801",
+      "TAMATAM JHS"
+    ],
+    [
+
+      "625",
+      "11020601401",
+      "UPPER GERETHANG JHS"
+    ],
+    [
+
+      "626",
+      "11020600901",
+      "DARAPTHANG JHS"
+    ],
+    [
+
+      "627",
+      "11020601501",
+      "TIMBRONG JHS"
+    ],
+    [
+
+      "628",
+      "11020600301",
+      "KHECHUPERI SSS"
+    ],
+    [
+
+      "629",
+      "11020600101",
+      "TASHIDING SSS"
+    ],
+    [
+
+      "630",
+      "11020600401",
+      "YUKSAM SSS"
+    ],
+    [
+
+      "631",
+      "11020600501",
+      "GANGYAP SS"
+    ],
+    [
+
+      "632",
+      "11020600801",
+      "LABDANG SS"
+    ],
+    [
+
+      "633",
+      "11020600201",
+      "GERETHANG SS"
+    ],
+    [
+
+      "634",
+      "11020600601",
+      "KARJEE SS"
+    ],
+    [
+      "635",
+      "11010100101",
+      "NADAY PS"
+    ],
+    [
+      "636",
+      "11010100102",
+      "MANUL SS"
+    ],
+    [
+      "637",
+      "11010100103",
+      "NAGA JHS"
+    ],
+    [
+      "638",
+      "11010100201",
+      "MEYONG PS"
+    ],
+    [
+      "639",
+      "11010100401",
+      "PAKSHEP UPS"
+    ],
+    [
+      "640",
+      "11010100601",
+      "SINGHIK SS"
+    ],
+    [
+      "641",
+      "11010102003",
+      "RANGRANG UPS"
+    ],
+    [
+      "642",
+      "11010102101",
+      "MANGAN SSS"
+    ],
+    [
+      "643",
+      "11010102103",
+      "MALLING PS"
+    ],
+    [
+      "644",
+      "11010102201",
+      "RINGHIM UPS"
+    ],
+    [
+      "645",
+      "11010102301",
+      "NAMPATAM PS"
+    ],
+    [
+      "646",
+      "11010102501",
+      "UPPER MANGSHILLA PS"
+    ],
+    [
+      "647",
+      "11010102502",
+      "MANGSHILLA SSS"
+    ],
+    [
+      "648",
+      "11010102601",
+      "LOWER MANGSHILLA PS"
+    ],
+    [
+      "649",
+      "11010102602",
+      "THIBUK UPS"
+    ],
+    [
+      "650",
+      "11010102701",
+      "NAMOK JHS"
+    ],
+    [
+      "651",
+      "11010102801",
+      "SWAYEM UPS"
+    ],
+    [
+      "652",
+      "11010104701",
+      "TINGCHIM SS"
+    ],
+    [
+      "653",
+      "11010104702",
+      "RALAK UPS"
+    ],
+    [
+      "654",
+      "11010200101",
+      "LACHEN SS"
+    ],
+    [
+      "655",
+      "11010200103",
+      "CHATTEN PS"
+    ],
+    [
+      "656",
+      "11010200201",
+      "LACHUNG SS"
+    ],
+    [
+      "657",
+      "11010200205",
+      "BITCHU PS"
+    ],
+    [
+      "658",
+      "11010200207",
+      "SARCHOCK JHS"
+    ],
+    [
+      "659",
+      "11010200301",
+      "TASA TENGAY SEC. SCHOOL"
+    ],
+    [
+      "660",
+      "11010200305",
+      "PEGONG PS"
+    ],
+    [
+      "661",
+      "11010200306",
+      "BOP PS"
+    ],
+    [
+      "662",
+      "11010200309",
+      "MUNSHITHANG PS"
+    ],
+    [
+      "663",
+      "11010200311",
+      "SHIPGYER PS"
+    ],
+    [
+      "664",
+      "11010201701",
+      "RAMOM PRIMARY SCHOOL"
+    ],
+    [
+      "665",
+      "11010300101",
+      "GAIKHANA PS"
+    ],
+    [
+      "666",
+      "11010300102",
+      "BAKCHA PS"
+    ],
+    [
+      "667",
+      "11010300201",
+      "KALZANG GYATSO SSS"
+    ],
+    [
+      "668",
+      "11010300301",
+      "LONGBOO PS"
+    ],
+    [
+      "669",
+      "11010300501",
+      "LINGCHOM LPS"
+    ],
+    [
+      "670",
+      "11010300701",
+      "TINGDA PS"
+    ],
+    [
+      "671",
+      "11010300801",
+      "GAIREE PS"
+    ],
+    [
+      "672",
+      "11010301401",
+      "LABI RANGDAM PS"
+    ],
+    [
+      "673",
+      "11010301501",
+      "PHENSONG SS"
+    ],
+    [
+      "674",
+      "11010301601",
+      "MEN RONGONG PS"
+    ],
+    [
+      "675",
+      "11010301701",
+      "RARICK PS"
+    ],
+    [
+      "676",
+      "11010301702",
+      "SHIPTHANG PS"
+    ],
+    [
+      "678",
+      "11010301801",
+      "PHAMTAM JHS"
+    ],
+    [
+      "679",
+      "11010301901",
+      "MOLOM PS"
+    ],
+    [
+      "680",
+      "11010302101",
+      "CHAWANG PS"
+    ],
+    [
+      "681",
+      "11010302302",
+      "TADONG PS"
+    ],
+    [
+      "682",
+      "11010302303",
+      "PHODONG GUMPA PS"
+    ],
+    [
+      "683",
+      "11010302701",
+      "RAMTHANG PS"
+    ],
+    [
+      "684",
+      "11010302702",
+      "PHODONG SSS"
+    ],
+    [
+      "685",
+      "11010302901",
+      "TANYEK PS"
+    ],
+    [
+      "686",
+      "11010303101",
+      "TUMLONG UPS"
+    ],
+    [
+      "687",
+      "11010400602",
+      "LINGTHEM UPS"
+    ],
+    [
+      "688",
+      "11010400701",
+      "SANKALANG PS"
+    ],
+    [
+      "689",
+      "11010400901",
+      "LINGDEM PS"
+    ],
+    [
+      "690",
+      "11010401001",
+      "LAVEN PS"
+    ],
+    [
+      "691",
+      "11010401101",
+      "LINGYA UPS"
+    ],
+    [
+      "692",
+      "11010401301",
+      "SALIM PAKAL UPS"
+    ],
+    [
+      "693",
+      "11010401701",
+      "PASSINGDANG SS"
+    ],
+    [
+      "694",
+      "11010401703",
+      "4TH MILE PS"
+    ],
+    [
+      "695",
+      "11010401801",
+      "TINGVONG SS"
+    ],
+    [
+      "696",
+      "11010401901",
+      "NAMPRICK UPS"
+    ],
+    [
+      "697",
+      "11010402001",
+      "LINGKOO PS"
+    ],
+    [
+      "698",
+      "11010402501",
+      "PENTONG PS"
+    ],
+    [
+      "699",
+      "11010402701",
+      "LINGDONG SS"
+    ],
+    [
+      "700",
+      "11010402801",
+      "BARFOK PS"
+    ],
+    [
+      "701",
+      "11010403001",
+      "MANZING PS"
+    ],
+    [
+      "702",
+      "11010403101",
+      "GNON SAMDONG UPS"
+    ],
+    [
+      "703",
+      "11010403201",
+      "GNON PS"
+    ],
+    [
+      "704",
+      "11010403301",
+      "HEE GYATHANG SSS"
+    ],
+    [
+      "705",
+      "11010403501",
+      "BRINGBONG PS"
+    ],
+    [
+      "706",
+      "11010403801",
+      "GOR SS"
+    ],
+    [
+      "707",
+      "11010403802",
+      "PHEEDANG PS"
+    ],
+    [
+      "708",
+      "11010403804",
+      "LINGTYANG PS"
+    ],
+    [
+      "709",
+      "11010403901",
+      "SANGTOK UPS"
+    ],
+    [
+      "710",
+      "11010404101",
+      "LUM PS"
+    ],
+    [
+      "711",
+      "11010404301",
+      "TARYANG PS"
+    ],
+    [
+      "712",
+      "11020100201",
+      "PELLING SSS"
+    ],
+    [
+      "713",
+      "11020100401",
+      "GYALSHING G SSS"
+    ],
+    [
+      "714",
+      "11020100701",
+      "DARAP SSS"
+    ],
+    [
+      "715",
+      "11020101101",
+      "LINGCHOM SS"
+    ],
+    [
+      "716",
+      "11020101201",
+      "SAKYONG SS"
+    ],
+    [
+      "717",
+      "11020101701",
+      "CHUMPONG JHS"
+    ],
+    [
+      "718",
+      "11020102101",
+      "LANGANG SS"
+    ],
+    [
+      "719",
+      "11020102201",
+      "LEGSHIP SSS"
+    ],
+    [
+      "720",
+      "11020102501",
+      "SARDONG JHS"
+    ],
+    [
+      "721",
+      "11020102601",
+      "RIMBIK SS"
+    ],
+    [
+      "722",
+      "11020102901",
+      "MIDDLE GYALSHING SS"
+    ],
+    [
+      "723",
+      "11020102902",
+      "MALBASEY PS"
+    ],
+    [
+      "724",
+      "11020103001",
+      "TIKJEK PS"
+    ],
+    [
+      "725",
+      "11020103401",
+      "TOYANG PS"
+    ],
+    [
+      "726",
+      "11020103701",
+      "NAMBU PS"
+    ],
+    [
+      "727",
+      "11020103901",
+      "SINGPHENG PS"
+    ],
+    [
+      "728",
+      "11020104201",
+      "REYTHANG PS"
+    ],
+    [
+      "729",
+      "11020104301",
+      "LOWER BHALUTHANG PS"
+    ],
+    [
+      "730",
+      "11020104401",
+      "YANGTEY PS"
+    ],
+    [
+      "731",
+      "11020104501",
+      "SALLEY PS"
+    ],
+    [
+      "732",
+      "11020105001",
+      "OMCHUNG JHS"
+    ],
+    [
+      "733",
+      "11020105101",
+      "UPPER BHALUTHANG PS"
+    ],
+    [
+      "734",
+      "11020105601",
+      "RAMITEY PS"
+    ],
+    [
+      "735",
+      "11020106801",
+      "BAYDONG PS"
+    ],
+    [
+      "736",
+      "11020106901",
+      "KABIRTHANG PS"
+    ],
+    [
+      "737",
+      "11020107001",
+      "KHORONG PS"
+    ],
+    [
+      "738",
+      "11020107301",
+      "NAKU TADONG PS"
+    ],
+    [
+      "739",
+      "11020107701",
+      "TIKJUK PS"
+    ],
+    [
+      "740",
+      "11020108001",
+      "SANGKHOLA PS"
+    ],
+    [
+      "741",
+      "11020108401",
+      "LUNZIK PS"
+    ],
+    [
+      "742",
+      "11020109701",
+      "SINDRANG PS"
+    ],
+    [
+      "743",
+      "11020110601",
+      "CHONGZONG PS"
+    ],
+    [
+      "744",
+      "11020112901",
+      "SINGYANG PS"
+    ],
+    [
+      "745",
+      "11020200101",
+      "MANGASARI JHS"
+    ],
+    [
+      "746",
+      "11020200201",
+      "THARPU SSS"
+    ],
+    [
+      "747",
+      "11020200301",
+      "BARIAKHOP SSS"
+    ],
+    [
+      "748",
+      "11020200401",
+      "CHAKUNG SSS"
+    ],
+    [
+      "749",
+      "11020200601",
+      "SORENG SSS"
+    ],
+    [
+      "750",
+      "11020200801",
+      "CHUMBONG SS"
+    ],
+    [
+      "751",
+      "11020201001",
+      "DODAK SS"
+    ],
+    [
+      "752",
+      "11020201101",
+      "GELLING SS"
+    ],
+    [
+      "753",
+      "11020201301",
+      "KHANISERBONG SS"
+    ],
+    [
+      "754",
+      "11020201302",
+      "SIRBONG PS"
+    ],
+    [
+      "755",
+      "11020201401",
+      "KAMLING SS"
+    ],
+    [
+      "756",
+      "11020201801",
+      "TIMBURBONG SS"
+    ],
+    [
+      "757",
+      "11020202001",
+      "ZOOM SS"
+    ],
+    [
+      "758",
+      "11020202201",
+      "CHOTA SAMDONG SS"
+    ],
+    [
+      "759",
+      "11020202701",
+      "NAYABAZAR JHS"
+    ],
+    [
+      "760",
+      "11020202901",
+      "PAKKIGOAN SS"
+    ],
+    [
+      "761",
+      "11020203001",
+      "PIPALAY SS"
+    ],
+    [
+      "762",
+      "11020203601",
+      "SINGLING JHS"
+    ],
+    [
+      "763",
+      "11020203702",
+      "MABONG JHS"
+    ],
+    [
+      "764",
+      "11020203801",
+      "MALBASEY BUDANG JHS"
+    ],
+    [
+      "765",
+      "11020204001",
+      "MALBASEY JHS"
+    ],
+    [
+      "766",
+      "11020204101",
+      "BUDANG JHS"
+    ],
+    [
+      "767",
+      "11020204701",
+      "JAMBUDARA PS"
+    ],
+    [
+      "768",
+      "11020204901",
+      "KARTHOK PS"
+    ],
+    [
+      "769",
+      "11020205001",
+      "THONGLING PS"
+    ],
+    [
+      "770",
+      "11020205101",
+      "MENDOGAON JHS"
+    ],
+    [
+      "771",
+      "11020205301",
+      "BARASAMSING PS"
+    ],
+    [
+      "772",
+      "11020205401",
+      "BOJECK JHS"
+    ],
+    [
+      "773",
+      "11020205601",
+      "KHUTTIDARA PS"
+    ],
+    [
+      "774",
+      "11020205701",
+      "BHARAKHELEY PS"
+    ],
+    [
+      "775",
+      "11020205801",
+      "SWALIGOAN JHS"
+    ],
+    [
+      "776",
+      "11020205901",
+      "RUPSANG PS"
+    ],
+    [
+      "777",
+      "11020206601",
+      "GAYNODAYA PS"
+    ],
+    [
+      "778",
+      "11020206801",
+      "SIMKHUNA BHASMEY PS"
+    ],
+    [
+      "779",
+      "11020206901",
+      "SIGENG JHS"
+    ],
+    [
+      "780",
+      "11020207101",
+      "SISNEY PS"
+    ],
+    [
+      "781",
+      "11020207201",
+      "HOORGOAN PS"
+    ],
+    [
+      "782",
+      "11020207501",
+      "UPPER KAMLING PS"
+    ],
+    [
+      "783",
+      "11020208701",
+      "KOLBONG PS"
+    ],
+    [
+      "784",
+      "11020209101",
+      "MAJUWA PS"
+    ],
+    [
+      "785",
+      "11020209201",
+      "AROOBOTEY PS"
+    ],
+    [
+      "786",
+      "11020209301",
+      "OKHERBOTEY PS"
+    ],
+    [
+      "787",
+      "11020209502",
+      "PHUNCHEBONG PS"
+    ],
+    [
+      "788",
+      "11020209601",
+      "SADHUGOAN PS"
+    ],
+    [
+      "789",
+      "11020209701",
+      "SUNTALEY PS"
+    ],
+    [
+      "790",
+      "11020209801",
+      "SINGREP PS"
+    ],
+    [
+      "791",
+      "11020210001",
+      "UPPER PAKKIGOAN PS"
+    ],
+    [
+      "792",
+      "11020210201",
+      "LOWER TIMBURBONG PS"
+    ],
+    [
+      "793",
+      "11020210401",
+      "BARBOTEY PS"
+    ],
+    [
+      "794",
+      "11020210501",
+      "L SULDONG PS"
+    ],
+    [
+      "795",
+      "11020210801",
+      "BIRDHANG JHS"
+    ],
+    [
+      "796",
+      "11020211301",
+      "GHUMAUNEY PS"
+    ],
+    [
+      "797",
+      "11020215501",
+      "RESHI SS"
+    ],
+    [
+      "798",
+      "11020300101",
+      "MANGALBARIA SSS"
+    ],
+    [
+      "799",
+      "11020300201",
+      "KALUK SSS"
+    ],
+    [
+      "800",
+      "11020300301",
+      "SRIBADAM SSS"
+    ],
+    [
+      "801",
+      "11020300501",
+      "RAMIDHAM PS"
+    ],
+    [
+      "802",
+      "11020300601",
+      "DEYTHANG JHS"
+    ],
+    [
+      "803",
+      "11020300701",
+      "HATHIDHUNGA SS"
+    ],
+    [
+      "804",
+      "11020300901",
+      "RINCHENPONG JHS"
+    ],
+    [
+      "805",
+      "11020301001",
+      "SAMDONG JHS"
+    ],
+    [
+      "806",
+      "11020301101",
+      "ZEEL JHS"
+    ],
+    [
+      "807",
+      "11020301301",
+      "JHUSINGTHANG JHS"
+    ],
+    [
+      "809",
+      "11020301401",
+      "BOOM RESHI JHS"
+    ],
+    [
+      "810",
+      "11020301501",
+      "LOWER TADONG PS"
+    ],
+    [
+      "811",
+      "11020301601",
+      "LOWER HATTIDHUNGA PS"
+    ],
+    [
+      "812",
+      "11020301701",
+      "BHANJYANGDARA PS"
+    ],
+    [
+      "813",
+      "11020301801",
+      "NAMGAON PS"
+    ],
+    [
+      "814",
+      "11020302001",
+      "NIJGOAN PS"
+    ],
+    [
+      "815",
+      "11020302101",
+      "TAFEL PS"
+    ],
+    [
+      "816",
+      "11020302201",
+      "DHANKUTAY PS"
+    ],
+    [
+      "817",
+      "11020302301",
+      "JAUBARI PS"
+    ],
+    [
+      "818",
+      "11020302401",
+      "LOWER SANGADORJEE PS"
+    ],
+    [
+      "819",
+      "11020302501",
+      "PARENGOAN PS"
+    ],
+    [
+      "820",
+      "11020302502",
+      "LOWER PARENGOAN PS"
+    ],
+    [
+      "821",
+      "11020302701",
+      "UPPER CHUCHEN JHS"
+    ],
+    [
+      "822",
+      "11020302801",
+      "BOOM RINCHENPONG PS"
+    ],
+    [
+      "823",
+      "11020303101",
+      "LOWER KARTHOK PS"
+    ],
+    [
+      "824",
+      "11020303201",
+      "BUKSOM PS"
+    ],
+    [
+      "825",
+      "11020303401",
+      "M. TAKUTHANG PS"
+    ],
+    [
+      "826",
+      "11020400101",
+      "HEE-YANGTHANG SSS"
+    ],
+    [
+      "827",
+      "11020400201",
+      "DENTAM SSS"
+    ],
+    [
+      "828",
+      "11020400401",
+      "KHANDU SS"
+    ],
+    [
+      "829",
+      "11020400501",
+      "UTTERAY SS"
+    ],
+    [
+      "830",
+      "11020400601",
+      "BEGHA JHS"
+    ],
+    [
+      "831",
+      "11020400603",
+      "MIDDLE BEGHA PS"
+    ],
+    [
+      "832",
+      "11020400701",
+      "BONGTEN SS"
+    ],
+    [
+      "833",
+      "11020400702",
+      "SRINAGI PS"
+    ],
+    [
+      "834",
+      "11020400801",
+      "MUKRUNG SS"
+    ],
+    [
+      "835",
+      "11020400901",
+      "SOPAKHA SS"
+    ],
+    [
+      "836",
+      "11020401001",
+      "LIDUNG PS"
+    ],
+    [
+      "837",
+      "11020401101",
+      "MILLING JHS"
+    ],
+    [
+      "838",
+      "11020401201",
+      "GITANG JHS"
+    ],
+    [
+      "839",
+      "11020401301",
+      "SANKHU PS"
+    ],
+    [
+      "840",
+      "11020401401",
+      "SIMBOLEY JHS"
+    ],
+    [
+      "841",
+      "11020401501",
+      "BULLUNG PS"
+    ],
+    [
+      "842",
+      "11020401601",
+      "BHALUKHOP PS"
+    ],
+    [
+      "843",
+      "11020401701",
+      "AGRI NAYA BUSTY JHS"
+    ],
+    [
+      "844",
+      "11020401801",
+      "SAPONG PS"
+    ],
+    [
+      "845",
+      "11020401901",
+      "JHAKRIDHUNGA PS"
+    ],
+    [
+      "846",
+      "11020402001",
+      "RADHU JHS"
+    ],
+    [
+      "847",
+      "11020402002",
+      "LOWER RADHU PS"
+    ],
+    [
+      "848",
+      "11020402101",
+      "DENTAM TAR JHS"
+    ],
+    [
+      "849",
+      "11020402201",
+      "CHANGEY PS"
+    ],
+    [
+      "850",
+      "11020402301",
+      "KONABAR PS"
+    ],
+    [
+      "851",
+      "11020402401",
+      "SEPI PS"
+    ],
+    [
+      "852",
+      "11020402501",
+      "BURUL SINGTAM JHS"
+    ],
+    [
+      "853",
+      "11020402601",
+      "SIMPHOK PS"
+    ],
+    [
+      "854",
+      "11020402701",
+      "SOMBUSTY PS"
+    ],
+    [
+      "855",
+      "11020402801",
+      "LOWER SHANKU PS"
+    ],
+    [
+      "856",
+      "11020402901",
+      "L SAPONG PS"
+    ],
+    [
+      "857",
+      "11020403301",
+      "HEE KENGBARI PS"
+    ],
+    [
+      "858",
+      "11020403701",
+      "HEE SAPUNG PS"
+    ],
+    [
+      "859",
+      "11020404001",
+      "HEE TAMABONG PS"
+    ],
+    [
+      "860",
+      "11020500101",
+      "KRIPASALYAN SSS DARAMDIN"
+    ],
+    [
+      "861",
+      "11020500201",
+      "SOMBARIA SSS"
+    ],
+    [
+      "862",
+      "11020500204",
+      "LOWER TIKPUR PS"
+    ],
+    [
+      "863",
+      "11020500301",
+      "OKHREY SS"
+    ],
+    [
+      "864",
+      "11020500401",
+      "RIBDI SS"
+    ],
+    [
+      "865",
+      "11020500501",
+      "TIKPUR SS"
+    ],
+    [
+      "866",
+      "11020500601",
+      "RUMBUK JHS"
+    ],
+    [
+      "867",
+      "11020500701",
+      "LUNGYAM JHS"
+    ],
+    [
+      "868",
+      "11020500801",
+      "BEYONG PS"
+    ],
+    [
+      "869",
+      "11020500901",
+      "SAPREYNAGI PS"
+    ],
+    [
+      "870",
+      "11020501001",
+      "AMBOTEY PS"
+    ],
+    [
+      "871",
+      "11020501101",
+      "MOONEWGOAN PS"
+    ],
+    [
+      "872",
+      "11020501201",
+      "PEURAYTAR PS"
+    ],
+    [
+      "873",
+      "11020501301",
+      "LOWER OKHREY PS"
+    ],
+    [
+      "874",
+      "11020501401",
+      "TAREYBHIR PS"
+    ],
+    [
+      "875",
+      "11020501501",
+      "SALANGDANG PS"
+    ],
+    [
+      "876",
+      "11020501601",
+      "ANDEN PS"
+    ],
+    [
+      "877",
+      "11020501701",
+      "SIKTAM PS"
+    ],
+    [
+      "878",
+      "11020501801",
+      "BHARENG PS"
+    ],
+    [
+      "879",
+      "11020501901",
+      "LOWER RUMBUK PS"
+    ],
+    [
+      "880",
+      "11020502101",
+      "NASA PS"
+    ],
+    [
+      "881",
+      "11020502201",
+      "RINGYANG PS"
+    ],
+    [
+      "882",
+      "11020502301",
+      "LUNGCHOK SS"
+    ],
+    [
+      "883",
+      "11020600101",
+      "TASHIDING SSS"
+    ],
+    [
+      "884",
+      "11020600201",
+      "GERETHANG SS"
+    ],
+    [
+      "885",
+      "11020600301",
+      "KHECHUPERI SSS"
+    ],
+    [
+      "886",
+      "11020600401",
+      "YUKSAM SSS"
+    ],
+    [
+      "887",
+      "11020600501",
+      "GANGYAP SS"
+    ],
+    [
+      "889",
+      "11020600601",
+      "KARJEE SS"
+    ],
+    [
+      "890",
+      "11020600701",
+      "MELLI SS"
+    ],
+    [
+      "891",
+      "11020600801",
+      "LABDANG SS"
+    ],
+    [
+      "892",
+      "11020600901",
+      "DARAPTHANG JHS"
+    ],
+    [
+      "893",
+      "11020601001",
+      "LABING PS"
+    ],
+    [
+      "894",
+      "11020601101",
+      "TINZIRING PS"
+    ],
+    [
+      "895",
+      "11020601201",
+      "KONGRI PS"
+    ],
+    [
+      "896",
+      "11020601301",
+      "BOOM MELLI PS"
+    ],
+    [
+      "897",
+      "11020601401",
+      "UPPER GERETHANG JHS"
+    ],
+    [
+      "898",
+      "11020601501",
+      "TIMBRONG JHS"
+    ],
+    [
+      "899",
+      "11020601601",
+      "LAMATHANG PS"
+    ],
+    [
+      "900",
+      "11020601701",
+      "NAMBU MANGTHANG PS"
+    ],
+    [
+      "901",
+      "11020601801",
+      "TAMATAM JHS"
+    ],
+    [
+      "902",
+      "11020601901",
+      "TING TING GOAN PS"
+    ],
+    [
+      "903",
+      "11020602001",
+      "RANGIT PS"
+    ],
+    [
+      "904",
+      "11020602101",
+      "CHUMANG PS"
+    ],
+    [
+      "905",
+      "11020602201",
+      "MIDDLE CHONGRANG JHS"
+    ],
+    [
+      "906",
+      "11020602301",
+      "SINGLITAM PS"
+    ],
+    [
+      "907",
+      "11020602401",
+      "SIMCHEN PS"
+    ],
+    [
+      "908",
+      "11020602501",
+      "TOPUNG PS"
+    ],
+    [
+      "909",
+      "11020602601",
+      "TATHANG PS"
+    ],
+    [
+      "910",
+      "11020602701",
+      "PEWTHANG PS"
+    ],
+    [
+      "911",
+      "11020602801",
+      "NERDANG PS"
+    ],
+    [
+      "912",
+      "11020602901",
+      "THANGCHUNG PS"
+    ],
+    [
+      "913",
+      "11020603001",
+      "MANGSABONG PS"
+    ],
+    [
+      "914",
+      "11020603101",
+      "NESSA ARITHANG PS"
+    ],
+    [
+      "915",
+      "11020603201",
+      "LETHANG PS"
+    ],
+    [
+      "916",
+      "11020603301",
+      "NAMBU TARENG PS"
+    ],
+    [
+      "280",
+      "11020603401",
+      "UPPER MANGNAM PS"
+    ],
+    [
+      "917",
+      "11020603601",
+      "MANGTABONG PS"
+    ],
+    [
+      "918",
+      "11020603701",
+      "THINGLING - II PS"
+    ],
+    [
+      "919",
+      "11020603801",
+      "CHOJO PS"
+    ],
+    [
+      "920",
+      "11020603901",
+      "DHUPPIDARA PS"
+    ],
+    [
+      "921",
+      "11020604001",
+      "LOWER MANGNAM PS"
+    ],
+    [
+      "922",
+      "11020604101",
+      "L CHONGRANG JHS"
+    ],
+    [
+      "923",
+      "11020604301",
+      "MIDDLE POKHARI PS"
+    ],
+    [
+      "924",
+      "11020604401",
+      "TSONG PS"
+    ],
+    [
+      "925",
+      "11020700101",
+      "BERMIOK MARTAM SS"
+    ],
+    [
+      "926",
+      "11020700201",
+      "YANGSUM SS"
+    ],
+    [
+      "927",
+      "11020700301",
+      "CHINGTHANG JHS"
+    ],
+    [
+      "928",
+      "11020700401",
+      "LOWER BERMIOK JHS"
+    ],
+    [
+      "929",
+      "11020700501",
+      "CENTRAL MARTAM JHS"
+    ],
+    [
+      "930",
+      "11020700601",
+      "NAJOR BERFOK JHS"
+    ],
+    [
+      "931",
+      "11020700701",
+      "HEE PATAL JHS"
+    ],
+    [
+      "932",
+      "11020700801",
+      "BERMIOK DARAGOAN JHS"
+    ],
+    [
+      "933",
+      "11020700901",
+      "MEYYONG PS"
+    ],
+    [
+      "934",
+      "11020701001",
+      "SAGBARI PS"
+    ],
+    [
+      "935",
+      "11020701101",
+      "PECHREAK PS"
+    ],
+    [
+      "936",
+      "11020701201",
+      "UPPER MARTAM PS"
+    ],
+    [
+      "937",
+      "11020701301",
+      "CHEWRIBOTEY PS"
+    ],
+    [
+      "938",
+      "11020701401",
+      "HEE MAJHGOAN PS"
+    ],
+    [
+      "939",
+      "11020701501",
+      "RUNGDU PS"
+    ],
+    [
+      "940",
+      "11030101105",
+      "SYAMDAS PS"
+    ],
+    [
+      "941",
+      "11030102501",
+      "NANGDANG PS"
+    ],
+    [
+      "942",
+      "11030102601",
+      "CHIYADARA PS"
+    ],
+    [
+      "943",
+      "11030102705",
+      "KAMRANG SS"
+    ],
+    [
+      "944",
+      "11030102801",
+      "KITCHUDUMRA PS"
+    ],
+    [
+      "945",
+      "11030103001",
+      "MAMLEY JHS"
+    ],
+    [
+      "946",
+      "11030103101",
+      "TINGRITHANG JHS"
+    ],
+    [
+      "947",
+      "11030103201",
+      "CHAMGOAN PS"
+    ],
+    [
+      "948",
+      "11030103301",
+      "PABONG SS"
+    ],
+    [
+      "949",
+      "11030104003",
+      "RONG SS"
+    ],
+    [
+      "950",
+      "11030104704",
+      "ASSANGTHANG JHS"
+    ],
+    [
+      "951",
+      "11030104803",
+      "PURANO NAMCHI PS"
+    ],
+    [
+      "952",
+      "11030105002",
+      "LOWER ASSANGTHANG PS"
+    ],
+    [
+      "953",
+      "11030106201",
+      "SALLEYBONG JHS"
+    ],
+    [
+      "954",
+      "11030106302",
+      "LOWER SINGTAM PS"
+    ],
+    [
+      "955",
+      "11030106403",
+      "SINGTAM PALLUM PS"
+    ],
+    [
+      "956",
+      "11030106404",
+      "PALLUM PS"
+    ],
+    [
+      "957",
+      "11030106502",
+      "BULL PS"
+    ],
+    [
+      "958",
+      "11030108601",
+      "UPPER JAWBARI JHS"
+    ],
+    [
+      "959",
+      "11030108701",
+      "DAMTHANG SS"
+    ],
+    [
+      "960",
+      "11030108801",
+      "CHEMCHEY JHS"
+    ],
+    [
+      "961",
+      "11030108901",
+      "PAKCHEY PS"
+    ],
+    [
+      "962",
+      "11030109001",
+      "JAWBARI PS"
+    ],
+    [
+      "963",
+      "11030109101",
+      "MANIRAM SS"
+    ],
+    [
+      "964",
+      "11030109201",
+      "PHALIDARA JHS"
+    ],
+    [
+      "965",
+      "11030109301",
+      "BHANJYANG PS"
+    ],
+    [
+      "967",
+      "11030109401",
+      "ALLEYDARA JHS"
+    ],
+    [
+      "968",
+      "11030109702",
+      "PAKJER PS"
+    ],
+    [
+      "969",
+      "11030110402",
+      "KITAM SSS"
+    ],
+    [
+      "970",
+      "11030110502",
+      "SOROK MANPUR PS"
+    ],
+    [
+      "971",
+      "11030110602",
+      "GOAM JHS"
+    ],
+    [
+      "972",
+      "11030110702",
+      "LOWER GOAM PS"
+    ],
+    [
+      "973",
+      "11030110802",
+      "LOWE KITAM PS"
+    ],
+    [
+      "974",
+      "11030110901",
+      "NAMCHI SSS"
+    ],
+    [
+      "975",
+      "11030111001",
+      "NAMCHI GIRLS SSS"
+    ],
+    [
+      "976",
+      "11030111101",
+      "NAMCHI NEW SS"
+    ],
+    [
+      "977",
+      "11030111201",
+      "TINZIR JHS"
+    ],
+    [
+      "978",
+      "11030111301",
+      "MICKKHOLA JHS"
+    ],
+    [
+      "979",
+      "11030111302",
+      "LOWER MICKHOLA PS"
+    ],
+    [
+      "980",
+      "11030111401",
+      "SINGITHANG PS"
+    ],
+    [
+      "981",
+      "11030111501",
+      "BOOMTAR PS"
+    ],
+    [
+      "982",
+      "11030111601",
+      "KOPCHEY PS"
+    ],
+    [
+      "983",
+      "11030111701",
+      "GUMPA GHURPISAY JHS"
+    ],
+    [
+      "984",
+      "11030117302",
+      "GURUNG GAON JHS"
+    ],
+    [
+      "985",
+      "11030118601",
+      "COMPOUND PS"
+    ],
+    [
+      "986",
+      "11030119001",
+      "MAZITAR JHS"
+    ],
+    [
+      "987",
+      "11030201401",
+      "LOWER BORRONG PS"
+    ],
+    [
+      "988",
+      "11030201501",
+      "MAYPONG PS"
+    ],
+    [
+      "989",
+      "11030201601",
+      "SADA PS"
+    ],
+    [
+      "990",
+      "11030201701",
+      "BORRONG SS"
+    ],
+    [
+      "1000",
+      "11030201702",
+      "BORONG SUNTALAY PS"
+    ],
+    [
+      "1001",
+      "11030201901",
+      "PHAMTAM JHS"
+    ],
+    [
+      "1002",
+      "11030201902",
+      "PHAMTAM MAKERJONG PS"
+    ],
+    [
+      "1003",
+      "11030202101",
+      "PAKSOM JHS"
+    ],
+    [
+      "1004",
+      "11030204002",
+      "MANGERDALAM PS"
+    ],
+    [
+      "1005",
+      "11030204101",
+      "LINGDING PS"
+    ],
+    [
+      "1006",
+      "11030204201",
+      "RALONG LUNGSING PS"
+    ],
+    [
+      "1007",
+      "11030204301",
+      "NAMLUNG JHS"
+    ],
+    [
+      "1008",
+      "11030204401",
+      "RALONG SS"
+    ],
+    [
+      "1009",
+      "11030204501",
+      "JARRONG SS"
+    ],
+    [
+      "1010",
+      "11030204701",
+      "BARFUNG PS"
+    ],
+    [
+      "1011",
+      "11030204801",
+      "LOWER JARRONG PS"
+    ],
+    [
+      "1012",
+      "11030204901",
+      "ANITHANG PS"
+    ],
+    [
+      "1013",
+      "11030205001",
+      "KEWZING SSS"
+    ],
+    [
+      "1014",
+      "11030205002",
+      "KEWZING TEA GARDEN PS"
+    ],
+    [
+      "1015",
+      "11030205201",
+      "DALEP KEWZING JHS"
+    ],
+    [
+      "1016",
+      "11030205301",
+      "LEGSHIP HINGDAM JHS"
+    ],
+    [
+      "1017",
+      "11030205302",
+      "LEGSHIP DHARGAON PS"
+    ],
+    [
+      "1018",
+      "11030205501",
+      "BAKKHIM PS"
+    ],
+    [
+      "1019",
+      "11030205601",
+      "LINGZOO PS"
+    ],
+    [
+      "1020",
+      "11030206001",
+      "MIDDLE RAYOUNG PS"
+    ],
+    [
+      "1021",
+      "11030206302",
+      "LOWER TARNIM PS"
+    ],
+    [
+      "1022",
+      "11030206303",
+      "TARNIM PS"
+    ],
+    [
+      "1023",
+      "11030206501",
+      "CHITTRAY PS"
+    ],
+    [
+      "1024",
+      "11030206701",
+      "RANKEY PS"
+    ],
+    [
+      "1025",
+      "11030206801",
+      "SANGMOO SS"
+    ],
+    [
+      "1026",
+      "11030206901",
+      "VCGL RAVANGLA SSS"
+    ],
+    [
+      "1027",
+      "11030207001",
+      "DOJAK JHS"
+    ],
+    [
+      "1028",
+      "11030207101",
+      "LOWER RAYONG JHS"
+    ],
+    [
+      "1029",
+      "11030207201",
+      "DEYTHANG JHS"
+    ],
+    [
+      "1030",
+      "11030208601",
+      "GANGLA PS"
+    ],
+    [
+      "1031",
+      "11030208701",
+      "UPPER RAYOUNG PS"
+    ],
+    [
+      "1032",
+      "11030300101",
+      "BERMIOK DARING PS"
+    ],
+    [
+      "1033",
+      "11030300201",
+      "PABONG DARING SS"
+    ],
+    [
+      "1034",
+      "11030300301",
+      "BERMIOK PASSI PS"
+    ],
+    [
+      "1035",
+      "11030300401",
+      "THANGSING JHS"
+    ],
+    [
+      "1036",
+      "11030300501",
+      "CHALLAMTHANG JHS"
+    ],
+    [
+      "1037",
+      "11030300502",
+      "REKAPE PS"
+    ],
+    [
+      "1038",
+      "11030300601",
+      "BERMIOK TOKAL SSS"
+    ],
+    [
+      "1039",
+      "11030300701",
+      "NAMPHING SS"
+    ],
+    [
+      "1040",
+      "11030300801",
+      "AMALAY PS"
+    ],
+    [
+      "1041",
+      "11030300901",
+      "BERMIOK DELEP PS"
+    ],
+    [
+      "1042",
+      "11030301002",
+      "AAP GACHI PIPAL BOTEY PS"
+    ],
+    [
+      "1043",
+      "11030301101",
+      "LOWER NAMPHING PS"
+    ],
+    [
+      "1044",
+      "11030301201",
+      "LOWER CHALLAMTHANG JHS"
+    ],
+    [
+      "1045",
+      "11030301301",
+      "TARKU SS"
+    ],
+    [
+      "1046",
+      "11030301401",
+      "KAMERGOAN PS"
+    ],
+    [
+      "1047",
+      "11030301402",
+      "LOWER TARKU JHS"
+    ],
+    [
+      "1048",
+      "11030301501",
+      "LOWER TARKU GAIRIGOAN PS"
+    ],
+    [
+      "1049",
+      "11030301601",
+      "LOWER TANAK PS"
+    ],
+    [
+      "1050",
+      "11030301701",
+      "DEO DENTAM PS"
+    ],
+    [
+      "1051",
+      "11030301801",
+      "TEMI SSS"
+    ],
+    [
+      "1052",
+      "11030301901",
+      "AIFALTAR PS"
+    ],
+    [
+      "1053",
+      "11030302001",
+      "UPPER TANAK PS"
+    ],
+    [
+      "1054",
+      "11030302101",
+      "GENCHUNG PS"
+    ],
+    [
+      "1055",
+      "11030302201",
+      "TIMI TEAGARDEN JHS"
+    ],
+    [
+      "1056",
+      "11030302501",
+      "BEN SS"
+    ],
+    [
+      "1057",
+      "11030302502",
+      "BEN KATUJA PS"
+    ],
+    [
+      "1058",
+      "11030302503",
+      "BEN ROLOK PS"
+    ],
+    [
+      "1059",
+      "11030302601",
+      "SIMKHARKA PS"
+    ],
+    [
+      "1060",
+      "11030302701",
+      "BEN NAMPHRIK PS"
+    ],
+    [
+      "1061",
+      "11030302801",
+      "BEN PEKU PS"
+    ],
+    [
+      "1062",
+      "11030302901",
+      "BEN KABEY JHS"
+    ],
+    [
+      "1063",
+      "11030303001",
+      "MANGLEY SINCHUTHANG JHS"
+    ],
+    [
+      "1064",
+      "11030400101",
+      "HARRABOTEY PS"
+    ],
+    [
+      "1065",
+      "11030400201",
+      "DONG AMBOTEY JHS"
+    ],
+    [
+      "1066",
+      "11030400301",
+      "DENCHUNG JHS"
+    ],
+    [
+      "1067",
+      "11030400401",
+      "JORETHANG SSS"
+    ],
+    [
+      "1068",
+      "11030400601",
+      "TIMBURAY PS"
+    ],
+    [
+      "1069",
+      "11030400701",
+      "BHAISALGAON PS"
+    ],
+    [
+      "1070",
+      "11030400702",
+      "SALGHARI SS"
+    ],
+    [
+      "1071",
+      "11030400801",
+      "NANDU GOAN SSS"
+    ],
+    [
+      "1072",
+      "11030400901",
+      "TINIK CHISOPANI JHS"
+    ],
+    [
+      "1073",
+      "11030401102",
+      "NANDUGAON SUNTALAY PS"
+    ],
+    [
+      "1074",
+      "11030401801",
+      "LOWER NANDUGAON PS"
+    ],
+    [
+      "1075",
+      "11030401901",
+      "BORBOTAY PS"
+    ],
+    [
+      "1076",
+      "11030402101",
+      "DHARGOAN PS"
+    ],
+    [
+      "1077",
+      "11030500101",
+      "VOK SS"
+    ],
+    [
+      "1078",
+      "11030500201",
+      "CHUMLOK JHS"
+    ],
+    [
+      "1079",
+      "11030500401",
+      "GUMPA DARA PS"
+    ],
+    [
+      "1080",
+      "11030500501",
+      "C.M.RAI OMCHU SS"
+    ],
+    [
+      "1081",
+      "11030500601",
+      "TINGMOO SS"
+    ],
+    [
+      "1082",
+      "11030500701",
+      "LAMATEN PS"
+    ],
+    [
+      "1083",
+      "11030500801",
+      "TINGMOO BIRING PS"
+    ],
+    [
+      "1084",
+      "11030500901",
+      "MANGBRUE PS"
+    ],
+    [
+      "1085",
+      "11030501001",
+      "SUBUK PS"
+    ],
+    [
+      "1086",
+      "11030501101",
+      "LINGYOUNG JHS"
+    ],
+    [
+      "1087",
+      "11030501201",
+      "SANGANATH SS"
+    ],
+    [
+      "1088",
+      "11030501203",
+      "ROCKLAND LPS"
+    ],
+    [
+      "1089",
+      "11030600101",
+      "CHUBA SS"
+    ],
+    [
+      "1090",
+      "11030600201",
+      "BANSBOTEY PS"
+    ],
+    [
+      "1091",
+      "11030600301",
+      "PHONG SS"
+    ],
+    [
+      "1092",
+      "11030600401",
+      "TANGZI PS"
+    ],
+    [
+      "1093",
+      "11030600501",
+      "PASSI JHS"
+    ],
+    [
+      "1094",
+      "11030600601",
+      "RATEYPANI SSS"
+    ],
+    [
+      "1095",
+      "11030600701",
+      "KAREK JOGIDARA PS"
+    ],
+    [
+      "1096",
+      "11030600703",
+      "RUBDI TORIBARI PS"
+    ],
+    [
+      "1097",
+      "11030600801",
+      "TANGEY BARBOTEY PS"
+    ],
+    [
+      "1098",
+      "11030600901",
+      "KAIJALEY JHS"
+    ],
+    [
+      "1098",
+      "11030601001",
+      "KABREY SS"
+    ],
+    [
+      "1099",
+      "11030601004",
+      "BURUL SS"
+    ],
+    [
+      "1100",
+      "11030601101",
+      "TURUNG SS"
+    ],
+    [
+      "1101",
+      "11030601201",
+      "TEK PS"
+    ],
+    [
+      "1102",
+      "11030601301",
+      "PAMPHOK JHS"
+    ],
+    [
+      "1103",
+      "11030601401",
+      "MAMRING JHS"
+    ],
+    [
+      "1104",
+      "11030601501",
+      "DONAK PS"
+    ],
+    [
+      "1105",
+      "11030601601",
+      "SUBINKHORE PS"
+    ],
+    [
+      "1106",
+      "11030601701",
+      "JHOLUNGEY PS"
+    ],
+    [
+      "1107",
+      "11030601801",
+      "KETENG MAKERJONG PS"
+    ],
+    [
+      "1108",
+      "11030601901",
+      "BHALUKHOP PS"
+    ],
+    [
+      "1109",
+      "11030602001",
+      "NAMTHANG SSS"
+    ],
+    [
+      "1110",
+      "11030602101",
+      "KATENG SS"
+    ],
+    [
+      "1111",
+      "11030602102",
+      "NIZ RAMENG PS"
+    ],
+    [
+      "1112",
+      "11030602201",
+      "NAGI POLITAM PS"
+    ],
+    [
+      "1113",
+      "11030602301",
+      "RUCHUNG PS"
+    ],
+    [
+      "1114",
+      "11030602401",
+      "POLITAM PS"
+    ],
+    [
+      "1115",
+      "11030602501",
+      "PERBINGKHOP PS"
+    ],
+    [
+      "1116",
+      "11030602601",
+      "TINGLEY SS"
+    ],
+    [
+      "1117",
+      "11030602801",
+      "PERBING SSS"
+    ],
+    [
+      "1118",
+      "11030602803",
+      "LOWER PERBING JHS"
+    ],
+    [
+      "1119",
+      "11030602805",
+      "DONG PS"
+    ],
+    [
+      "1120",
+      "11030602901",
+      "RABIKHOLA PS"
+    ],
+    [
+      "1121",
+      "11030603001",
+      "BIKMAT SS"
+    ],
+    [
+      "1122",
+      "11030603201",
+      "KHAYARBOTAY PS"
+    ],
+    [
+      "1123",
+      "11030700101",
+      "YANGANG SSS"
+    ],
+    [
+      "1124",
+      "11030700201",
+      "KARUNGTHANG JHS"
+    ],
+    [
+      "1125",
+      "11030700301",
+      "PATHING JHS"
+    ],
+    [
+      "1126",
+      "11030700401",
+      "UPPER YANGANG JHS"
+    ],
+    [
+      "1127",
+      "11030700501",
+      "UPPER SATAM PS"
+    ],
+    [
+      "1128",
+      "11030700601",
+      "SOKEY JHS"
+    ],
+    [
+      "1129",
+      "11030700701",
+      "SAMRUK JHS"
+    ],
+    [
+      "1130",
+      "11030700801",
+      "RANGANG PS"
+    ],
+    [
+      "1131",
+      "11030700902",
+      "SRIPATAM JHS"
+    ],
+    [
+      "1132",
+      "11030701001",
+      "MAJUWA PS"
+    ],
+    [
+      "1133",
+      "11030701101",
+      "NAMPHOK SS"
+    ],
+    [
+      "1134",
+      "11030701102",
+      "KATENG DHINGTAR PS"
+    ],
+    [
+      "1135",
+      "11030701201",
+      "MENGLEE JHS"
+    ],
+    [
+      "1136",
+      "11030701301",
+      "TOKDAY JHS"
+    ],
+    [
+      "1137",
+      "11030701401",
+      "UPPER LINGMOO JHS"
+    ],
+    [
+      "1138",
+      "11030701501",
+      "LINGMOO PEPTHANG PS"
+    ],
+    [
+      "1139",
+      "11030701602",
+      "LINGMOO SSS"
+    ],
+    [
+      "1140",
+      "11030701701",
+      "NEH BROOM SS"
+    ],
+    [
+      "1141",
+      "11030701702",
+      "LOWER BROOM PS"
+    ],
+    [
+      "1142",
+      "11030701801",
+      "MANGZING JHS"
+    ],
+    [
+      "1143",
+      "11030701901",
+      "UPPER NIYA PS"
+    ],
+    [
+      "1144",
+      "11030702001",
+      "LINGEE SSS"
+    ],
+    [
+      "1145",
+      "11030702101",
+      "LINGEE PAYONG JHS"
+    ],
+    [
+      "1146",
+      "11030702201",
+      "KAW PS"
+    ],
+    [
+      "1147",
+      "11030702301",
+      "DARAKHARKA PS"
+    ],
+    [
+      "1148",
+      "11030702401",
+      "KARJEE JHS"
+    ],
+    [
+      "1149",
+      "11030702501",
+      "BADAMTAM PS"
+    ],
+    [
+      "1150",
+      "11030702601",
+      "SUMSEE PS"
+    ],
+    [
+      "1151",
+      "11030702701",
+      "SOKPAY JHS"
+    ],
+    [
+      "1152",
+      "11030703001",
+      "BANDEY PS"
+    ],
+    [
+      "1153",
+      "11030703101",
+      "LOWER MANZING (JOGIDARA) PS"
+    ],
+    [
+      "1154",
+      "11030800101",
+      "SADAM SSS"
+    ],
+    [
+      "1155",
+      "11030800102",
+      "ROGDARA PS"
+    ],
+    [
+      "1156",
+      "11030800201",
+      "SUKRABAREY PS"
+    ],
+    [
+      "1157",
+      "11030800301",
+      "SUNTALAY JHS"
+    ],
+    [
+      "1158",
+      "11030800401",
+      "SUMBUK SSS"
+    ],
+    [
+      "1159",
+      "11030800501",
+      "GUPTIGOAN PS"
+    ],
+    [
+      "1160",
+      "11030800601",
+      "LUNCHOK JHS"
+    ],
+    [
+      "1161",
+      "11030800701",
+      "KAMERAY JHS"
+    ],
+    [
+      "1162",
+      "11030800801",
+      "KARTIKAY JHS"
+    ],
+    [
+      "1163",
+      "11030800901",
+      "MUNGRANG PS"
+    ],
+    [
+      "1164",
+      "11030801001",
+      "RAMABONG PS"
+    ],
+    [
+      "1165",
+      "11030801101",
+      "BILLING PS"
+    ],
+    [
+      "1166",
+      "11030801201",
+      "PANCHGAREY JHS"
+    ],
+    [
+      "1167",
+      "11030801401",
+      "MELLI BAZAAR SS"
+    ],
+    [
+      "1168",
+      "11030801501",
+      "MELLI GUMPA SS"
+    ],
+    [
+      "1169",
+      "11030801601",
+      "MELLI PAIYONG JHS"
+    ],
+    [
+      "1170",
+      "11030801602",
+      "BEGANI PS"
+    ],
+    [
+      "1171",
+      "11030801701",
+      "MELLI KERABARI JHS"
+    ],
+    [
+      "1172",
+      "11030801801",
+      "KUBINDAY PS"
+    ],
+    [
+      "1173",
+      "11030801901",
+      "SUNTELAY MAKERJONG PS"
+    ],
+    [
+      "1174",
+      "11030802301",
+      "RABITAR JHS"
+    ],
+    [
+      "1175",
+      "11030802401",
+      "TURUK SS"
+    ],
+    [
+      "1176",
+      "11030802501",
+      "ROLU MANPUR PS"
+    ],
+    [
+      "1177",
+      "11040100101",
+      "AHO SHANTI SS"
+    ],
+    [
+      "1178",
+      "11040100102",
+      "AHO YANGTAM PS"
+    ],
+    [
+      "1179",
+      "11040100201",
+      "DIKLING SSS"
+    ],
+    [
+      "1178",
+      "11040100301",
+      "PACHEY KHANI SS"
+    ],
+    [
+      "1179",
+      "11040100701",
+      "NAMCHEYBONG SS"
+    ],
+    [
+      "1180",
+      "11040100801",
+      "BASHILAKHA PS"
+    ],
+    [
+      "1181",
+      "11040100901",
+      "PACHEY SAMSING PS"
+    ],
+    [
+      "1182",
+      "11040101001",
+      "MAMRING SSS"
+    ],
+    [
+      "1183",
+      "11040101401",
+      "AMBA SS"
+    ],
+    [
+      "1184",
+      "11040101402",
+      "TAKSANG PS"
+    ],
+    [
+      "1185",
+      "11040102501",
+      "PAKYONG JHS"
+    ],
+    [
+      "1186",
+      "11040102502",
+      "KATHOK PS"
+    ],
+    [
+      "1187",
+      "11040102505",
+      "RAI GAON"
+    ],
+    [
+      "1189",
+      "11040102901",
+      "PACHEY SS"
+    ],
+    [
+      "1190",
+      "11040103201",
+      "LOWER KADATAM"
+    ],
+    [
+      "1191",
+      "11040103301",
+      "UPPER KADAMTAM"
+    ],
+    [
+      "1192",
+      "11040103401",
+      "AHO -KISSAN SS"
+    ],
+    [
+      "1193",
+      "11040103501",
+      "RORATHANG SS"
+    ],
+    [
+      "1194",
+      "11040103601",
+      "NIMTAR JHS"
+    ],
+    [
+      "1195",
+      "11040300101",
+      "ASSAM LINGZEY SSS"
+    ],
+    [
+      "1196",
+      "11040300201",
+      "PABYUICK SS"
+    ],
+    [
+      "1197",
+      "11040300301",
+      "GAUCHARAN J.HS"
+    ],
+    [
+      "1198",
+      "11040300302",
+      "DARINGLINGZEY PS"
+    ],
+    [
+      "1199",
+      "11040300501",
+      "SAURENI J.H.S"
+    ],
+    [
+      "1200",
+      "11040300801",
+      "T.N SSS"
+    ],
+    [
+      "1201",
+      "11040300802",
+      "SICHEY SS"
+    ],
+    [
+      "1202",
+      "11040300901",
+      "BURTUK JHS"
+    ],
+    [
+      "1203",
+      "11040300902",
+      "LOWER BHUTUK"
+    ],
+    [
+      "1204",
+      "11040301001",
+      "DEORALI SSS"
+    ],
+    [
+      "1205",
+      "11040301101",
+      "UPPER SYARI JHS"
+    ],
+    [
+      "1206",
+      "11040301201",
+      "C.S. RAI JHS ARITHANG"
+    ],
+    [
+      "1207",
+      "11040301301",
+      "LINGDING JHS"
+    ],
+    [
+      "1208",
+      "11040301501",
+      "NANDOK SS"
+    ],
+    [
+      "1209",
+      "11040301502",
+      "LOWER NANDOK JHS"
+    ],
+    [
+      "1210",
+      "11040302001",
+      "TADONG SSS"
+    ],
+    [
+      "1211",
+      "11040302101",
+      "LOWER SYARI SS"
+    ],
+    [
+      "1212",
+      "11040302102",
+      "NIMTHANG PS"
+    ],
+    [
+      "1213",
+      "11040302201",
+      "SAMDUR PS"
+    ],
+    [
+      "1214",
+      "11040302301",
+      "LUMSEY JHS"
+    ],
+    [
+      "1215",
+      "11040302901",
+      "RONGNECK JHS"
+    ],
+    [
+      "1216",
+      "11040303001",
+      "BHUSUK JHS"
+    ],
+    [
+      "1217",
+      "11040303101",
+      "CHONGEYTAR PS"
+    ],
+    [
+      "1218",
+      "11040303201",
+      "NAMONG JHS"
+    ],
+    [
+      "1219",
+      "11040303301",
+      "MERUNG PS"
+    ],
+    [
+      "1220",
+      "11040303401",
+      "YALLI PS"
+    ],
+    [
+      "1221",
+      "11040303701",
+      "THEGU PS"
+    ],
+    [
+      "1222",
+      "11040303901",
+      "ENCHEY SSS"
+    ],
+    [
+      "1223",
+      "11040304001",
+      "4 TH MILE JHS"
+    ],
+    [
+      "1224",
+      "11040304101",
+      "10 MILE P.S JN RD"
+    ],
+    [
+      "1225",
+      "11040304201",
+      "WEST POINT SSS"
+    ],
+    [
+      "1226",
+      "11040304202",
+      "MODERN SS"
+    ],
+    [
+      "1227",
+      "11040305301",
+      "SOTAK P.S"
+    ],
+    [
+      "1228",
+      "11040305401",
+      "NAVEY PS"
+    ],
+    [
+      "1229",
+      "11040305501",
+      "BOJOGHARI SSS"
+    ],
+    [
+      "1230",
+      "11040305601",
+      "PANGTHANG JHS"
+    ],
+    [
+      "1231",
+      "11040305602",
+      "PANGTHANG SAP"
+    ],
+    [
+      "1232",
+      "11040305701",
+      "PENLONG SS"
+    ],
+    [
+      "1234",
+      "11040305801",
+      "LINGDOK SSS"
+    ],
+    [
+      "1235",
+      "11040305803",
+      "NAMPONG JHS"
+    ],
+    [
+      "1236",
+      "11040400101",
+      "CHUJACHEN SSS"
+    ],
+    [
+      "1237",
+      "11040400102",
+      "CHUJACHEN LUNGCHOK PS"
+    ],
+    [
+      "1238",
+      "11040400103",
+      "LOK DARA PS"
+    ],
+    [
+      "1239",
+      "11040400105",
+      "GANGYAP PS"
+    ],
+    [
+      "1240",
+      "11040400106",
+      "POSAKEY PS"
+    ],
+    [
+      "1241",
+      "11040400201",
+      "RONGLI JHS"
+    ],
+    [
+      "1242",
+      "11040400207",
+      "CHUNNBHATTI PS"
+    ],
+    [
+      "1243",
+      "11040400301",
+      "SISNEY PS"
+    ],
+    [
+      "1244",
+      "11040400401",
+      "CHANGEYLAKHA PS"
+    ],
+    [
+      "1245",
+      "11040400501",
+      "LOWER DALAPCHAND PS"
+    ],
+    [
+      "1246",
+      "11040400601",
+      "DALAPCHAND SS"
+    ],
+    [
+      "1247",
+      "11040400701",
+      "KATARBOTEY PS"
+    ],
+    [
+      "1248",
+      "11040400801",
+      "DEOLING PS"
+    ],
+    [
+      "1249",
+      "11040400901",
+      "CHANDANEY PS"
+    ],
+    [
+      "1250",
+      "11040401001",
+      "LINGTAM SS"
+    ],
+    [
+      "1251",
+      "11040401301",
+      "PASTING PS"
+    ],
+    [
+      "1252",
+      "11040401401",
+      "BOUCHEN PS"
+    ],
+    [
+      "1253",
+      "11040401501",
+      "ROLEP SS"
+    ],
+    [
+      "1254",
+      "11040401601",
+      "LAMATEN PS"
+    ],
+    [
+      "1255",
+      "11040401701",
+      "DODACHEN PS"
+    ],
+    [
+      "1256",
+      "11040401801",
+      "PHADAMCHEN SS"
+    ],
+    [
+      "1257",
+      "11040401802",
+      "DZULUK PS"
+    ],
+    [
+      "1258",
+      "11040401901",
+      "NIMACHEN PS"
+    ],
+    [
+      "1259",
+      "11040402001",
+      "SOUTH REGU JHS"
+    ],
+    [
+      "1260",
+      "11040402002",
+      "PACHA SARASWATI"
+    ],
+    [
+      "1261",
+      "11040402101",
+      "NORTH REGU JHS"
+    ],
+    [
+      "1262",
+      "11040402201",
+      "DOKCHEN PS"
+    ],
+    [
+      "1263",
+      "11040404001",
+      "RHENOCK SSS"
+    ],
+    [
+      "1264",
+      "11040404002",
+      "AGRI GOAN PS"
+    ],
+    [
+      "1265",
+      "11040404003",
+      "ARITAR SS"
+    ],
+    [
+      "1266",
+      "11040404201",
+      "THUNGSUNG PS"
+    ],
+    [
+      "1267",
+      "11040404301",
+      "MIDDLE ARITAR"
+    ],
+    [
+      "1268",
+      "11040404401",
+      "UPPER KHAMDONG PS"
+    ],
+    [
+      "1269",
+      "11040404402",
+      "RHENOCK KHAMDONG JHS"
+    ],
+    [
+      "1270",
+      "11040500101",
+      "TARPIN SS"
+    ],
+    [
+      "1271",
+      "11040500103",
+      "TARPIN SAALGHARI"
+    ],
+    [
+      "1272",
+      "11040500105",
+      "RHENOCK JHS"
+    ],
+    [
+      "1273",
+      "11040500201",
+      "RESHI PS"
+    ],
+    [
+      "1274",
+      "11040500301",
+      "RUNGDUNG PS"
+    ],
+    [
+      "1275",
+      "11040500801",
+      "SUDUNG LAKHA SS"
+    ],
+    [
+      "1276",
+      "11040500802",
+      "LOWER SUDUNG LAKHA PS"
+    ],
+    [
+      "1277",
+      "11040500901",
+      "MULUKEY JHS"
+    ],
+    [
+      "1278",
+      "11040501201",
+      "TITRIBOTEY PS"
+    ],
+    [
+      "1279",
+      "11040501202",
+      "TAZA JHS"
+    ],
+    [
+      "1280",
+      "11040501301",
+      "LOWER BERING PS"
+    ],
+    [
+      "1281",
+      "11040501302",
+      "BERING JHS"
+    ],
+    [
+      "1282",
+      "11040506401",
+      "GANCHUNG JHS"
+    ],
+    [
+      "1283",
+      "11040506501",
+      "DUGA LAKHA JHS"
+    ],
+    [
+      "1284",
+      "11040506601",
+      "TARETHANG SS"
+    ],
+    [
+      "1285",
+      "11040506602",
+      "TAKSONG KAIZLEY"
+    ],
+    [
+      "1286",
+      "11040506701",
+      "KAPUTHANG PS"
+    ],
+    [
+      "1287",
+      "11040506801",
+      "LINKEY SS"
+    ],
+    [
+      "1288",
+      "11040506901",
+      "D.MANPUR PS"
+    ],
+    [
+      "1289",
+      "11040507001",
+      "ANKUCHEN PS"
+    ],
+    [
+      "1290",
+      "11040601701",
+      "RALAP SS"
+    ],
+    [
+      "1291",
+      "11040602101",
+      "SAKYONG CHISOPANI PS"
+    ],
+    [
+      "1291",
+      "11040602301",
+      "DOCHUM JHS"
+    ],
+    [
+      "1292",
+      "11040602501",
+      "SIRWANI SS"
+    ],
+    [
+      "1293",
+      "11040602601",
+      "SINGTAM SSS"
+    ],
+    [
+      "1294",
+      "11040602801",
+      "BIRKUNA JHS"
+    ],
+    [
+      "1295",
+      "11040603001",
+      "BENG THANG SING PS"
+    ],
+    [
+      "1296",
+      "11040603101",
+      "BADONG THANG SING PS"
+    ],
+    [
+      "1297",
+      "11040603201",
+      "DIPU DARA PS"
+    ],
+    [
+      "1298",
+      "11040603301",
+      "LINGDONG PS"
+    ],
+    [
+      "1299",
+      "11040603601",
+      "KHAMDONG SSS"
+    ],
+    [
+      "1300",
+      "11040604501",
+      "SAKYONG NAMGEYTHANG JHS"
+    ],
+    [
+      "1301",
+      "11040604601",
+      "RABDONG CHOTANG"
+    ],
+    [
+      "1302",
+      "11040604701",
+      "MIDDLE CAMP SS"
+    ],
+    [
+      "1303",
+      "11040604801",
+      "MAKHA SSS"
+    ],
+    [
+      "1304",
+      "11040604901",
+      "SINGBEL JHS"
+    ],
+    [
+      "1305",
+      "11040605001",
+      "THANSING PS"
+    ],
+    [
+      "1306",
+      "11040700101",
+      "KAMBAL JHS"
+    ],
+    [
+      "1307",
+      "11040700102",
+      "LOWER KAMBAL PS"
+    ],
+    [
+      "1308",
+      "11040700201",
+      "PHALAICHADARA JHS"
+    ],
+    [
+      "1309",
+      "11040700203",
+      "LAXMI NIKETAN PS"
+    ],
+    [
+      "1310",
+      "11040700301",
+      "RALEY KHESEY JHS"
+    ],
+    [
+      "1311",
+      "11040700401",
+      "SAMDONG SSS"
+    ],
+    [
+      "1312",
+      "11040700402",
+      "LOWER SAMDONG SS"
+    ],
+    [
+      "1313",
+      "11040700501",
+      "TINTEK MARCHAK PS"
+    ],
+    [
+      "1314",
+      "11040700601",
+      "DIKCHU SSS"
+    ],
+    [
+      "1315",
+      "11040700603",
+      "RAKDONG SOPKEY"
+    ],
+    [
+      "1316",
+      "11040700701",
+      "SAMTHAR PS"
+    ],
+    [
+      "1317",
+      "11040700801",
+      "TINTEK CHUBA PS"
+    ],
+    [
+      "1318",
+      "11040700803",
+      "TINTEK SARASWATI PS"
+    ],
+    [
+      "1319",
+      "11040700901",
+      "RAKDONG TINTEK JHS"
+    ],
+    [
+      "1320",
+      "11040701001",
+      "TUMIN NAMRANG JHS"
+    ],
+    [
+      "1321",
+      "11040701101",
+      "TUMIN BARANG"
+    ],
+    [
+      "1322",
+      "11040701201",
+      "TUMIN DHANBARI"
+    ],
+    [
+      "1323",
+      "11040701301",
+      "MACHALAKHA PS"
+    ],
+    [
+      "1324",
+      "11040701401",
+      "TUMIN SS"
+    ],
+    [
+      "1325",
+      "11040701402",
+      "MINTOKGANG PS"
+    ],
+    [
+      "1356",
+      "11040701403",
+      "SURYODAYA JHS"
+    ],
+    [
+      "1327",
+      "11040701501",
+      "SUBITHANG PS"
+    ],
+    [
+      "1328",
+      "11040701601",
+      "SIMICK LINGZEY JHS"
+    ],
+    [
+      "1329",
+      "11040701701",
+      "DONGEY THANG PS"
+    ],
+    [
+      "1330",
+      "11040701801",
+      "PATUK CHANDEYJHS"
+    ],
+    [
+      "1331",
+      "11040701802",
+      "CENTRAL PATUK PS"
+    ],
+    [
+      "1332",
+      "11040701901",
+      "PATUK KOKALEY PS"
+    ],
+    [
+      "1333",
+      "11040702001",
+      "TORIBARI PS"
+    ],
+    [
+      "1334",
+      "11040800101",
+      "OKHERBOTEY PS"
+    ],
+    [
+      "1335",
+      "11040800201",
+      "BUDANG P S"
+    ],
+    [
+      "1336",
+      "11040800301",
+      "SAJONG JHS"
+    ],
+    [
+      "1337",
+      "11040800401",
+      "CENTRAL PENDAM SSS"
+    ],
+    [
+      "1338",
+      "11040800501",
+      "KUMREK PS"
+    ],
+    [
+      "1339",
+      "11040800701",
+      "MAJITAR SS"
+    ],
+    [
+      "1340",
+      "11040800801",
+      "RANGPO BAZAR JHS"
+    ],
+    [
+      "1341",
+      "11040801001",
+      "RANGPO SSS"
+    ],
+    [
+      "1342",
+      "11040801101",
+      "SAMSING SUNTALEY PS"
+    ],
+    [
+      "1343",
+      "11040801401",
+      "ZITLANG JHS"
+    ],
+    [
+      "1344",
+      "11040801601",
+      "CHERIBOWTEY JHS"
+    ],
+    [
+      "1345",
+      "11040801701",
+      "DUGA SS"
+    ],
+    [
+      "1346",
+      "11040801801",
+      "KHANI GAON PS"
+    ],
+    [
+      "1347",
+      "11040801901",
+      "SINGLEBONG JHS"
+    ],
+    [
+      "1348",
+      "11040802001",
+      "SAKHU KHANI PS"
+    ],
+    [
+      "1349",
+      "11040802101",
+      "SAPLEY SARDEREY SS"
+    ],
+    [
+      "1350",
+      "11040802104",
+      "SAWNEY PS"
+    ],
+    [
+      "1351",
+      "11040802201",
+      "SUMIN MANGTHANG JHS"
+    ],
+    [
+      "1352",
+      "11040802301",
+      "UPPER SUMIN JHS"
+    ],
+    [
+      "1353",
+      "11040802401",
+      "LOWER SUMIN SS"
+    ],
+    [
+      "1354",
+      "11040802501",
+      "SUMIN LINGCHEY SS"
+    ],
+    [
+      "1355",
+      "11040802502",
+      "UPPER LINGCHEY PS"
+    ],
+    [
+      "1356",
+      "11040802801",
+      "BORDANG JHS"
+    ],
+    [
+      "1357",
+      "11040802902",
+      "PADAMCHEY SS"
+    ],
+    [
+      "1358",
+      "11040803001",
+      "BHASMEY JHS"
+    ],
+    [
+      "1359",
+      "11040803101",
+      "PACHAK SS"
+    ],
+    [
+      "1360",
+      "11040803201",
+      "UPPER PACHAK PS"
+    ],
+    [
+      "1361",
+      "11040803301",
+      "DAMALAKHA JHS"
+    ],
+    [
+      "1362",
+      "11040803401",
+      "KAIYONG PS"
+    ],
+    [
+      "1363",
+      "11040803501",
+      "KAMEREY PS"
+    ],
+    [
+      "1364",
+      "11040900101",
+      "RUMTEK SSS"
+    ],
+    [
+      "1365",
+      "11040900102",
+      "R/ KAYATHANG PS"
+    ],
+    [
+      "1366",
+      "11040900103",
+      "REY MINDU JHS"
+    ],
+    [
+      "1367",
+      "11040900104",
+      "ADAM POOL JHS"
+    ],
+    [
+      "1368",
+      "11040900301",
+      "SAZONG THIMPEN PS"
+    ],
+    [
+      "1369",
+      "11040900401",
+      "CHINZEY PS"
+    ],
+    [
+      "1370",
+      "11040900501",
+      "MAHABIR PS"
+    ],
+    [
+      "1371",
+      "11040900601",
+      "DOKSING PS"
+    ],
+    [
+      "1372",
+      "11040900701",
+      "THAMI DARA JHS"
+    ],
+    [
+      "1373",
+      "11040900801",
+      "LUING SS"
+    ],
+    [
+      "1374",
+      "11040900802",
+      "LOWER LUING PS"
+    ],
+    [
+      "1375",
+      "11040900901",
+      "KATUK VIDHAYA SAGAR PS"
+    ],
+    [
+      "1376",
+      "11040901001",
+      "PHENZONG PS"
+    ],
+    [
+      "1377",
+      "11040901101",
+      "PERBING JHS"
+    ],
+    [
+      "1378",
+      "11040901201",
+      "BARBING PS"
+    ],
+    [
+      "1379",
+      "11040901301",
+      "SAMALINGDUM JHS"
+    ],
+    [
+      "1380",
+      "11040901401",
+      "RANKA SSS"
+    ],
+    [
+      "1381",
+      "11040901403",
+      "RANKA RAIGAON PS"
+    ],
+    [
+      "1382",
+      "11041000101",
+      "RANIPOOL SSS"
+    ],
+    [
+      "1383",
+      "11041000102",
+      "MARCHAK CHUTEN"
+    ],
+    [
+      "1384",
+      "11041000201",
+      "SAMLICK MARCHAK JHS"
+    ],
+    [
+      "1385",
+      "11041000301",
+      "TUMLABONG JHS"
+    ],
+    [
+      "1386",
+      "11041000401",
+      "NAMIN DHURBA"
+    ],
+    [
+      "1387",
+      "11041000501",
+      "CHUBA JHS"
+    ],
+    [
+      "1388",
+      "11041000601",
+      "CHUJA MARTAM PS"
+    ],
+    [
+      "1389",
+      "11041000701",
+      "SANG KHOLA PS"
+    ],
+    [
+      "1390",
+      "11041000901",
+      "SANG SSS"
+    ],
+    [
+      "1391",
+      "11041001001",
+      "MARTAM YANGTHANG JHS"
+    ],
+    [
+      "1392",
+      "11041001101",
+      "BEYONG PS"
+    ],
+    [
+      "1393",
+      "11041001201",
+      "TIRKUTAM PS"
+    ],
+    [
+      "1394",
+      "11041001301",
+      "MARTAM SS"
+    ],
+    [
+      "1395",
+      "11041001401",
+      "NAZITAM PS"
+    ],
+    [
+      "1396",
+      "11041001501",
+      "MARTAM LINGTAM PS"
+    ],
+    [
+      "1397",
+      "11041001601",
+      "SANG TSHALAMTHANG SS"
+    ],
+    [
+      "1398",
+      "11041001701",
+      "BURUNG JHS"
+    ],
+    [
+      "1399",
+      "11041001801",
+      "ZINGLA PS"
+    ],
+    [
+      "1400",
+      "11041100101",
+      "MACHONG SSS"
+    ],
+    [
+      "1401",
+      "11041100102",
+      "RIKYAP PS"
+    ],
+    [
+      "1402",
+      "11041100103",
+      "PHERI PS"
+    ],
+    [
+      "1403",
+      "11041100201",
+      "BARAPATHING JHS"
+    ],
+    [
+      "1404",
+      "11041100301",
+      "LATUK PS"
+    ],
+    [
+      "1405",
+      "11041100401",
+      "LOSSING PS"
+    ],
+    [
+      "1406",
+      "11041100501",
+      "PARAKHA JHS"
+    ],
+    [
+      "1407",
+      "11041100601",
+      "TOKCHI"
+    ],
+    [
+      "1408",
+      "11041100701",
+      "THEKABONG PS"
+    ],
+    [
+      "1409",
+      "11040301104",
+      "ARMY SCHOOL"
+    ],
+    [
+      "1410",
+      "11040301103",
+      "KENDRIYA VIDYALAYA"
+    ],
+    [
+      "1411",
+      "11040603701",
+      "KENDRIYA VIDYALAYA NHPC"
+    ],
+    [
+      "1412",
+      "11040100703",
+      "JAWAHAR NAVODAYA VIDYALAYA, PAKYONG"
+    ],
+    [
+      "1413",
+      "11010302202",
+      "J.N.V PHODONG"
+    ],
+    [
+      "1414",
+      "11010102802",
+      "EKLAVYA MODEL RESIDENTIAL SCHOOL"
+    ],
+    [
+      "1415",
+      "11030205303",
+      "D.A.V.PUBLIC SCHOOL"
+    ],
+    [
+      "1416",
+      "11030206908",
+      "C.S.T. RAVANGLA"
+    ],
+    [
+      "1417",
+      "11030207301",
+      "J.N.V.RAVANGLA"
+    ],
+    [
+      "1418",
+      "11020301302",
+      "ASHRAM MODEL RESIDENTIAL SCHOOL, JHUSINGTHANG"
+    ],
+    [
+      "1419",
+      "11020211701",
+      "J N V ROTHAK"
+    ],
+    [
+      "1420",
+      "11020601002",
+      "KASTURBA GANDHI BALIKA VIDALAYA"
+    ],
+    [
+      "1421",
+      "11040800303",
+      "TASHI PALDEN MONASTIC SCHOOL"
+    ],
+    [
+      "1422",
+      "11040802701",
+      "SUMIN MONASTIC SCHOOL"
+    ],
+    [
+      "1423",
+      "11040300202",
+      "PABYUICK MONASTIC SCHOOL"
+    ],
+    [
+      "1424",
+      "11040303904",
+      "ENCHEY MONASTIC SCHOOL"
+    ],
+    [
+      "1425",
+      "11040303903",
+      "KAGYUD MONASTIC SCHOOL"
+    ],
+    [
+      "1426",
+      "11040302902",
+      "SA-NGOR MONASTIC SCHOOL"
+    ],
+    [
+      "1427",
+      "11040301202",
+      "ARITHANG MANILAKHANG"
+    ],
+    [
+      "1428",
+      "11040300903",
+      "BURTUK MANILAKHANG MONASTIC SCHOOL"
+    ],
+    [
+      "1429",
+      "11040300904",
+      "BURTUK TAMU MONASTIC SCHOOL"
+    ],
+    [
+      "1430",
+      "11040300813",
+      "DECHEEN CHOLING MONASTIC SCHOOL"
+    ],
+    [
+      "1431",
+      "11040305705",
+      "NAVEY SOTAK MONASTIC SCHOOL"
+    ],
+    [
+      "1432",
+      "11040305704",
+      "ODC GONJANG MONASTIC SCHOOL"
+    ],
+    [
+      "1433",
+      "11040305703",
+      "TAK-TSE ANI MONASTIC SCHOOL"
+    ],
+    [
+      "1434",
+      "11041002102",
+      "CHUNKHAR MONASTIC SCHOOL"
+    ],
+    [
+      "1435",
+      "11041002003",
+      "SANG MONASTIC SCHOOL"
+    ],
+    [
+      "1436",
+      "11041002004",
+      "SANG NORBULING MONASTIC SCHOOL"
+    ],
+    [
+      "1437",
+      "11040100104",
+      "CHANGAY MONASTIC SCHOOL"
+    ],
+    [
+      "1438",
+      "11040102506",
+      "KARTHOK MONASTIC SCHOOL"
+    ],
+    [
+      "1439",
+      "11041100105",
+      "LINKEY MACHONG MONASTIC SCHOOL"
+    ],
+    [
+      "1440",
+      "11040700902",
+      "RAKDONG MONASTIC SCHOOL"
+    ],
+    [
+      "1441",
+      "11040700405",
+      "SAMDONG MINTOKGANG MONASTIC SCHOOL"
+    ],
+    [
+      "1442",
+      "11040701602",
+      "SIMICK LINGZEY MONASTIC SCHOOL"
+    ],
+    [
+      "1443",
+      "11040701406",
+      "TUMIN MONASTIC SCHOOL"
+    ],
+    [
+      "1444",
+      "11040901404",
+      "CHAGSAM MONASTIC SCHOOL"
+    ],
+    [
+      "1445",
+      "11040900109",
+      "REY MINDU MONASTIC SCHOOL"
+    ],
+    [
+      "1446",
+      "11040900108",
+      "OLD RUMTEK MONASTIC SCHOOL"
+    ],
+    [
+      "1447",
+      "11040400603",
+      "BUDDHA SANSKRIT MONASTIC SCHOOL"
+    ],
+    [
+      "1448",
+      "11040500605",
+      "R.P.PHENCHOLING MONASTIC SCHOOL"
+    ],
+    [
+      "1449",
+      "11010200312",
+      "KUNZANG CHOELING MPS"
+    ],
+    [
+      "1450",
+      "11010200308",
+      "TSHUNGTHANG MONASTIC PS"
+    ],
+    [
+      "1451",
+      "11010200105",
+      "LACHEN NGEDUP CHOLING MON. PS"
+    ],
+    [
+      "1452",
+      "11010200204",
+      "LACHUNG SAMTEN MON. PS"
+    ],
+    [
+      "1453",
+      "11010303301",
+      "KABI GANAGAK THARGELING MONASTIC SCHOOL"
+    ],
+    [
+      "1454",
+      "11010302001",
+      "CHAWANG ANI GUMPA"
+    ],
+    [
+      "1455",
+      "11010301101",
+      "PHENSONG SANGPAK CHLOING M. PS"
+    ],
+    [
+      "1456",
+      "11010302201",
+      "LABRANG PALDEN PINTSOK MON PS"
+    ],
+    [
+      "1457",
+      "11010302203",
+      "PHODONG THUPDEN TASHI MON PS"
+    ],
+    [
+      "1458",
+      "11010104301",
+      "RINGHIM MON PS"
+    ],
+    [
+      "1459",
+      "11010100106",
+      "NAGA MONASTIC PS"
+    ],
+    [
+      "1460",
+      "11010100302",
+      "SINGCHIT NADAK MON. PS"
+    ],
+    [
+      "1461",
+      "11010100602",
+      "SINGHIK MPS"
+    ],
+    [
+      "1462",
+      "11010403302",
+      "HEE GYATHANG TASHI C MON PS"
+    ],
+    [
+      "1463",
+      "11010402301",
+      "THOLONG MONASTIC PS"
+    ],
+    [
+      "1464",
+      "11010400601",
+      "LINGTHEM C DARGAYLING MON PS"
+    ],
+    [
+      "1465",
+      "11010400101",
+      "TASHI THARGAYLING MPS"
+    ],
+    [
+      "1466",
+      "11010402101",
+      "TINGBONG TARLING MON PS"
+    ],
+    [
+      "1467",
+      "11030110903",
+      "DECHEN CHOLING GOMPA"
+    ],
+    [
+      "1468",
+      "11030118301",
+      "NAMCHI GNADAK GUMPA"
+    ],
+    [
+      "1469",
+      "11030118001",
+      "NAMDOLING GUMPA"
+    ],
+    [
+      "1470",
+      "11030118101",
+      "SERDUP CHOLING MONASTIC SCHOOL"
+    ],
+    [
+      "1471",
+      "11030602804",
+      "PERBING SAMTEN CHOLING GUMPA"
+    ],
+    [
+      "1472",
+      "11030208001",
+      "BERFUNG DOLING GUMPA"
+    ],
+    [
+      "1473",
+      "11030205005",
+      "BHON GOMPA KEWZING"
+    ],
+    [
+      "1474",
+      "11030205006",
+      "KEWZING GOMPA"
+    ],
+    [
+      "1475",
+      "11030205007",
+      "MANGBROO GOMPA"
+    ],
+    [
+      "1476",
+      "11030208301",
+      "RALANG KARMA RAPTENLING GUMPA"
+    ],
+    [
+      "1477",
+      "11030206906",
+      "MANI CHOIKHORLING GOMPA"
+    ],
+    [
+      "1478",
+      "11030206802",
+      "SHEDE-CHOG-BRYPHONG GOMPA"
+    ],
+    [
+      "1479",
+      "11030206907",
+      "TSHECHU GOMPA"
+    ],
+    [
+      "1480",
+      "11030801504",
+      "TASHI CHODARLING MONASTIC SCHOOL"
+    ],
+    [
+      "1481",
+      "11030300402",
+      "BERMIOK WHOSEL CHOLLING GUMPA"
+    ],
+    [
+      "1482",
+      "11030300604",
+      "NORBUGANG MANILKHANG GOMPA"
+    ],
+    [
+      "1483",
+      "11030702005",
+      "LINGEE PHAGYAL GUMPA"
+    ],
+    [
+      "1484",
+      "11030701605",
+      "RABDENLING MANILHAKHANG GUMPA"
+    ],
+    [
+      "1485",
+      "11030700102",
+      "GA-GAYONG MANILHAKHANG GUMPA"
+    ],
+    [
+      "1486",
+      "11030700106",
+      "YANGANG SHEDA GUMPA"
+    ],
+    [
+      "1487",
+      "11020500302",
+      "OKHREY MONASTIC SCHOOL"
+    ],
+    [
+      "1488",
+      "11020501602",
+      "ANDEN WALUNG MONASTIC SCHOOL"
+    ],
+    [
+      "1489",
+      "11020401302",
+      "SANKHU MONASTIC SCHOOL"
+    ],
+    [
+      "1490",
+      "11020110801",
+      "PEMAYANGTSEE MONASTIC SCHOOL"
+    ],
+    [
+      "1491",
+      "11020110802",
+      "SANGACHOLING MONASTIC SCHOOL"
+    ],
+    [
+      "1492",
+      "11020300903",
+      "RINCHENPONG MONASTIC SCHOOL"
+    ],
+    [
+      "1493",
+      "11020300902",
+      "LUNGTSE MONASTIC SCHOOL"
+    ],
+    [
+      "1494",
+      "11020600802",
+      "LABDANG MONASTIC SCHOOL"
+    ],
+    [
+      "1495",
+      "11020600302",
+      "KHECHUPERI MONASTIC SCHOOL"
+    ],
+    [
+      "1496",
+      "11020600702",
+      "MELLI MONASTIC SCHOOL"
+    ],
+    [
+      "1497",
+      "11020600104",
+      "SINON MONASTIC SCHOOL"
+    ],
+    [
+      "1498",
+      "11020600103",
+      "TASHIDING MONASTIC SCHOOL"
+    ],
+    [
+      "1499",
+      "11040800402",
+      "S.K SV.C PENDAM (PVT)"
+    ],
+    [
+      "1500",
+      "11040303905",
+      "PANCHNAGASWAR SHIV MANDIR SANSKRIT PATSHALA"
+    ],
+    [
+      "1501",
+      "11040103402",
+      "AHO-YANGTAM SANSKRIT PATHSALA"
+    ],
+    [
+      "1502",
+      "11040100304",
+      "UCCHATAM SANSKRIT PATHSALA"
+    ],
+    [
+      "1503",
+      "11040101003",
+      "GURU KOOL SANSKRIT PATSHALA, MAMRING"
+    ],
+    [
+      "1504",
+      "11041100702",
+      "Linkey Thekabong Sanskrit Pathsala"
+    ],
+    [
+      "1505",
+      "11040700406",
+      "SAMDONG SANSKRIT PATHSALA"
+    ],
+    [
+      "1506",
+      "11030701601",
+      "LINGMOO SANSKRIT PATHSALA"
+    ],
+    [
+      "1507",
+      "11030700901",
+      "SRIPATAM SANSKRIT PATHSALA PS"
+    ],
+    [
+      "1508",
+      "11020701601",
+      "BERMIOK SANSKRIT PATHSALA"
+    ]
+  ]
+}
