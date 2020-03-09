@@ -43,5 +43,15 @@
     "id": 9,
     "code": "11040800902",
     "name": "EDEN GARDEN SCHOOL (P)"
+  },
+   {
+    "id": 10,
+    "code": "11040800905",
+    "name": "Hansraj Academy"
+  },
+  {
+    "id": 11,
+    "code": "11040800901",
+    "name": "LITTLE BELLS (PVT)"
   }
  ]
