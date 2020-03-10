@@ -1848,5 +1848,245 @@
     "id": 370,
     "code": "11020202702",
     "name": "ADONAI HOMES"
+  },
+  {
+    "id": 371,
+    "code": "11020214801",
+    "name": "MOUNT SINAI ACADEMY"
+  },
+  {
+    "id": 372,
+    "code": "11020201102",
+    "name": "SAINT GYANDIL ACADEMY"
+  },
+  {
+    "id": 373,
+    "code": "11020202002",
+    "name": "VIDYA BHARATI NAYABAZAR"
+  },
+  {
+    "id": 374,
+    "code": "11020201403",
+    "name": "MODEL ENGLISH HOUSE,RESHI"
+  },
+  {
+    "id": 375,
+    "code": "11020201402",
+    "name": "SIKKIM HOMES ACADEMY"
+  },
+  {
+    "id": 376,
+    "code": "11020200702",
+    "name": "SPRINGDALE ACADEMY"
+  },
+  {
+    "id": 377,
+    "code": "11020201404",
+    "name": "SUNSHINE ACADEMY"
+  },
+  {
+    "id": 378,
+    "code": "11020201303",
+    "name": "ST.MARRY ACADEMY"
+  },
+  {
+    "id": 379,
+    "code": "11020214002",
+    "name": "DIVYA JYOTI ACADEMY"
+  },
+  {
+    "id": 380,
+    "code": "11020214001",
+    "name": "GYANODAYA NURSERY SCHOOL"
+  },
+  {
+    "id": 381,
+    "code": "11020212302",
+    "name": "HIMALAYAN ACADEMY SORENG"
+  },
+  {
+    "id": 382,
+    "code": "11020213001",
+    "name": "LELIUM ACADEMY SCHOOL"
+  },
+  {
+    "id": 383,
+    "code": "11020212202",
+    "name": "MARIGOLD ACADEMY MALBASEY"
+  },
+  {
+    "id": 384,
+    "code": "11020200603",
+    "name": "MOUNT K2 ACADEMY"
+  },
+  {
+    "id": 385,
+    "code": "11020213002",
+    "name": "RADIANT ACADEMY SCHOOL"
+  },
+  {
+    "id": 386,
+    "code": "11020200602",
+    "name": "TENDER FEET ACADEMY"
+  },
+  {
+    "id": 387,
+    "code": "11020213801",
+    "name": "KEN ENGLISH SCHOOL"
+  },
+  {
+    "id": 388,
+    "code": "11020212702",
+    "name": "KUSH HANG MEMORIAL ENGLISH SCHOOL"
+  },
+  {
+    "id": 389,
+    "code": "11020212402",
+    "name": "SARASWATI SISHU NIKETAN"
+  },
+  {
+    "id": 390,
+    "code": "11020602203",
+    "name": "BRIGHT CAREER ACHADEMY"
+  },
+  {
+    "id": 391,
+    "code": "11020602202",
+    "name": "MARIGOLD ACADAMY POKHARI DARA"
+  },
+  {
+    "id": 392,
+    "code": "11020601402",
+    "name": "MOUNT SIMVO BOARDING SCHOOL"
+  },
+  {
+    "id": 393,
+    "code": "11020600202",
+    "name": "MT. PENDAM ACADEMY"
+  },
+  {
+    "id": 394,
+    "code": "11020603903",
+    "name": "ANTASHKARAN CHILD ACHADAMY"
+  },
+  {
+    "id": 395,
+    "code": "11020603902",
+    "name": "GREEN LIGHT ACHADEMY"
+  },
+  {
+    "id": 396,
+    "code": "11020600803",
+    "name": "LABDANG ENGLISH SCHOOL"
+  },
+  {
+    "id": 397,
+    "code": "11020603703",
+    "name": "GOOD SHEPHERD ENGLISH SCHOOL"
+  },
+  {
+    "id": 398,
+    "code": "11020603702",
+    "name": "GOOD WILL ACADEMY THINGLING"
+  },
+  {
+    "id": 399,
+    "code": "11020602302",
+    "name": "I E C MISSION PRIMARY SCHOOL RIMBI"
+  },
+  {
+    "id": 400,
+    "code": "11020602602",
+    "name": "VIDHYA SAGAR GAYNPEATH TATHANG"
+  },
+  {
+    "id": 401,
+    "code": "11020602902",
+    "name": "HIMALAYAN RADIANT ACADEMY"
+  },
+  {
+    "id": 402,
+    "code": "11020600502",
+    "name": "MARIGOLD NURSERY SCHOOL"
+  },
+  {
+    "id": 403,
+    "code": "11020600105",
+    "name": "NEW HORIZON ACADEMCY TASHIDING"
+  },
+  {
+    "id": 404,
+    "code": "11020600106",
+    "name": "TASHIDING ENGLISH SCHOOL"
+  },
+  {
+    "id": 405,
+    "code": "11020600403",
+    "name": "GOOD SHEPHERD SCHOOL"
+  },
+  {
+    "id": 406,
+    "code": "11020701301",
+    "name": "CHEWRIBOTEY PS"
+  },
+  {
+    "id": 409,
+    "code": "11020701401",
+    "name": "HEE MAJHGOAN PS"
+  },
+  {
+    "id": 410,
+    "code": "11020700901",
+    "name": "MEYYONG PS"
+  },
+  {
+    "id": 411,
+    "code": "11020701101",
+    "name": "PECHREAK PS"
+  },
+  {
+    "id": 412,
+    "code": "11020701501",
+    "name": "RUNGDU PS"
+  },
+  {
+    "id": 413,
+    "code": "11020701001",
+    "name": "SAGBARI PS"
+  },
+  {
+    "id": 414,
+    "code": "11020701201",
+    "name": "UPPER MARTAM PS"
+  },
+  {
+    "id": 415,
+    "code": "11020700801",
+    "name": "BERMIOK DARAGOAN JHS"
+  },
+  {
+    "id": 416,
+    "code": "11020700501",
+    "name": "CENTRAL MARTAM JHS"
+  },
+  {
+    "id": 417,
+    "code": "11020700301",
+    "name": "CHINGTHANG JHS"
+  },
+  {
+    "id": 418,
+    "code": "11020700701",
+    "name": "HEE PATAL JHS"
+  },
+  {
+    "id": 419,
+    "code": "11020700401",
+    "name": "LOWER BERMIOK JHS"
+  },
+  {
+    "id": 420,
+    "code": "11020700601",
+    "name": "NAJOR BERFOK JHS"
   }
    ]
