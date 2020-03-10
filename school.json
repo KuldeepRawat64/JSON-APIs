@@ -448,5 +448,205 @@
     "id": 90,
     "code": "11041000103",
     "name": "SUNMARG ACADEMY"
+  },
+   {
+    "id": 91,
+    "code": "11041000806",
+    "name": "TINY PEARLS SCHOOL"
+  },
+  {
+    "id": 92,
+    "code": "11041002001",
+    "name": "CHILDRENS WORLD ACADEMY (PVT"
+  },
+  {
+    "id": 93,
+    "code": "11041002002",
+    "name": "MINI LAND PUBLIC SCHOOL"
+  },
+  {
+    "id": 94,
+    "code": "11041002101",
+    "name": "ST. JOSHEP SS"
+  },
+  {
+    "id": 95,
+    "code": "11040100105",
+    "name": "LITTLE ANGEL ENGLISH SCHOOL"
+  },
+  {
+    "id": 96,
+    "code": "11040103302",
+    "name": "LITTLE ANGEL SCHOOL"
+  },
+  {
+    "id": 97,
+    "code": "11040100103",
+    "name": "SARASWATI SISHU VIDYALAYA"
+  },
+  {
+    "id": 98,
+    "code": "11040100802",
+    "name": "ST JOHN ENGLISH SCHOOL"
+  },
+  {
+    "id": 99,
+    "code": "11040102508",
+    "name": "ANNIE'S HOME"
+  },
+  {
+    "id": 100,
+    "code": "11040102509",
+    "name": "CANARY BIRD ACADEMY"
+  },
+  {
+    "id": 101,
+    "code": "11040102504",
+    "name": "PUSHPANJALI VIDHALAYA"
+  },
+  {
+    "id": 102,
+    "code": "11040100702",
+    "name": "SAI GURUKUL ACADEMY"
+  },
+  {
+    "id": 103,
+    "code": "11040100202",
+    "name": "SARASWATI VIDYA NIKETAN"
+  },
+  {
+    "id": 104,
+    "code": "11040102903",
+    "name": "SPLENDOUR ACADEMY"
+  },
+  {
+    "id": 105,
+    "code": "11040102503",
+    "name": "ST. XAVIER (PVT)"
+  },
+  {
+    "id": 106,
+    "code": "11040100402",
+    "name": "ST.STEVEN'S SCHOOL"
+  },
+  {
+    "id": 107,
+    "code": "11040100403",
+    "name": "VENUS ACADEMY"
+  },
+  {
+    "id": 108,
+    "code": "11040100902",
+    "name": "WISDOM LAKE"
+  },
+  {
+    "id": 109,
+    "code": "11040101403",
+    "name": "HANSAVAHINI SISHU MANDIR AMBA"
+  },
+  {
+    "id": 110,
+    "code": "11040101002",
+    "name": "PHUSPANJALI VIDHALAYA"
+  },
+  {
+    "id": 111,
+    "code": "11040100302",
+    "name": "VENUS ACADEMY"
+  },
+  {
+    "id": 112,
+    "code": "11041100104",
+    "name": "GREEN VALE ACADEMY"
+  },
+  {
+    "id": 113,
+    "code": "11041100202",
+    "name": "Rainbow Academy"
+  },
+  {
+    "id": 114,
+    "code": "11041100502",
+    "name": "Bethal Pvt. School"
+  },
+  {
+    "id": 115,
+    "code": "11040701902",
+    "name": "CHILDREN PREPARATORY (PVT"
+  },
+  {
+    "id": 116,
+    "code": "11040700804",
+    "name": "RISING STAR (PVT)"
+  },
+  {
+    "id": 117,
+    "code": "11040700602",
+    "name": "SPRINGDALE SCHOOL (PVT)"
+  },
+  {
+    "id": 118,
+    "code": "11040700802",
+    "name": "SUNRISE BOARDING SCHOOL (PVT)"
+  },
+  {
+    "id": 119,
+    "code": "11040700604",
+    "name": "TISTA MODEL ACADEMY"
+  },
+  {
+    "id": 120,
+    "code": "11040700204",
+    "name": "DIAMOND ENG SCHOOL (PVT)"
+  },
+  {
+    "id": 121,
+    "code": "11040700404",
+    "name": "ENGLIGHTENED ACADEMY"
+  },
+  {
+    "id": 122,
+    "code": "11040700302",
+    "name": "GYAN KUNJA (PVT)"
+  },
+  {
+    "id": 123,
+    "code": "11040700403",
+    "name": "SARASWATI VIDYA NIKETAN"
+  },
+  {
+    "id": 124,
+    "code": "11040701404",
+    "name": "SARASWATI VIDYA NIKETAN"
+  },
+  {
+    "id": 125,
+    "code": "11040900803",
+    "name": "AMBIKA DAHAL MEM. SCHOOL (PVT)"
+  },
+  {
+    "id": 126,
+    "code": "11040901203",
+    "name": "GRACE ACADEMY"
+  },
+  {
+    "id": 127,
+    "code": "11040901601",
+    "name": "INDIRA MEMORIAL ACADEMY"
+  },
+  {
+    "id": 128,
+    "code": "11040901202",
+    "name": "NAV YUG PUBLIC SCHOOL"
+  },
+  {
+    "id": 129,
+    "code": "11040901102",
+    "name": "STAR LIGHT ACADEMY"
+  },
+  {
+    "id": 130,
+    "code": "11040900105",
+    "name": "BLOOSOM (PVT)"
   }
    ]
