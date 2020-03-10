@@ -98,5 +98,55 @@
     "id": 20,
     "code": "11040300305",
     "name": "TENDER BUDS ACADEMY"
+  },
+  {
+    "id": 21,
+    "code": "11040304205",
+    "name": "JUBILANT SCHOOL"
+  },
+  {
+    "id": 22,
+    "code": "11040303102",
+    "name": "PADMA ODZER CHOLING"
+  },
+  {
+    "id": 23,
+    "code": "11040303902",
+    "name": "TINY KIDS ACADEMY (PVT)"
+  },
+  {
+    "id": 24,
+    "code": "11040304207",
+    "name": "TSUGLAGKHANG MONASTIC SCHOOL"
+  },
+  {
+    "id": 25,
+    "code": "11040302003",
+    "name": "BAHAI SCHOOL"
+  },
+  {
+    "id": 26,
+    "code": "11040301002",
+    "name": "DREAM LAND ACADEMY (PVT"
+  },
+  {
+    "id": 27,
+    "code": "11040302010",
+    "name": "DREAMLAND ACADEMY"
+  },
+  {
+    "id": 28,
+    "code": "11040302007",
+    "name": "GEN NEXT ACADEMY"
+  },
+  {
+    "id": 29,
+    "code": "11040302006",
+    "name": "GOLDEN KIDS'"
+  },
+  {
+    "id": 30,
+    "code": "11040302012",
+    "name": "GREEN DALE SSS"
   }
    ]
