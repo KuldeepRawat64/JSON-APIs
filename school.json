@@ -1098,5 +1098,155 @@
     "id": 220,
     "code": "11030113301",
     "name": "TENDONG EDUCATIONAL INSTITUTE"
+  },
+  {
+    "id": 221,
+    "code": "11030113201",
+    "name": "TINY TOTS PS"
+  },
+  {
+    "id": 222,
+    "code": "11030603003",
+    "name": "HOSSANA ENGLISH SCHOOL"
+  },
+  {
+    "id": 223,
+    "code": "11030602802",
+    "name": "LITTLE ANGEL ACADEMY"
+  },
+  {
+    "id": 224,
+    "code": "11030600502",
+    "name": "LITTLE BUD"
+  },
+  {
+    "id": 225,
+    "code": "11030603002",
+    "name": "MOTHER TERESA MEMORIAL"
+  },
+  {
+    "id": 226,
+    "code": "11030600603",
+    "name": "MOTHER TERESA MEMORIAL SCHOOL"
+  },
+  {
+    "id": 227,
+    "code": "11030600605",
+    "name": "SHINING STAR ACADEMY"
+  },
+  {
+    "id": 228,
+    "code": "11030602806",
+    "name": "TINY BUDS ACADEMY"
+  },
+  {
+    "id": 229,
+    "code": "11030601002",
+    "name": "HIMALAYAN SARASWATI VIDYALAYA"
+  },
+  {
+    "id": 230,
+    "code": "11030600102",
+    "name": "NEW STEPS ACADEMY"
+  },
+  {
+    "id": 231,
+    "code": "11030601005",
+    "name": "PRATIVA ACADEMY ENGLISH SCHOOL"
+  },
+  {
+    "id": 232,
+    "code": "11030602103",
+    "name": "AGAM SINGH ACADEMY"
+  },
+  {
+    "id": 233,
+    "code": "11030602002",
+    "name": "GREEN FIELD JUNIOR HIGH SCHOOL"
+  },
+  {
+    "id": 234,
+    "code": "11030601003",
+    "name": "GYAN PRADAN ACADEMY"
+  },
+  {
+    "id": 235,
+    "code": "11030601402",
+    "name": "IVANA MEMORIAL SCHOOL"
+  },
+  {
+    "id": 236,
+    "code": "11030600604",
+    "name": "SOUTH POINT ACADEMY"
+  },
+  {
+    "id": 237,
+    "code": "11030603301",
+    "name": "ST PAUL SCHOOL"
+  },
+  {
+    "id": 238,
+    "code": "11030601104",
+    "name": "ST.LUTHER ENGLISH BOARDING SCHOOL"
+  },
+  {
+    "id": 239,
+    "code": "11030601103",
+    "name": "ST.XAVIERS SCHOOL"
+  },
+  {
+    "id": 240,
+    "code": "11030602003",
+    "name": "WISDOM VALLEY ACADEMY"
+  },
+  {
+    "id": 241,
+    "code": "11030600303",
+    "name": "FUTURE STAR ACADEMY"
+  },
+  {
+    "id": 242,
+    "code": "11030601102",
+    "name": "SHUBHASAI INSTITUTE OF ELEMENTARY EDUCATION"
+  },
+  {
+    "id": 243,
+    "code": "11030201703",
+    "name": "SANGAM ACADEMY"
+  },
+  {
+    "id": 244,
+    "code": "11030204702",
+    "name": "DEMAZONG ENGLISH ACADEMY"
+  },
+  {
+    "id": 245,
+    "code": "11030207202",
+    "name": "NEW RAYS ACADEMY"
+  },
+  {
+    "id": 246,
+    "code": "11030205003",
+    "name": "HOLY FAITH ENGLISH SCHOOL"
+  },
+  {
+    "id": 247,
+    "code": "11030205004",
+    "name": "IDEAL ACADEMY"
+  },
+  {
+    "id": 248,
+    "code": "11030207901",
+    "name": "MT,PANDIM ACADEMY"
+  },
+  {
+    "id": 249,
+    "code": "11030204403",
+    "name": "PEMA SAMPHEL ACADEMY"
+  },
+  {
+    "id": 250,
+    "code": "11030207802",
+    "name": "GENERATION NEXT ACADEMY"
   }
    ]
