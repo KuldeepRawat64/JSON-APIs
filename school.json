@@ -48,5 +48,55 @@
     "id": 10,
     "code": "11040800905",
     "name": "Hansraj Academy"
+  },
+  {
+    "id": 11,
+    "code": "11040800901",
+    "name": "LITTLE BELLS (PVT)"
+  },
+  {
+    "id": 12,
+    "code": "11040801002",
+    "name": "NEW HORIZON ACADEMY"
+  },
+  {
+    "id": 13,
+    "code": "11040800702",
+    "name": "NEW VISION ACADEMY"
+  },
+  {
+    "id": 14,
+    "code": "11040802105",
+    "name": "TINY TOTS SCHOOL (P)"
+  },
+  {
+    "id": 15,
+    "code": "11040300102",
+    "name": "DE NOBILE ACADEMY (PVT)"
+  },
+  {
+    "id": 16,
+    "code": "11040300304",
+    "name": "KHATEK PEMA CHOLING MONASTIC SCHOOL"
+  },
+  {
+    "id": 17,
+    "code": "11040301503",
+    "name": "LITTLE ANGEL SCHOOL"
+  },
+  {
+    "id": 18,
+    "code": "11040300303",
+    "name": "NEW VISION ACADEMY"
+  },
+  {
+    "id": 19,
+    "code": "11040300103",
+    "name": "ST .PATRICK"
+  },
+  {
+    "id": 20,
+    "code": "11040300305",
+    "name": "TENDER BUDS ACADEMY"
   }
    ]
