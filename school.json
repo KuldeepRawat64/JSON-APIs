@@ -1598,5 +1598,255 @@
     "id": 320,
     "code": "11020400402",
     "name": "BAL JYOTI VIDYA PITH"
+  },
+   {
+    "id": 321,
+    "code": "11020403302",
+    "name": "EUREKA RESIDENTIAL SCHOOL BRANCH II"
+  },
+  {
+    "id": 322,
+    "code": "11020400802",
+    "name": "KALEZ VALEY ENGLISH SCHOOL"
+  },
+  {
+    "id": 323,
+    "code": "11020400502",
+    "name": "P.M.M. U. SMART ACADEMY"
+  },
+  {
+    "id": 324,
+    "code": "11020400505",
+    "name": "SARASWATI VIDHYA ACADEMY"
+  },
+  {
+    "id": 325,
+    "code": "11020400503",
+    "name": "WESTERN MODERN ENGLISH SCHOOL"
+  },
+  {
+    "id": 326,
+    "code": "11020103702",
+    "name": "LITTLE KIDS ACADEMY"
+  },
+  {
+    "id": 327,
+    "code": "11020112302",
+    "name": "NEW TULIPS KINDERGARDEN"
+  },
+  {
+    "id": 328,
+    "code": "11020100703",
+    "name": "VISION ACADEMY DARAP"
+  },
+  {
+    "id": 329,
+    "code": "11020112301",
+    "name": "WESTERN MODERN SCHOOL"
+  },
+  {
+    "id": 330,
+    "code": "11020111202",
+    "name": "ANNE'S HOUSE NURSUARY SCHOOL"
+  },
+  {
+    "id": 331,
+    "code": "11020111701",
+    "name": "HIMALAYAN BAPTISE SCHOOL"
+  },
+  {
+    "id": 332,
+    "code": "11020111205",
+    "name": "MANJUSHREE ENGLISH SCHOOL"
+  },
+  {
+    "id": 333,
+    "code": "11020111207",
+    "name": "PIONEER ACADEMY GYALSHING"
+  },
+  {
+    "id": 334,
+    "code": "11020100402",
+    "name": "SARASWATI VIDYALAYA KYONGSHA"
+  },
+  {
+    "id": 335,
+    "code": "11020111206",
+    "name": "SKYLARK ACADEMY"
+  },
+  {
+    "id": 336,
+    "code": "11020111901",
+    "name": "ST MARRY'S CONVENT"
+  },
+  {
+    "id": 337,
+    "code": "11020100403",
+    "name": "St. EDMUND'S ACADEMY GURUTHANG"
+  },
+  {
+    "id": 338,
+    "code": "11020111601",
+    "name": "ANNES HOUSE LEGSHIP"
+  },
+  {
+    "id": 339,
+    "code": "11020111602",
+    "name": "VIDHYA SAGAR ACADEMY LEGSHIP"
+  },
+  {
+    "id": 340,
+    "code": "11020102102",
+    "name": "GREEN VALE LANGANG"
+  },
+  {
+    "id": 341,
+    "code": "11020112401",
+    "name": "I B SUBBA MEMORIAL INSTITUTE"
+  },
+  {
+    "id": 342,
+    "code": "11020100254",
+    "name": "DENZONG PEMA CHOELING ACADEMY"
+  },
+  {
+    "id": 343,
+    "code": "11020111801",
+    "name": "PIONEER ACADEMY SAKYONG"
+  },
+  {
+    "id": 344,
+    "code": "11020113301",
+    "name": "VIDHYA SAGAR JUNIOR HIGH SCHOOL"
+  },
+  {
+    "id": 345,
+    "code": "11020303501",
+    "name": "SNOWDROPS ACADEMY"
+  },
+  {
+    "id": 346,
+    "code": "11020300905",
+    "name": "DAUGHTER OF THE CROSS CONVENT SCHOOL"
+  },
+  {
+    "id": 347,
+    "code": "11020300904",
+    "name": "RAPHJORE ACADEMY"
+  },
+  {
+    "id": 348,
+    "code": "11020300202",
+    "name": "WEST POINT ACADEMY"
+  },
+  {
+    "id": 349,
+    "code": "11020300102",
+    "name": "NOBLE ENGLISH SCHOOL"
+  },
+  {
+    "id": 350,
+    "code": "11020300305",
+    "name": "BLISS ACADEMY"
+  },
+  {
+    "id": 351,
+    "code": "11020300602",
+    "name": "HILL BUDS ACADEMY"
+  },
+  {
+    "id": 352,
+    "code": "11020300304",
+    "name": "SHERAB ODSAL RAIDELLING ACADEMY"
+  },
+  {
+    "id": 353,
+    "code": "11020300302",
+    "name": "TRINITY SCHOOL SRIBADAM"
+  },
+  {
+    "id": 354,
+    "code": "11020300303",
+    "name": "WISDOM ACADEMY SRIBADAM"
+  },
+  {
+    "id": 355,
+    "code": "11020212401",
+    "name": "BAL JYOTI ACADEMY"
+  },
+  {
+    "id": 356,
+    "code": "11020212101",
+    "name": "GREEN VALLEY ACADEMEY"
+  },
+  {
+    "id": 357,
+    "code": "11020200347",
+    "name": "GYAN JYOTI ACADEMY,BURIAKHOP"
+  },
+  {
+    "id": 358,
+    "code": "11020214101",
+    "name": "HILLS CROWN ENGLISH SCHOOL"
+  },
+  {
+    "id": 359,
+    "code": "11020214301",
+    "name": "MAGNOLIA ENGLISH SCHOOL"
+  },
+  {
+    "id": 360,
+    "code": "11020212501",
+    "name": "SIKKIM HIMALAYAN ACADEMY"
+  },
+  {
+    "id": 361,
+    "code": "11020200402",
+    "name": "DEW DROPS ACADEMY,CHAKUNG"
+  },
+  {
+    "id": 362,
+    "code": "11020212201",
+    "name": "DON BOSCO MALBASEY"
+  },
+  {
+    "id": 363,
+    "code": "11020200403",
+    "name": "GRACE ACADEMY"
+  },
+  {
+    "id": 364,
+    "code": "11020205102",
+    "name": "GYANUDAYA ACADEMY MEMDOGOAN"
+  },
+  {
+    "id": 365,
+    "code": "11020214201",
+    "name": "LITTLE ANGEL ACADEMY, PIPALAY"
+  },
+  {
+    "id": 366,
+    "code": "11020213701",
+    "name": "MT OLIVES ENGLISH SCHOOL"
+  },
+  {
+    "id": 367,
+    "code": "11020200803",
+    "name": "BLOOM ACADEMY"
+  },
+  {
+    "id": 368,
+    "code": "11020200802",
+    "name": "RAMAN HIDDEN VALLEY ACADEMY"
+  },
+  {
+    "id": 369,
+    "code": "11020200604",
+    "name": "WISE TEMPLE ACADEMY"
+  },
+  {
+    "id": "370",
+    "code": "11020202702",
+    "name": "ADONAI HOMES"
   }
    ]
