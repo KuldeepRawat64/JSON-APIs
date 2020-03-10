@@ -298,5 +298,155 @@
     "id": 60,
     "code": "11040305503",
     "name": "ENLIGHTEN ACADEMY"
+  },
+  {
+    "id": 61,
+    "code": "11040305702",
+    "name": "KIDS WORLD (PVT)"
+  },
+  {
+    "id": 62,
+    "code": "11040305802",
+    "name": "MAYAL ENG SCHOOL (PVT)"
+  },
+  {
+    "id": 63,
+    "code": "11040305502",
+    "name": "NORTH POINT SCHOOL"
+  },
+  {
+    "id": 64,
+    "code": "11040305805",
+    "name": "PARADISE ACADEMY"
+  },
+  {
+    "id": 65,
+    "code": "11040305804",
+    "name": "RAINDOW PRY (PVT)"
+  },
+  {
+    "id": 66,
+    "code": "11040305706",
+    "name": "TAKTSE INTERNATIONAL SCHOOL"
+  },
+  {
+    "id": 67,
+    "code": "11040603202",
+    "name": "ANSHU ACADEMY"
+  },
+  {
+    "id": 68,
+    "code": "11040604802",
+    "name": "BETHESDA ACADEMY (PVT)"
+  },
+  {
+    "id": 69,
+    "code": "11040604502",
+    "name": "BRIGHT LIFE ACADEMY"
+  },
+  {
+    "id": 70,
+    "code": "11040604902",
+    "name": "GREEN FILED ACADEMY (PVT)"
+  },
+  {
+    "id": 71,
+    "code": "11040603102",
+    "name": "ST. THOMAS SCHOOL"
+  },
+  {
+    "id": 72,
+    "code": "11040601604",
+    "name": "ADARSH VIDHYA MANDIR"
+  },
+  {
+    "id": 73,
+    "code": "11040602608",
+    "name": "ARCHIGOS PREPARATORY ACADEMY"
+  },
+  {
+    "id": 74,
+    "code": "11040601102",
+    "name": "BAPTIST ENG . SCHOOL (PVT)"
+  },
+  {
+    "id": 75,
+    "code": "11040602001",
+    "name": "EAST POINT SS (PVT)"
+  },
+  {
+    "id": 76,
+    "code": "11040601402",
+    "name": "GOD WIN ENG SCHOOL (PVT)"
+  },
+  {
+    "id": 77,
+    "code": "11040603801",
+    "name": "KING GEORGE ACADEMY"
+  },
+  {
+    "id": 78,
+    "code": "11040602604",
+    "name": "NEW GARDEN BDG. SCHOOL"
+  },
+  {
+    "id": 79,
+    "code": "11040601103",
+    "name": "NIM VALLEY SCHOOL"
+  },
+  {
+    "id": 80,
+    "code": "11040602602",
+    "name": "P.NM SCHOOL (PVT)"
+  },
+  {
+    "id": 81,
+    "code": "11040602605",
+    "name": "RADIANT STARS ACADEMY"
+  },
+  {
+    "id": 82,
+    "code": "11040601202",
+    "name": "REHMA ENGLISH SCHOOL"
+  },
+  {
+    "id": 83,
+    "code": "11040602607",
+    "name": "SIGALILA ACADEMY"
+  },
+  {
+    "id": 84,
+    "code": "11040602502",
+    "name": "TRUE LIGHT ACADEMY"
+  },
+  {
+    "id": 85,
+    "code": "11041000803",
+    "name": "BAHA'I SCHOOL, SARAMSA"
+  },
+  {
+    "id": 86,
+    "code": "11041000802",
+    "name": "CANAAN SCHOOL"
+  },
+  {
+    "id": 87,
+    "code": "11041000808",
+    "name": "HIMALAYAN ACADEMY"
+  },
+  {
+    "id": 88,
+    "code": "11041000801",
+    "name": "INDRAKIL SARASWATI VIDHALAYA"
+  },
+  {
+    "id": 89,
+    "code": "11041000805",
+    "name": "SARASWATI VIDYA NIKETAN"
+  },
+  {
+    "id": 90,
+    "code": "11041000103",
+    "name": "SUNMARG ACADEMY"
   }
    ]
