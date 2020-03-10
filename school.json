@@ -148,5 +148,55 @@
     "id": 30,
     "code": "11040302012",
     "name": "GREEN DALE SSS"
+  },
+  {
+    "id": 31,
+    "code": "11040302202",
+    "name": "HOLY CROSS (PVT)"
+  },
+  {
+    "id": 32,
+    "code": "11040302002",
+    "name": "JOYBELLS (PVT)"
+  },
+  {
+    "id": 33,
+    "code": "11040302009",
+    "name": "MICKEYS INTERNATIONAL SCHOOL"
+  },
+  {
+    "id": 34,
+    "code": "11040302005",
+    "name": "MOUNT ZION KIDZEE"
+  },
+  {
+    "id": 35,
+    "code": "11040301010",
+    "name": "MT.CARMEL ACADEMY"
+  },
+  {
+    "id": 36,
+    "code": "11040301008",
+    "name": "PALDEN KHANGSAR SCHOOL"
+  },
+  {
+    "id": 37,
+    "code": "11040302004",
+    "name": "ROCK VALE ACADEMY"
+  },
+  {
+    "id": 38,
+    "code": "11040302303",
+    "name": "SAI GURUKUL ACADEMY"
+  },
+  {
+    "id": 39,
+    "code": "11040302011",
+    "name": "SARASWATI VIDYA NIKETAN"
+  },
+  {
+    "id": 40,
+    "code": "11040301007",
+    "name": "SA-VELLIE ROW"
   }
    ]
