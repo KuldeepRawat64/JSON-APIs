@@ -1248,5 +1248,205 @@
     "id": 250,
     "code": "11030207802",
     "name": "GENERATION NEXT ACADEMY"
+  },
+  {
+    "id": 251,
+    "code": "11030206905",
+    "name": "LITTLE SCHOLRS ACADEMY"
+  },
+  {
+    "id": 252,
+    "code": "11030206904",
+    "name": "SOUTH POINT ACADEMY"
+  },
+  {
+    "id": 253,
+    "code": "11030206902",
+    "name": "ST.JOSEPH SCHOOL"
+  },
+  {
+    "id": 254,
+    "code": "11030500602",
+    "name": "SHARON VALLEY SCHOOL"
+  },
+  {
+    "id": 255,
+    "code": "11030801503",
+    "name": "GREEN HILL ACADEMY"
+  },
+  {
+    "id": 256,
+    "code": "11030801403",
+    "name": "LIGHT OF LIFE ACADEMY"
+  },
+  {
+    "id": 257,
+    "code": "11030801702",
+    "name": "SOUTH PIONT ACADEMY"
+  },
+  {
+    "id": 258,
+    "code": "11030801404",
+    "name": "ST. THOMAS SCHOOL"
+  },
+  {
+    "id": 259,
+    "code": "11030801502",
+    "name": "ST.PAUL JHS"
+  },
+  {
+    "id": 260,
+    "code": "11030801402",
+    "name": "SUN SHINE ENGLISH SCHOOL"
+  },
+  {
+    "id": 261,
+    "code": "11030800302",
+    "name": "GRACE ENGLISH SCHOOL"
+  },
+  {
+    "id": 262,
+    "code": "11030800103",
+    "name": "LORETO CONVENT SCHOOL"
+  },
+  {
+    "id": 263,
+    "code": "11030800105",
+    "name": "STERLINE ACADEMY"
+  },
+  {
+    "id": 264,
+    "code": "11030802502",
+    "name": "ANUGRAH PS MANPUR"
+  },
+  {
+    "id": 265,
+    "code": "11030800403",
+    "name": "EUREKA ENGLISH SCHOOL"
+  },
+  {
+    "id": 266,
+    "code": "11030800405",
+    "name": "MATRI ACADEMY"
+  },
+  {
+    "id": 267,
+    "code": "11030800603",
+    "name": "ST STEPHEN'S SCHOOL"
+  },
+  {
+    "id": 268,
+    "code": "11030800406",
+    "name": "ST.PETER ENGLISH SCHOOL"
+  },
+  {
+    "id": 269,
+    "code": "11030802402",
+    "name": "ANGLES ENGLISH SCHOOL"
+  },
+  {
+    "id": 270,
+    "code": "11030802403",
+    "name": "MOUNT CARMEL SCHOOL"
+  },
+  {
+    "id": 271,
+    "code": "11030802404",
+    "name": "PRASANSHA ENGLISH SCHOOL"
+  },
+  {
+    "id": 272,
+    "code": "11030302505",
+    "name": "SARASWATI SISHU VIDYALAYA"
+  },
+  {
+    "id": 273,
+    "code": "11030300603",
+    "name": "BRIGHT LIFE ENGLISH SCHOOL"
+  },
+  {
+    "id": 274,
+    "code": "11030300602",
+    "name": "MOUNT OLIVES ACADEMY"
+  },
+  {
+    "id": 275,
+    "code": "11030301102",
+    "name": "LITTLE ANGELS ACADEMY"
+  },
+  {
+    "id": 276,
+    "code": "11030300703",
+    "name": "PRATIVA ACADEMY"
+  },
+  {
+    "id": 277,
+    "code": "11030300704",
+    "name": "SARASWATI SHISHU VIDYALAYA"
+  },
+  {
+    "id": 278,
+    "code": "11030302401",
+    "name": "SARASWATI SISHU VIDHLAYA"
+  },
+  {
+    "id": 279,
+    "code": "11030300702",
+    "name": "SUNSHINE ACADEMY"
+  },
+  {
+    "id": 280,
+    "code": "11030301302",
+    "name": "EDEN GARDEN"
+  },
+  {
+    "id": 281,
+    "code": "11030301804",
+    "name": "HIMALAYAN SCHOOL"
+  },
+  {
+    "id": 282,
+    "code": "11030301803",
+    "name": "JUVENTUS ACADEMY"
+  },
+  {
+    "id": 283,
+    "code": "11030301603",
+    "name": "KALIKA SANSKRIT VIDHYALAYA"
+  },
+  {
+    "id": 284,
+    "code": "11030302002",
+    "name": "MANJUSRI PUBLIC SCHOOL"
+  },
+  {
+    "id": 285,
+    "code": "11030301902",
+    "name": "PARAMOUNT E.SCHOOL"
+  },
+  {
+    "id": 286,
+    "code": "11030302301",
+    "name": "SAIPARTI VIDYA MANDIR"
+  },
+  {
+    "id": 287,
+    "code": "11030702002",
+    "name": "ST PETERS SCHOOL"
+  },
+  {
+    "id": 288,
+    "code": "11030701603",
+    "name": "GREENVALE ACADEMY"
+  },
+  {
+    "id": 289,
+    "code": "11030701703",
+    "name": "EAST POINT ENGLISH SCHOOL"
+  },
+  {
+    "id": 290,
+    "code": "11030700104",
+    "name": "EAST POINT SCHOOL"
   }
    ]
