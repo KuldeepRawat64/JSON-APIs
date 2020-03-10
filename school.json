@@ -198,5 +198,105 @@
     "id": 40,
     "code": "11040301007",
     "name": "SA-VELLIE ROW"
+  },
+  {
+    "id": 41,
+    "code": "11040301004",
+    "name": "SERNYA SCHOOL"
+  },
+  {
+    "id": 42,
+    "code": "11040301105",
+    "name": "SYARI MODEL SCHOOL"
+  },
+  {
+    "id": 43,
+    "code": "11040302203",
+    "name": "TINY PEARLS"
+  },
+  {
+    "id": 44,
+    "code": "11040302013",
+    "name": "TOUCH WOOD ACADEMY"
+  },
+  {
+    "id": 45,
+    "code": "11040305504",
+    "name": "ANNES HOUSE"
+  },
+  {
+    "id": 46,
+    "code": "11040300808",
+    "name": "ANNES HOUSE NUSERY"
+  },
+  {
+    "id": 47,
+    "code": "11040300815",
+    "name": "DAFFODILS' HOME"
+  },
+  {
+    "id": 48,
+    "code": "11040304204",
+    "name": "HAPPY HOURS (PVT)"
+  },
+  {
+    "id": 49,
+    "code": "11040304206",
+    "name": "INDRIA GHANDHI"
+  },
+  {
+    "id": 50,
+    "code": "11040300817",
+    "name": "KIDDIES CORNER"
+  },
+  {
+    "id": 51,
+    "code": "11040300812",
+    "name": "KYI-DE-KHANG SEC.SCHOOL"
+  },
+  {
+    "id": 52,
+    "code": "11040300805",
+    "name": "LITTLE ANGELS ACADEMY"
+  },
+  {
+    "id": 53,
+    "code": "11040314901",
+    "name": "MANJUSRI CITY (PUBLIC) SCHOOL"
+  },
+  {
+    "id": 54,
+    "code": "11040316001",
+    "name": "MARIGOLD ACADEMY"
+  },
+  {
+    "id": 55,
+    "code": "11040315601",
+    "name": "PALKHANG ACADEMY"
+  },
+  {
+    "id": 56,
+    "code": "11040302302",
+    "name": "PRASHANT VIDYA MANDIR SS(PVT)"
+  },
+  {
+    "id": 57,
+    "code": "11040300907",
+    "name": "ST. JOHN'S JHS SCHOOL"
+  },
+  {
+    "id": 58,
+    "code": "11040300810",
+    "name": "ST. THOMAS SCHOOL"
+  },
+  {
+    "id": 59,
+    "code": "11040300816",
+    "name": "WREN'S PUBLIC SCHOOL"
+  },
+  {
+    "id": 60,
+    "code": "11040305503",
+    "name": "ENLIGHTEN ACADEMY"
   }
    ]
