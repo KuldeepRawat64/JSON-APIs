@@ -1448,5 +1448,155 @@
     "id": 290,
     "code": "11030700104",
     "name": "EAST POINT SCHOOL"
+  },
+   {
+    "id": 291,
+    "code": "11030700105",
+    "name": "MAINUM NURSERY SCHOOL"
+  },
+  {
+    "id": 292,
+    "code": "11030700103",
+    "name": "SOUTH POINT ACADEMY"
+  },
+  {
+    "id": 293,
+    "code": "11020700202",
+    "name": "CAROL ACADEMY"
+  },
+  {
+    "id": 294,
+    "code": "11020700107",
+    "name": "EUREKA RESIDENTIAL SCHOOL"
+  },
+  {
+    "id": 295,
+    "code": "11020700106",
+    "name": "EVERGREEN ENGLISH SCHOOL"
+  },
+  {
+    "id": 296,
+    "code": "11020700204",
+    "name": "HIMALAYAN ENGLISH ACADEMY"
+  },
+  {
+    "id": 297,
+    "code": "11020700203",
+    "name": "HOLYCROSS ENGLISH SCHOOL"
+  },
+  {
+    "id": 298,
+    "code": "11020700102",
+    "name": "PARSURAM MEMORIAL ACADEMY"
+  },
+  {
+    "id": 299,
+    "code": "11020700104",
+    "name": "SHANTI MEMORIAL ACADEMY"
+  },
+  {
+    "id": 300,
+    "code": "11020700103",
+    "name": "SUN RISE ENGLISH SCHOOL"
+  },
+  {
+    "id": 301,
+    "code": "11020700105",
+    "name": "SWARSWATI BAL VIDHALAYA"
+  },
+  {
+    "id": 302,
+    "code": "11020500104",
+    "name": "HIMALAYAN ACADEMY LUNGCHOK"
+  },
+  {
+    "id": 303,
+    "code": "11020501002",
+    "name": "MODEL ENGLISH SCHOOL"
+  },
+  {
+    "id": 304,
+    "code": "11020500105",
+    "name": "RRAGHUNANDA SAPKOTA MEMORIAL SCHOOL"
+  },
+  {
+    "id": 305,
+    "code": "11020500103",
+    "name": "UNITED ACADEMY SCHOOL DARAMDIN"
+  },
+  {
+    "id": 306,
+    "code": "11020500303",
+    "name": "HIMALAYAN RISING ACADEMY"
+  },
+  {
+    "id": 307,
+    "code": "11020500210",
+    "name": "LILLYFIELD ACADEMY"
+  },
+  {
+    "id": 308,
+    "code": "11020500209",
+    "name": "PRATAP INTERNATIONAL SCHOOL"
+  },
+  {
+    "id": 309,
+    "code": "11020500208",
+    "name": "SAI GURUKUL ACADEMY"
+  },
+  {
+    "id": 310,
+    "code": "11020500203",
+    "name": "SUNRISE ACADEMY SCHOOL"
+  },
+  {
+    "id": 311,
+    "code": "11020500206",
+    "name": "WOODSTOCK SCHOOL SOMBAREY"
+  },
+  {
+    "id": 312,
+    "code": "11020400203",
+    "name": "MOUNT KANCHAN ACADEMY"
+  },
+  {
+    "id": 313,
+    "code": "11020400204",
+    "name": "NEW WISDOM ACADEMY"
+  },
+  {
+    "id": 314,
+    "code": "11020400202",
+    "name": "ROSHAN MEMORIAL ACADEMY"
+  },
+  {
+    "id": 315,
+    "code": "11020400604",
+    "name": "ST. PAUL'S SCHOOL CHANGEY"
+  },
+  {
+    "id": 316,
+    "code": "11020400602",
+    "name": "SUN RISE ACADEMY"
+  },
+  {
+    "id": 317,
+    "code": "11020401202",
+    "name": "VINEYARD PRIVATE SCHOOL"
+  },
+  {
+    "id": 318,
+    "code": "11020404301",
+    "name": "MOUNT ZION ACADEMY HEE"
+  },
+  {
+    "id": 319,
+    "code": "11020404302",
+    "name": "POLE STAR ENGLISH SCHOOL HEE"
+  },
+  {
+    "id": 320,
+    "code": "11020400402",
+    "name": "BAL JYOTI VIDYA PITH"
   }
    ]
