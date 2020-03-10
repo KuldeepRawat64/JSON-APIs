@@ -648,5 +648,205 @@
     "id": 130,
     "code": "11040900105",
     "name": "BLOOSOM (PVT)"
+  },
+  {
+    "id": 131,
+    "code": "11040900110",
+    "name": "KARMA DHARMA CHAKRA UPS"
+  },
+  {
+    "id": 132,
+    "code": "11040902001",
+    "name": "MAYAL KATEN NAMGYALLING ACADEMY SCHOOL"
+  },
+  {
+    "id": 133,
+    "code": "11040900106",
+    "name": "PIONEER PREPARATORY SCHOOL"
+  },
+  {
+    "id": 134,
+    "code": "11040400107",
+    "name": "DOLPHIN ACADEMY"
+  },
+  {
+    "id": 135,
+    "code": "11040400104",
+    "name": "GREAT HEIGHT ACADEMY"
+  },
+  {
+    "id": 136,
+    "code": "11040401502",
+    "name": "RAINBOW ACADEMY (PVT)"
+  },
+  {
+    "id": 137,
+    "code": "11040400108",
+    "name": "ST MARY SCHOOL"
+  },
+  {
+    "id": 138,
+    "code": "11040400602",
+    "name": "RISING NURSERY ACADEMY (PVT)"
+  },
+  {
+    "id": 139,
+    "code": "11040400605",
+    "name": "SARASWATI SISHU VIDYALA"
+  },
+  {
+    "id": 140,
+    "code": "11040404004",
+    "name": "SARASWATI VIDYA NIKETAN"
+  },
+  {
+    "id": 141,
+    "code": "11040404005",
+    "name": "ST JOSEPH SCHOOL"
+  },
+  {
+    "id": 142,
+    "code": "11040401002",
+    "name": "BOSKO ENG SCHOOL (PVT)"
+  },
+  {
+    "id": 143,
+    "code": "11040400205",
+    "name": "GOOD STAR ENG SCHOOL"
+  },
+  {
+    "id": 144,
+    "code": "11040401803",
+    "name": "PEMA TSEL ACADEMY"
+  },
+  {
+    "id": 145,
+    "code": "11040400204",
+    "name": "SARASWATI SISHU MANDIR"
+  },
+  {
+    "id": 146,
+    "code": "11040402202",
+    "name": "LITTLE STARS ACADEMY"
+  },
+  {
+    "id": 147,
+    "code": "11040400209",
+    "name": "RIVERINE ELEMENTRY SCHOOL"
+  },
+  {
+    "id": 148,
+    "code": "11040400203",
+    "name": "SUNRISE MODEL"
+  },
+  {
+    "id": 149,
+    "code": "11040400208",
+    "name": "VIDYA BHARATI SCHOOL"
+  },
+  {
+    "id": 150,
+    "code": "11040506802",
+    "name": "BAHAI SCHOOL (PVT)"
+  },
+  {
+    "id": 151,
+    "code": "11040500803",
+    "name": "BLOOMING BUDS ACADEMY"
+  },
+  {
+    "id": 152,
+    "code": "11040501303",
+    "name": "EVERSHINE ACADEMY"
+  },
+  {
+    "id": 153,
+    "code": "11040500104",
+    "name": "DONALD MEMORIAL ACADEMY (PVT"
+  },
+  {
+    "id": 154,
+    "code": "11040500302",
+    "name": "SEVENTH-DAY ADVANTIST MISSION SCHOOL"
+  },
+  {
+    "id": 155,
+    "code": "11010200303",
+    "name": "MOON LIGHT SCHOOL"
+  },
+  {
+    "id": 156,
+    "code": "11010200304",
+    "name": "MT.EVEREST SCHOOL"
+  },
+  {
+    "id": 157,
+    "code": "11010300202",
+    "name": "GREENVALE ACADEMY"
+  },
+  {
+    "id": 158,
+    "code": "11010300203",
+    "name": "KANCHANJUNGA ACADEMY"
+  },
+  {
+    "id": 159,
+    "code": "11010301001",
+    "name": "NORTHWAY ACADEMY"
+  },
+  {
+    "id": 160,
+    "code": "11010302501",
+    "name": "JUBILANT PVT SCHOOL"
+  },
+  {
+    "id": 161,
+    "code": "11010102008",
+    "name": "IDEAL NURSURY SCHOOL"
+  },
+  {
+    "id": 162,
+    "code": "11010102011",
+    "name": "LITTLE FLOWER NURSERY (PRY)"
+  },
+  {
+    "id": 163,
+    "code": "11010102009",
+    "name": "MANGAN PUBLIC SCHOOL"
+  },
+  {
+    "id": 164,
+    "code": "11010102102",
+    "name": "NORTH SIKKIM ACADEMY"
+  },
+  {
+    "id": 165,
+    "code": "11010102007",
+    "name": "PLAY AND LEARN NURSERY SCHOOL"
+  },
+  {
+    "id": 166,
+    "code": "11010102006",
+    "name": "ST. JOSEPH"
+  },
+  {
+    "id": 167,
+    "code": "11010102702",
+    "name": "KID FOUNDATION ENGLISH SCHOOL"
+  },
+  {
+    "id": 168,
+    "code": "11010102503",
+    "name": "MARIGOLD PRIVATE SCHOOL"
+  },
+  {
+    "id": 169,
+    "code": "11010100105",
+    "name": "ST. JOSEPH'S"
+  },
+  {
+    "id": 170,
+    "code": "11010102104",
+    "name": "LITTLE FLOWER NURSERY SCHOOL"
   }
    ]
