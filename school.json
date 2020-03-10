@@ -848,5 +848,255 @@
     "id": 170,
     "code": "11010102104",
     "name": "LITTLE FLOWER NURSERY SCHOOL"
+  },
+  {
+    "id": 171,
+    "code": "11010100301",
+    "name": "ZENITH PUBLIC SCHOOL"
+  },
+  {
+    "id": 172,
+    "code": "11010404002",
+    "name": "REPBOM ENGLISH ACADEMY"
+  },
+  {
+    "id": 173,
+    "code": "11010403303",
+    "name": "MOUNT PANDIM PRESTINE ACADEMY"
+  },
+  {
+    "id": 174,
+    "code": "11010402601",
+    "name": "CHILDREN'S WORLD ACADEMY"
+  },
+  {
+    "id": 175,
+    "code": "11010401702",
+    "name": "MAYAL LYANG ACADEMY"
+  },
+  {
+    "id": 176,
+    "code": "11030400802",
+    "name": "HIMALAYAN GRACE ACADEMY"
+  },
+  {
+    "id": 177,
+    "code": "11030401602",
+    "name": "LITTLE ANGELS' ACADEMY"
+  },
+  {
+    "id": 178,
+    "code": "11030401502",
+    "name": "MT. OLIVE ACADEMY"
+  },
+  {
+    "id": 179,
+    "code": "11030401501",
+    "name": "NABIL`S MEMORIAL SECONDARY SCHOOL"
+  },
+  {
+    "id": 180,
+    "code": "11030401601",
+    "name": "NEW BUDS ACADEMY"
+  },
+  {
+    "id": 181,
+    "code": "11030400403",
+    "name": "PRASHANTI VIDYA GIRI"
+  },
+  {
+    "id": 182,
+    "code": "11030401103",
+    "name": "ROYAL ACADEMY"
+  },
+  {
+    "id": 183,
+    "code": "11030400402",
+    "name": "ST. FRANCIS` SCHOOL"
+  },
+  {
+    "id": 184,
+    "code": "11030401104",
+    "name": "VICTORY ACADEMY"
+  },
+  {
+    "id": 185,
+    "code": "11030401101",
+    "name": "BAPTIST ENGLISH SCHOOL"
+  },
+  {
+    "id": 186,
+    "code": "11030401105",
+    "name": "EVERSHINE ACADEMY"
+  },
+  {
+    "id": 187,
+    "code": "11030400302",
+    "name": "HEBRON ACADEMY"
+  },
+  {
+    "id": 188,
+    "code": "11030400404",
+    "name": "VISION ACADEMY"
+  },
+  {
+    "id": 189,
+    "code": "11030108702",
+    "name": "ST THOMAS SCHOOL"
+  },
+  {
+    "id": 190,
+    "code": "11030102703",
+    "name": "AROMA ACADEMY"
+  },
+  {
+    "id": 191,
+    "code": "11030102704",
+    "name": "GRACE ACADEMY"
+  },
+  {
+    "id": 192,
+    "code": "11030103302",
+    "name": "RANGUTHANG HEDH-ZI-BAH"
+  },
+  {
+    "id": 193,
+    "code": "11030102702",
+    "name": "TENDER BUDS PRIVATE SCHOOL"
+  },
+  {
+    "id": 194,
+    "code": "11030114802",
+    "name": "BETHANY EDUCATIONAL INSTITUTIO"
+  },
+  {
+    "id": 195,
+    "code": "11030116203",
+    "name": "FUTURE BRIGHTER ACADEMY"
+  },
+  {
+    "id": 196,
+    "code": "11030110403",
+    "name": "ST MARY'S SCHOOL"
+  },
+  {
+    "id": 197,
+    "code": "11030109102",
+    "name": "MODERN ACADEMY"
+  },
+  {
+    "id": 198,
+    "code": "11030117201",
+    "name": "ST.TERESA'S SCHOOL"
+  },
+  {
+    "id": 199,
+    "code": "11030110902",
+    "name": "BETHAL ACADEMY"
+  },
+  {
+    "id": 200,
+    "code": "11030113604",
+    "name": "BETHANY SCHOOL"
+  },
+  {
+    "id": 201,
+    "code": "11030104705",
+    "name": "DEFFODIL'S ACADEMY"
+  },
+  {
+    "id": 202,
+    "code": "11030116401",
+    "name": "EBENEZER ACADEMY"
+  },
+  {
+    "id": 203,
+    "code": "11030104706",
+    "name": "ENLIGHTEN EDU.INST."
+  },
+  {
+    "id": 204,
+    "code": "11030114602",
+    "name": "EVERSHINE ACADEMY"
+  },
+  {
+    "id": 205,
+    "code": "11030113605",
+    "name": "GREENFINCH SCHOOL"
+  },
+  {
+    "id": 206,
+    "code": "11030113606",
+    "name": "J M K MEMORIAL SCHOOL"
+  },
+  {
+    "id": 207,
+    "code": "11030111402",
+    "name": "KINCHIN CASTLE ACADEMY"
+  },
+  {
+    "id": 208,
+    "code": "11030111502",
+    "name": "LORD JESUS SCHOOL"
+  },
+  {
+    "id": 209,
+    "code": "11030116402",
+    "name": "MANJUSHREE ACADEMY"
+  },
+  {
+    "id": 210,
+    "code": "11030113601",
+    "name": "MOUNT CARMEL"
+  },
+  {
+    "id": 211,
+    "code": "11030113602",
+    "name": "NAMCHI PUBLIC SCHOOL"
+  },
+  {
+    "id": 212,
+    "code": "11030113502",
+    "name": "NEW LIGHT ACADEMY"
+  },
+  {
+    "id": 213,
+    "code": "11030113501",
+    "name": "NEW LIGHT ACADEMY"
+  },
+  {
+    "id": 214,
+    "code": "11030119201",
+    "name": "PARAMOUNT ACADEMY"
+  },
+  {
+    "id": 215,
+    "code": "11030111403",
+    "name": "SEVEN HILLS SCHOOL"
+  },
+  {
+    "id": 216,
+    "code": "11030113202",
+    "name": "SHALOM ACADEMY"
+  },
+  {
+    "id": 217,
+    "code": "11030111104",
+    "name": "SOUTHERN LIGHTS ACADEMY"
+  },
+  {
+    "id": 218,
+    "code": "11030103304",
+    "name": "ST.TERESA'S SCHOOL"
+  },
+  {
+    "id": 219,
+    "code": "11030113603",
+    "name": "SUNSHINE ACADEMY"
+  },
+  {
+    "id": 220,
+    "code": "11030113301",
+    "name": "TENDONG EDUCATIONAL INSTITUTE"
   }
    ]
