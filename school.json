@@ -7474,5 +7474,346 @@
     "id":1509,
     "code":"11040300811",
     "name":"PALJOR NAMGYAL GIRLS SCHOOL"
-  }
+  },
+  {
+    "id":1510,
+    "name":"Aditya Birla World Academy"
+    
+  },
+  {
+    "id":1511,
+   "name":"Ajmera Global School"
+  },
+  {
+    "id":1512,
+ "name":"American School of Bombay"
+  },
+  {
+    "id":1513,
+ "name":"Apeejay School, Nerul"
+  },
+  {
+    "id":1514,
+ "name":"Aryan E S High School"
+  },
+  {
+    "id":1515,
+ "name":"Balmohan Vidyamandir"
+  },
+  {
+    "id":1516,
+ "name":"BD Somani International School"
+  },
+  {
+    "id":1517,
+ "name":"Bombay Scottish School, Mahim"
+  },
+  {
+    "id":1518,
+"name":"Bombay Scottish School, Powai"
+},
+{
+  "id":1519,
+ "name":"Billabong High International School"
+},
+{
+  "id":1520,
+ "name":"B P M High School"
+},
+{
+  "id":1521,
+ "name":"Cambridge School (Kandivali)"
+},
+{
+  "id":1522,
+ "name":"Campion School, Mumbai"
+},
+{
+  "id":1523,
+ "name":"Cardinal Gracias High School"
+},
+{
+  "id":1524,
+ "name":"Cathedral and John Connon School"
+},
+{
+  "id":1525,
+ "name":"Children's Academy"
+},
+{
+  "id":1526,
+ "name":"Christ Church School"
+},
+{
+  "id":1527,
+ "name":"Cosmopolitan High School"
+},
+{
+  "id":1528,
+ "name":"C P Goenka International School"
+},
+{
+  "id":1529,
+ "name":"Dayanand Anglo Vedic Public School, Airoli"
+},
+{
+  "id":1530,
+ "name":"Dhirubhai Ambani International School"
+},
+{
+  "id":1531,
+ "name":"Don Bosco High School, Matunga"
+},
+{
+  "id":1532,
+ "name":"Dr. Antonio Da Silva High School and Junior College of Commerce"
+},
+{
+  "id":1533,
+ "name":"DSB International School"
+},
+{
+  "id":1534,
+ "name":"E.E.E. Sassoon High School"
+},
+{
+  "id":1535,
+ "name":"Ecole Mondiale World School, Juhu"
+},
+{
+  "id":1536,
+ "name":"Edubridge International School"
+},
+{
+  "id":1537,
+ "name":"Fort Convent School, Mumbai"
+},
+{
+  "id":1538,
+ "name":"Fr. Agnel Multipurpose School and Junior College"
+},
+{
+  "id":1539,
+ "name":"Girton High School"
+},
+{
+  "id":1540,
+ "name":"Gokuldham High School"
+},
+{
+  "id":1541,
+ "name":"Greenlawns High School"
+},
+{
+  "id":1542,
+"name":"Garodia International Centre for Learning"
+},
+{
+  "id":1543,
+ "name":"Gundecha Education Academy"
+},
+{
+  "id":1544,
+ "name":"Gyan Kendra Secondary School"
+},
+{
+  "id":1545,
+ "name":"Hansraj Morarji Public School"
+},
+{
+  "id":1546,
+ "name":"Hiranandani Foundation School, Powai"
+},
+{
+  "id":1547,
+"name":"Holy Family High School (Mumbai, India)|Holy Family High School"
+},
+{
+  "id":1548,
+ "name":"Inodai Waldorf School"
+},
+{
+"id":1549,
+ "name":"Jamnabai Narsee School"
+},
+{
+  "id":1550,
+"name":"J.B. Petit High School for Girls"
+},
+{
+  "id":1551,
+ "name":"Kendriya Vidyalaya, IIT Powai"
+},
+{
+  "id":1552,
+"name":"Lakshdham High School"
+},
+{
+  "id":1553,
+"name":"Lilavatibai Podar High School"
+},
+{
+  "id":1554,
+ "name":"MET Rishikul Vidyalaya"
+},
+{
+  "id":1555,
+ "name":"M.S.P.T High School"
+},
+{
+  "id":1556,
+ "name":"Navy Children School, Mumbai"
+},
+{
+  "id":1557,
+ "name":"NES High School"
+},
+{
+  "id":1558,
+ "name":"Oberoi International School"
+},
+{
+  "id":1559,
+ "name":"Our Lady of Perpetual Succour High School"
+},
+{
+  "id":1560,
+ "name":"Parle Tilak Vidyalaya Marathi Medium Secondary School"
+},
+{
+  "id":1561,
+ "name":"Pawar Public School"
+},
+{
+  "id":1562,
+ "name":"Podar International School"
+},
+{
+  "id":1563,
+"name":"R D Memorial High School, Naigaon"
+},
+{
+  "id":1564,
+ "name":"R. N. Podar School"
+},
+{
+  "id":1565,
+ "name":"Raja Shivaji Vidyalaya"
+},
+{
+  "id":1566,
+ "name":"Rajhans Vidyalaya"
+},
+{
+  "id":1567,
+ "name":"RBK International Academy"
+},
+{
+  "id":1568,
+ "name":"Reverend C. F. Andrews High School"
+},
+{
+  "id":1569,
+ "name":"Ryan International Schools"
+},
+{
+  "id":1570,
+ "name":"Saint Francis D'Assisi High School"
+},
+{
+  "id":1580,
+ "name":"Seven Eleven Scholastic School, Mira Road"
+},
+{
+  "id":1581,
+ "name":"Sharon English High School"
+},
+{
+  "id":1582,
+ "name":"Sheth Gopalji Hemraj High School"
+},
+{
+  "id":1583,
+ "name":"Sheth Madhavdas Amarsey High School"
+},
+{
+  "id":1584,
+ "name":"Sir Cowasjee Jehangir High School"
+},
+{
+  "id":1585,
+ "name":"South Indian Education Society High School"
+},
+{
+  "id":1586,
+ "name":"St. Ignatius High School (Mahalakshmi)"
+},
+{
+  "id":1587,
+ "name":"St. Joseph's High School, Umerkhadi"
+},
+{
+  "id":1588,
+ "name":"St. Mary's High School SSC"
+},
+{
+  "id":1589,
+ "name":"St. Mary's School, Mumbai"
+},
+{
+  "id":1590,
+ "name":"St. Pius X High School, Mumbai"
+},
+{
+  "id":1591,
+ "name":"St. Stanislaus High School"
+},
+{
+  "id":1592,
+ "name":"St. Teresa's High School, Charni Road"
+},
+{
+  "id":1593,
+ "name":"St. Theresa's Boys High School"
+},
+{
+  "id":1594,
+ "name":"St. Xavier's Boys' Academy, Mumbai"
+},
+{
+  "id":1595,
+ "name":"St. Xavier's High School, Fort"
+},
+{
+  "id":1596,
+ "name":"Swami Vivekanand International School and Junior College"
+},
+{
+  "id":1597,
+ "name":"Thakur Public School"
+},
+{
+  "id":1598,
+ "name":"The Blossoms Sunderbai Thackersey English High School"
+},
+{
+  "id":1597,
+ "name":"Cathedral and John Connon School"
+},
+{
+  "id":1598,
+ "name":"Udayachal High School"
+},
+{
+  "id":1599,
+ "name":"Universal English High School Goregaon West"
+},
+{
+  "id":1600,
+ "name":"Utpal Shanghvi School"
+},
+{
+  "id":1601,
+ "name":"Vibgyor High School"
+}
    ]
